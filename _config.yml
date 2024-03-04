@@ -51,7 +51,7 @@ menu:
   - title:             Blog
     url:               /example/
   - title:             CV
-    url:               /CV/
+    url:               /CV/README.md
   - title:             About
     url:               /about/
 
