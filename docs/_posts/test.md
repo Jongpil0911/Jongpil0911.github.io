@@ -8,7 +8,6 @@ description: >
 
 hide_description: true
 sitemap: false
-permalink: /docs/
 ---
 ## **EDUCATION**
 ***
