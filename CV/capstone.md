@@ -5,6 +5,7 @@ description: >
   Base on the Passive Peplography
 hide_description: true
 sitemap: false
+permalink: /docs/
 ---
 
 
