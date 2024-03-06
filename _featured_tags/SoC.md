@@ -1,9 +1,9 @@
 ---
 layout: tag-list
 type: tag
-title: SoC
+title: SoC Design Lab
 slug: SoC
-category: Lab.log
+category: Blog
 sidebar: true
 order: 1
 description: >
