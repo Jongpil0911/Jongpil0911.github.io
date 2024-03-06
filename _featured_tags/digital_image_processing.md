@@ -1,10 +1,10 @@
 ---
 layout: tag-list
-title: Digital image processing
+type: tag
+title: Digital Image Processing
 slug: DIP
 category: study
-menu: false
-submenu: true
+sidebar: true
 order: 1
 description: >
    Algorithm study / Problem solutions
