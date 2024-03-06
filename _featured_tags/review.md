@@ -1,11 +1,11 @@
 ---
 layout: tag-list
 type: tag
-title: Paper review
+title: Paper Review
 slug: review
 category: lab
 sidebar: true
-order: 3
-decription: >
-review the paper what i read
+order: 1
+description: >
+   Referencd for my paper
 ---
