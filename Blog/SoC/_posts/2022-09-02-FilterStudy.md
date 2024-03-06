@@ -3,7 +3,8 @@ layout: post
 title : Filter Study
 sitemap: false
 ---
-# 1. 기본 개념<br/>
+# Filter Study
+## 1. 기본 개념<br/>
 ### 1) 필터의 종류<br/>
    &emsp;&emsp;&emsp;&emsp; 1) FIR (Finite Impulse Response)<br/>
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;필터의 길이가 한정적이고 설계가 쉬우며, 신호를 쉽게 처리 할 수 있다. 영상처리에서는 FIR을 주로 사용한다<br/>
