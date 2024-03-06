@@ -6,5 +6,5 @@ slug: study
 sidebar: true
 order: 2
 description: >
-  Anything about Development
+  Study hard
 ---
