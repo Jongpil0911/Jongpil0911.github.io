@@ -48,8 +48,16 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
+  - title:             Lab.log
     url:               /Blog/
+    submenu:
+    - title:           SoC Design Lab
+      url:             /SoC/
+    - title:           Computational, Holographic and Optical signal processing Lab
+      url:             /Computational, Holographic and Optical signal processing Lab/
+    - title:           Paper review
+      url:             /paper review/
+      
   - title:             Résumé
     url:               /Résumé
   - title:             About
