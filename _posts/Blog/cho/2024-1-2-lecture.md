@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: post
 title: Hankyong National University letcure
-sitemap: false
 category: Blog
 tags: cho
 ---
