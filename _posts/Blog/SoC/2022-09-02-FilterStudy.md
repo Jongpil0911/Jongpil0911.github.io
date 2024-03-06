@@ -1,7 +1,8 @@
 ---
 layout: post
 title : Filter Study
-sitemap: false
+category: Blog
+tags: SoC
 ---
 # Filter Study
 ## 1. 기본 개념<br/>
