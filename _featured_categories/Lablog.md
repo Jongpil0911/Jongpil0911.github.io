@@ -6,5 +6,5 @@ slug: Blog
 sidebar: true
 order: 1
 description: >
-  Anything about development
+  Anything about Development
 ---
