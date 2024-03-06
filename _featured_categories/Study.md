@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Study.log
+type: category
+title: Study log
 slug: study
-menu: true
-submenu: true
+sidebar: true
 order: 2
 description: >
-  Anything about Development
+  Anything about development
 ---
