@@ -422,6 +422,6 @@ jekyll_compose:
         - title: Project Link
           url: https://example.com
 feed:
-categories:
--lab
--study
+  categories:
+    -lab
+    -study
