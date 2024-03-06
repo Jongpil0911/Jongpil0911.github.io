@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jongpil Jeong
+title: Résumé
 permalink: /Résumé/
 sidebar: true
 order: 3
@@ -8,6 +8,7 @@ description: >
 hide_description: true
 sitemap: false
 ---
+# Jongpil Jeong
 Master student<br/>Kyushu institute of Technology<br/>680-4, Kawazu, Iizuka, Fukuoka, Japan<br/><jeongjongpil0911@gmail.com>
 ## EDUCATION
 ***
