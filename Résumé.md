@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Jongpil Jeong
-
+permalink: /Résumé/
+sidebar: true
+order: 3
 description: > 
 hide_description: true
 sitemap: false
