@@ -50,8 +50,8 @@ author:
 menu:
   - title:             Blog
     url:               /example/
-  - title:             CV
-    url:               /CV_preview
+  - title:             Résumé
+    url:               /Résumé
   - title:             About
     url:               /docs/
 
