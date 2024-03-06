@@ -3,9 +3,9 @@ layout: tag-list
 type: tag
 title: SoC Design Labs
 slug: SoC
-category: Blog
+category: Lab
 sidebar: true
 order: 1
 description: >
-   Algorithm study / Problem solutions
+   Image processing and Hardware Design with verilog
 ---
