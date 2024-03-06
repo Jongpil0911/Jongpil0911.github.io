@@ -50,7 +50,7 @@ Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design 
 **Python**, Data science, C/C++, Matlab, **Image processing**
 ## MICRO LEARNING
 ***
-[IC Design Education Center](https://idec.or.kr)<br/>
+[IC Design Education Center](https://idec.or.kr)
 > [CUDA 기반 GPU 프로그래밍 기초](https://idec.or.kr/edu/certificate/print/?&no=107996)<br/>
 >  [MIMO - 이론 및 구현](https://idec.or.kr/edu/certificate/print/?&no=134608)<br/>
 > [PLL 설계와 Jitter 해석](https://idec.or.kr/edu/certificate/print/?&no=105532)<br/>
