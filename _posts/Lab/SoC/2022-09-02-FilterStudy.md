@@ -1,7 +1,7 @@
 ---
 layout: post
 title : Filter Study
-category: lab
+category: lablog
 tags: SoC
 ---
 # Filter Study
