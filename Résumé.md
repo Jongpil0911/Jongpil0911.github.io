@@ -47,6 +47,7 @@ Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design 
 ***
 ## SKILLS AND TECHNIQUES
 ***
+**Python**, Data science, C/C++, Matlab, **Image processing**
 ## MICRO LEARNING
 ***
 [IC Design Education Center](https://idec.or.kr)<br/>
