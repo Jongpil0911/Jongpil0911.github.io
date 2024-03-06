@@ -8,7 +8,7 @@ description: >
 hide_description: true
 sitemap: false
 ---
-# Jongpil Jeong
+<span style="font-size: 25px;">**Jongpil Jeong**</span> <br/>
 Master student<br/>Kyushu institute of Technology<br/>680-4, Kawazu, Iizuka, Fukuoka, Japan<br/><jeongjongpil0911@gmail.com>
 ## EDUCATION
 ***
