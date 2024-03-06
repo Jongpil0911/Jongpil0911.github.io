@@ -1,8 +1,8 @@
 ---
 layout: post
 title : Filter Study
-category: Blog
-tags: SoC
+category: Lab log
+tags: SoC Design Labs
 ---
 # Filter Study
 ## 1. 기본 개념<br/>
