@@ -434,5 +434,5 @@ jekyll_compose:
 # jekyll-feed settings
 feed:
   categories:
-    - Blog
+    - lab
     - study
