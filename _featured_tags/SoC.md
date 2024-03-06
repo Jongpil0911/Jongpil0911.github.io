@@ -1,11 +1,10 @@
 ---
 layout: tag-list
+type: tag
 title: SoC Design Lab
 slug: SoC
 category: Blog
-meue: false
-submenu: ture
-order: 1
+sidebar: true
 description: >
    Algorithm study / Problem solutions
 ---
