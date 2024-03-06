@@ -2,7 +2,7 @@
 layout: tag-list
 type: tag
 title: SoC Design Labs
-slug: Soc
+slug: SoC
 category: Blog
 sidebar: true
 order: 1
