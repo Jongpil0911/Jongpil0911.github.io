@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hankyong National University letcure 1
-category: Lab
+category: lab
 tags: cho
 ---
 # Integral imaging
