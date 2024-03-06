@@ -4,7 +4,7 @@ type: category
 title: Lab.log
 slug: Blog
 sidebar: true
-order: 2
+order: 1
 description: >
   Anything about Development
 ---
