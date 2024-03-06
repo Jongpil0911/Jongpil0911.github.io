@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Lab.log
+type: category
+title: Lab log
 slug: Blog
-menu: true
-submenu: true
+sidebar: true
 order: 1
 description: >
-  Anything about Development
+  Anything about development
 ---
