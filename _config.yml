@@ -10,7 +10,6 @@
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
 # baseurl:               '/hydejack-starter-kit'
-baseurl:               ''
 
 
 # General settings
@@ -18,7 +17,7 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  ko-KR, en-US
+lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 3D Optical Signal System
@@ -49,42 +48,33 @@ author:
 
 # Add links to the sidebar.
 # menu:
-#   - title:             Lab.log
-#     url:               /Blog/
-#     submenu:
-#     - title:           SoC Design Lab
-#       url:             /SoC/
-#     - title:           Computational, Holographic and Optical signal processing Lab
-#       url:             /Computational, Holographic and Optical signal processing Lab/
-#     - title:           Paper review
-#       url:             /paper review/
-      
-#   - title:             Résumé
-#     url:               /Résumé
+#   - title:             Blog
+#     url:               /example/
+#   - title:             CV
+#     url:               /CV/README.md
 #   - title:             About
-#     url:               /docs/
+#     url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-# legal:
+legal:
   - title:             LICENSE
     url:               /LICENSE/
-#   - title:             NOTICE
-#     url:               /NOTICE/
-#   - title:             CHANGELOG
-#     url:               /CHANGELOG/
+  - title:             NOTICE
+    url:               /NOTICE/
+  - title:             CHANGELOG
+    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2021. All rights reserved.
 
 # Format of the permalinks
-# permalink:             /:categories/:year-:month-:day-:title/
-permalink:             none
+permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /page-:num/
-excerpt_separator:     <!--more-->
+paginate_path:         /:num/
+
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -125,7 +115,6 @@ defaults:
   # all pages under a given path:
   - scope:
       path:            hyde/
-      # path:            Résumé.md
     values:
       accent_color:    rgb(38,139,210)
       theme_color:     rgb(32,32,32)
@@ -135,12 +124,12 @@ defaults:
 
   # Don't include documents in assets in the sitemap
   - scope:
-      path:            assets/
+      path:            assets/**
     values:
       sitemap:         false
 
   - scope:
-      path:            licenses/
+      path:            licenses/**
     values:
       layout:          plain
       sitemap:         false
@@ -149,8 +138,8 @@ defaults:
   - scope:
       type:            posts
     values:
-      comments:            true
-      applause_button:       true
+      comments:        true
+      applause_butten: true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
@@ -204,8 +193,7 @@ hydejack:
   project_addons:      [about, newsletter, other, comments]
 
   # Set to `true` if you don't want to show an icon indicating external links
-  # no_mark_external:    false
-  no_mark_external:    true
+  no_mark_external:    false
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_push_state:       false
@@ -229,7 +217,7 @@ hydejack:
 
   # Set to `true` if you don't intend on changing the accent color on a per-page basis. 
   # This will increase site build speed!
-  no_page_style:       true
+  no_page_style:       false
 
   # Code blocks and tables "break" the layout by spanning the full available width.
   # Set this to true if you want them to be the same width as other content.
@@ -244,8 +232,7 @@ hydejack:
   no_third_column:     false
 
   # Set to `true` if you don't like oversized headlines on large screens.
-  # no_large_headings:   false
-  no_large_headings:   true
+  no_large_headings:   false
 
   # Set to `true` if you do not want to expose your resume and projects
   # in machine-readable formats.
@@ -259,11 +246,11 @@ hydejack:
   no_breadcrumbs:      false
 
   # Set to `true` when building with the `--lsi` option
-  use_lsi:             false
+  use_lsi:             true
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      true
+  cookies_banner:      false
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.
@@ -434,8 +421,7 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
-# jekyll-feed settings
 feed:
-  categories:
-    - lab
-    - study
+categories:
+-lab
+-study
