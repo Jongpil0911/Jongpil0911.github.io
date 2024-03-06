@@ -29,10 +29,13 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
 
 ## PUBLICATIONS(SCIE/ESCI)
 ***
+
 ## PUBLICATIONS(DOMESTIC)
 ***
+
 ## CONFERENSES
 ***
+
 ## RESEARCH EXPERIENCES
 ***
 Jul.2023 ~ Aug.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in Kyushu institute of technology (Advisor: Prof. Min-chul Lee)<br/>
@@ -53,14 +56,18 @@ Advisory Professor Scholarship from Dong-A University
 Undergraduate Education Assistant Scholarship from Dong-A University
 - 2023, 1st semester
 - 2022, 2nd semester
+
 ## CERTIFICATION
 ***
+
 ## EXPERIENCES AND LEADERSHIPS
 ***
 Dec.2020 ~ Feb. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President of DongA Ping-Pong Association (DAPPA)
+
 ## SKILLS AND TECHNIQUES
 ***
 **Python**, Data science, C/C++, Matlab, **Image processing**
+
 ## MICRO LEARNING
 ***
 [IC Design Education Center](https://idec.or.kr)
