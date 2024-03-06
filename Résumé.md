@@ -57,7 +57,7 @@ Undergraduate Education Assistant Scholarship from Dong-A University
 ***
 ## EXPERIENCES AND LEADERSHIPS
 ***
-Dec.2020 ~ Feb. 2022&nbsp;&nbsp;&nbsp;&nbsp;President of DongA Ping-Pong Association (DAPPA)
+Dec.2020 ~ Feb. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President of DongA Ping-Pong Association (DAPPA)
 ## SKILLS AND TECHNIQUES
 ***
 **Python**, Data science, C/C++, Matlab, **Image processing**
