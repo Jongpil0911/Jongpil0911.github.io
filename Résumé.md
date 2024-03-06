@@ -41,10 +41,23 @@ Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design 
 
 ## AWARDS ADN HONORS
 ***
+Academic Excellence Scholarship from Dong-A University
+- 2023, 1st / 2nd semester
+- 2022, 2nd semester
+- 2021, 2nd semester
+- 2018, 2nd semester
+
+Advisory Professor Scholarship from Dong-A University
+- 2022, 2nd semester
+
+Undergraduate Education Assistant Scholarship from Dong-A University
+- 2023, 1st semester
+- 2022, 2nd semester
 ## CERTIFICATION
 ***
 ## EXPERIENCES AND LEADERSHIPS
 ***
+Dec.2020 ~ Feb. 2022&nbsp;&nbsp;&nbsp;&nbsp;President of DongA Ping-Pong Association (DAPPA)
 ## SKILLS AND TECHNIQUES
 ***
 **Python**, Data science, C/C++, Matlab, **Image processing**
