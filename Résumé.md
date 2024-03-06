@@ -47,3 +47,15 @@ Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design 
 ***
 ## SKILLS AND TECHNIQUES
 ***
+## MICRO LEARNING
+***
+[IC Design Education Center](https://idec.or.kr)
+> [CUDA 기반 GPU 프로그래밍 기초](https://idec.or.kr/edu/certificate/print/?&no=107996)
+>  [MIMO - 이론 및 구현](https://idec.or.kr/edu/certificate/print/?&no=134608)
+> [PLL 설계와 Jitter 해석](https://idec.or.kr/edu/certificate/print/?&no=105532)
+> [강화학습 기초](https://idec.or.kr/edu/certificate/print/?&no=98962)
+> [MATLAB 기반 디지털 신호처리 응용](https://idec.or.kr/edu/certificate/print/?&no=112429)
+> [Verilog을 이용한 Digital System 설계](https://idec.or.kr/edu/certificate/print/?&no=120472)
+> [인공지능 가속 프로세서](https://idec.or.kr/edu/certificate/print/?&no=112905)
+> [자율주행을 위한 스테레오비전과 인식](https://idec.or.kr/edu/certificate/print/?&no=121088)
+> [Cortex-M 프로세서 기반의 FreeRTOS 포팅 및 활용](https://idec.or.kr/edu/certificate/print/?&no=135572)
