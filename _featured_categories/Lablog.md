@@ -2,7 +2,7 @@
 layout: list
 type: category
 title: Lab log
-slug: lab
+slug: lablog
 sidebar: true
 order: 1
 description: >
