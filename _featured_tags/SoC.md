@@ -1,7 +1,7 @@
 ---
 layout: tag-list
 type: tag
-title: SoC Design Labs
+title: SoC Design Lab
 slug: SoC
 category: lab
 sidebar: true
