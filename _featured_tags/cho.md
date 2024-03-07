@@ -6,5 +6,6 @@ slug: cho
 category: lablog
 sidebar: true
 description: >
-   Algorithm study / Problem solutions
+   3D image sensing and visualization using intergral imaging, Optical encryption, Virtual reality (VR) and augmented reality (AR)<br/>
+   [Homepage](https://3cholab.wordpress.com)
 ---
