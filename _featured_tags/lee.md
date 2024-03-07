@@ -7,4 +7,5 @@ category: lablog
 sidebar: true
 description: >
    Integral imaging, Occlusion removal, Photon counting, Digital Holographic Microscopy
+   [Homepage](https://soc.donga.ac.kr)
 ---
