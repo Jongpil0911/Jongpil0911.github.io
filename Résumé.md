@@ -75,7 +75,7 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President of Dong-A Ping-Pong 
 ***
 [IC Design Education Center](https://idec.or.kr)
 > [CUDA 기반 GPU 프로그래밍 기초](https://idec.or.kr/edu/certificate/print/?&no=107996)<br/>
->  [MIMO - 이론 및 구현](https://idec.or.kr/edu/certificate/print/?&no=134608)<br/>
+> [MIMO - 이론 및 구현](/idec/MIMO.pdf)<br/>
 > [PLL 설계와 Jitter 해석](https://idec.or.kr/edu/certificate/print/?&no=105532)<br/>
 > [강화학습 기초](https://idec.or.kr/edu/certificate/print/?&no=98962)<br/>
 > [MATLAB 기반 디지털 신호처리 응용](https://idec.or.kr/edu/certificate/print/?&no=112429)<br/>
