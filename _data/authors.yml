@@ -23,9 +23,11 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    # twitter:         <username>
-    github:            Jongpil0911
     email:             jeongjongpil0911@gmail.com
+    instagram:         jjing_e.0220
+    linkedin:          jongpil-jeong-215894281
+    github:            Jongpil0911
+    # twitter:         <username>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -36,7 +38,6 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:         jjing_e.0220
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -54,7 +55,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:          jongpil-jeong-215894281
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
