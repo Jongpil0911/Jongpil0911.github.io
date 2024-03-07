@@ -6,5 +6,6 @@ slug: SoC
 category: lablog
 sidebar: true
 description: >
-   Image processing and Hardware Design with verilog
+   Image processing, Machine Learning and Deep Learning algorithm, system and algothim development using **C/C++, Matlab, MFC, python, Verilog**<br/>
+   [Homepage](https://soc.donga.ac.kr)
 ---
