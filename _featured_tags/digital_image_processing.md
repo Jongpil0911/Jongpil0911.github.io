@@ -6,5 +6,5 @@ slug: DIP
 category: study
 sidebar: true
 description: >
-   Algorithm study / Problem solutions
+   Summary of the Digital image prcessing with gonzalez
 ---
