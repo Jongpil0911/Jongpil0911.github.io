@@ -32,6 +32,8 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
 
 ## PUBLICATIONS(SCIE/ESCI)
 ***
+<!--**A study of noise reduction algorithm using statistical optimization in digital holographic microscopy**<br/>
+10th IEEE International Conference on Communications and Electronics (ICCE), 2024 -->
 
 ## PUBLICATIONS(DOMESTIC)
 ***
