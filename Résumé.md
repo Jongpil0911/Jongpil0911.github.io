@@ -64,10 +64,11 @@ Undergraduate Education Assistant Scholarship from Dong-A University
 
 ## CERTIFICATION
 ***
-Feb.2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[EFSET English certification B2](https://cert.efset.org/sg3aTb)
+Feb.2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[EFSET English certification B2](https://cert.efset.org/sg3aTb)<br/>
+
 ## EXPERIENCES AND LEADERSHIPS
 ***
-Dec.2020 ~ Feb. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA)
+Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA)
 
 ## SKILLS AND TECHNIQUES
 ***
