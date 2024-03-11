@@ -45,7 +45,7 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
 ***
 Jul.2023 ~ Aug.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in Kyushu institute of technology (Advisor: Prof. Min-Chul Lee)<br/>
 Jan.2023 ~ Feb.2023&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in Kyushu institute of technology (Advisor: Prof. Min-Chul Lee)<br/>
-Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design Lab](https://soc.donga.ac.kr) (Advisor: Prof. [Bongsoon Kang](https://ieeexplore.ieee.org/author/37291699000))
+Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design Lab](https://soc.donga.ac.kr) (Advisor: Prof. [Bongsoon Kang](https://ieeexplore.ieee.org/author/37291699000))<br/>
 
 ## AWARDS ADN HONORS
 ***
@@ -64,7 +64,7 @@ Undergraduate Education Assistant Scholarship from Dong-A University
 
 ## CERTIFICATION
 ***
-
+Feb.2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[EFSET English certification B2](https://cert.efset.org/sg3aTb)
 ## EXPERIENCES AND LEADERSHIPS
 ***
 Dec.2020 ~ Feb. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA)
