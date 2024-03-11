@@ -3,7 +3,7 @@ layout: tag-list
 type: tag
 title: Python
 slug: py
-category: lablog
+category: study
 sidebar: false
 description: >
    python
