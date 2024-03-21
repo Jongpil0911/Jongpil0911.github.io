@@ -30,21 +30,22 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
 - Digital holographic microscopy
 - Image ecryption and decryption
 
+<!--
 ## PUBLICATIONS(SCIE/ESCI)
+***
+
+## PUBLICATIONS(DOMESTIC)
+***
+-->
+## CONFERENSES
 ***
 <!--**A study of noise reduction algorithm using statistical optimization in digital holographic microscopy**<br/>
 10th IEEE International Conference on Communications and Electronics (ICCE), 2024 -->
 
-## PUBLICATIONS(DOMESTIC)
-***
-
-## CONFERENSES
-***
-
 ## RESEARCH EXPERIENCES
 ***
-Jul.2023 ~ Aug.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in Kyushu institute of technology (Advisor: Prof. Min-Chul Lee)<br/>
-Jan.2023 ~ Feb.2023&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in Kyushu institute of technology (Advisor: Prof. Min-Chul Lee)<br/>
+Jul.2023 ~ Aug.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
+Jan.2023 ~ Feb.2023&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
 Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design Lab](https://soc.donga.ac.kr) (Advisor: Prof. [Bongsoon Kang](https://ieeexplore.ieee.org/author/37291699000))<br/>
 
 ## AWARDS ADN HONORS
