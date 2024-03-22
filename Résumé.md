@@ -46,7 +46,7 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
 ***
 Jul.2023 ~ Aug.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
 Jan.2023 ~ Feb.2023&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
-Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design Lab](https://soc.donga.ac.kr) (Advisor: Prof. [Bongsoon Kang](https://ieeexplore.ieee.org/author/37291699000))<br/>
+Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design Lab](https://soc.donga.ac.kr) (Advisor: Prof. Bongsoon Kang)<br/>
 
 ## AWARDS ADN HONORS
 ***
@@ -78,12 +78,15 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
 ## MICRO LEARNING
 ***
 [IC Design Education Center](https://idec.or.kr)
-> [강화학습 기초](https://github.com/Jongpil0911/img_address/assets/141693086/b1ecc856-7b42-43dd-8d8b-a29b5ead73e0)<br/>
-> [PLL 설계와 Jitter 해석](https://github.com/Jongpil0911/img_address/assets/141693086/e2e6f6ef-8f65-4a41-836f-c780096ce7b3)<br/>
-> [CUDA 기반 GPU 프로그래밍 기초](https://github.com/Jongpil0911/img_address/assets/141693086/16f1d544-ac13-422a-aad1-cf07d7919194)<br/>
-> [MATLAB 기반 디지털 신호처리 응용](https://github.com/Jongpil0911/img_address/assets/141693086/eb58b931-5b61-4709-9543-bb84a1bf254a)<br/>
-> [인공지능 가속 프로세서](https://github.com/Jongpil0911/img_address/assets/141693086/26d6ee65-3488-4b0c-b701-2147274e7733)<br/>
-> [Verilog을 이용한 Digital System 설계](https://github.com/Jongpil0911/img_address/assets/141693086/e2880c92-d64e-4985-8568-d777d45000a9)<br/>
-> [자율주행을 위한 스테레오비전과 인식](https://github.com/Jongpil0911/img_address/assets/141693086/0e06a6d9-fc97-4cb6-a764-7cbf4917355a)<br/>
-> [MIMO - 이론 및 구현](https://github.com/Jongpil0911/img_address/assets/141693086/9ad18124-c80a-4629-9d0a-be4fa5f385a0)<br/>
-> [Cortex-M 프로세서 기반의 FreeRTOS 포팅 및 활용](https://github.com/Jongpil0911/img_address/assets/141693086/73545d0f-261b-44c1-8295-d4b4589e4841)<br/>
+> 2022
+  > [강화학습 기초](https://github.com/Jongpil0911/img_address/assets/141693086/b1ecc856-7b42-43dd-8d8b-a29b5ead73e0)<br/>
+  > [PLL 설계와 Jitter 해석](https://github.com/Jongpil0911/img_address/assets/141693086/e2e6f6ef-8f65-4a41-836f-c780096ce7b3)<br/>
+> 2023
+  > [CUDA 기반 GPU 프로그래밍 기초](https://github.com/Jongpil0911/img_address/assets/141693086/16f1d544-ac13-422a-aad1-cf07d7919194)<br/>
+  > [MATLAB 기반 디지털 신호처리 응용](https://github.com/Jongpil0911/img_address/assets/141693086/eb58b931-5b61-4709-9543-bb84a1bf254a)<br/>
+  > [인공지능 가속 프로세서](https://github.com/Jongpil0911/img_address/assets/141693086/26d6ee65-3488-4b0c-b701-2147274e7733)<br/>
+  > [Verilog을 이용한 Digital System 설계](https://github.com/Jongpil0911/img_address/assets/141693086/e2880c92-d64e-4985-8568-d777d45000a9)<br/>
+  > [자율주행을 위한 스테레오비전과 인식](https://github.com/Jongpil0911/img_address/assets/141693086/0e06a6d9-fc97-4cb6-a764-7cbf4917355a)<br/>
+> 2024
+  > [MIMO - 이론 및 구현](https://github.com/Jongpil0911/img_address/assets/141693086/9ad18124-c80a-4629-9d0a-be4fa5f385a0)<br/>
+  > [Cortex-M 프로세서 기반의 FreeRTOS 포팅 및 활용](https://github.com/Jongpil0911/img_address/assets/141693086/73545d0f-261b-44c1-8295-d4b4589e4841)<br/>
