@@ -29,7 +29,9 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
 - Holography
 - Digital holographic microscopy (DHM)
 - Image ecryption and decryption
+  
 <!-- - Deep learning and machine learning -->
+
 <!--
 ## PUBLICATIONS(SCIE/ESCI)
 ***
