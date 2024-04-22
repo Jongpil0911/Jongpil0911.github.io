@@ -1,7 +1,7 @@
 ---
 layout: tag-list
 type: tag
-title: Dependable_System
+title: Dependable Systems
 slug: Dep_sys
 category: study
 sidebar: false
