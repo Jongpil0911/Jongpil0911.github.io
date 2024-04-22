@@ -51,7 +51,7 @@ Jul.2023 ~ Aug.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in 
 Jan.2023 ~ Feb.2023&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
 Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design Lab](https://soc.donga.ac.kr) (Advisor: Prof. Bongsoon Kang)<br/>
 
-## AWARDS ADN HONORS
+## AWARDS AND HONORS
 ***
 Academic Excellence Scholarship from Dong-A University
 - 2023, 1st / 2nd semester
