@@ -9,7 +9,7 @@ hide_description: true
 sitemap: false
 ---
 <span style="font-size: 25px;">**Jongpil Jeong**</span> <br/>
-Master's degree<br/>Department of Creative Informatics<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu institute of Technology<br/>680-4, Kawazu, Iizuka, Fukuoka, Japan<br/><jeong.jongpil383@mail.kyutech.jp><br/><jeongjongpil0911@gmail.com>
+Master student<br/>Department of Creative Informatics<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu institute of Technology<br/>680-4, Kawazu, Iizuka, Fukuoka, Japan<br/><jeong.jongpil383@mail.kyutech.jp><br/><jeongjongpil0911@gmail.com>
 ## EDUCATION
 ***
 Apr.2024 ~ Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kyushu Institute of Technology](https://www.kyutech.ac.jp)<br/>
