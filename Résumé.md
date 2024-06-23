@@ -46,7 +46,7 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
 
 ## CONFERENSES
 ***
-Jongpil Jeong, Hyun-woo Kim, Myungjin Cho, Min-Chul Lee, "A study of noise reduction algorithm using statistical optimization in digital holographic microscopy", $$2024\ The\ 21^{st}\ International\ Joint\ Conference\ on\ Computer\ Science\ and\ Software\ Engineering\ (JCSSE)$$. IEEE, 2024
+**Jongpil Jeong**, Hyun-woo Kim, Myungjin Cho, Min-Chul Lee, "A study of noise reduction algorithm using statistical optimization in digital holographic microscopy", $$2024\ The\ 21^{st}\ International\ Joint\ Conference\ on\ Computer\ Science\ and\ Software\ Engineering\ (JCSSE)$$. IEEE, 2024
 
 
 ## RESEARCH EXPERIENCES
