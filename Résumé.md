@@ -103,3 +103,4 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
 > 2024<br/>
 > [MIMO - 이론 및 구현](https://github.com/Jongpil0911/img_address/assets/141693086/9ad18124-c80a-4629-9d0a-be4fa5f385a0)<br/>
 > [Cortex-M 프로세서 기반의 FreeRTOS 포팅 및 활용](https://github.com/Jongpil0911/img_address/assets/141693086/73545d0f-261b-44c1-8295-d4b4589e4841)<br/>
+> [FPGA 기반의 임베디드 시스템 설계](https://github.com/user-attachments/files/16047266/FPGA.pdf)<br/>
