@@ -15,6 +15,7 @@ Master student<br/>Department of Creative Informatics<br/>Graduate School of Com
 Apr.2024 ~ Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kyushu Institute of Technology](https://www.kyutech.ac.jp)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Graduate School of Computer Science and Systems Engineering](https://www.iizuka.kyutech.ac.jp)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Department of Creative Informatics](https://csn.iizuka.kyutech.ac.jp)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3D Optical Imaging Systems Lab](https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master student<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA : 3.75 / 4<br/>
 
@@ -54,8 +55,8 @@ Taishi Ono, **Jongpil Jeong**, Hyun-woo Kim, Myungjin Cho, Min-Chul Lee, "Kalman
 
 ## RESEARCH EXPERIENCES
 ***
-Jul.2023 ~ Aug.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
-Jan.2023 ~ Feb.2023&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program in Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
+Jul.2023 ~ Aug.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program at Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
+Jan.2023 ~ Feb.2023&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program at Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
 Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design Lab](https://soc.donga.ac.kr) (Advisor: Prof. Bongsoon Kang)<br/>
 
 ## AWARDS AND HONORS
