@@ -29,43 +29,43 @@ Then we can see the installation setting<br/>
 ![window](./Initialization/Screenshot%202024-08-10%20173755.png)<br/>
 Click the Available and check the Available setup.
 In my PC, already install the visual studio community 2022, we can see only visual studio community 2022 preview version.
-After then, click the **Install**.
-![install](./Initialization/image.png)
+After then, click the **Install**.<br/>
+![install](./Initialization/image.png)<br/>
 In this window, we check the what you want.
-In my case, i installed the Desktop development with C++
-![ddwc](./Initialization/Screenshot%202024-08-10%20174702.png)
+In my case, i installed the Desktop development with C++<br/>
+![ddwc](./Initialization/Screenshot%202024-08-10%20174702.png)<br/>
 Additionally, i also make GUI, so i check the **C++ MFC for latest v143 build tools** and **C++ Modules for v143 build tools**
 Then, click the download and install. If you clicked, it takes Few minutes or hours, so take rest. :)
 If you finished installation, we can see the this window.
-### Third, Create the project.
-![initalwindow](./Initialization/Screenshot%202024-08-10%20175500.png)
+### Third, Create the project.<br/>
+![initalwindow](./Initialization/Screenshot%202024-08-10%20175500.png)<br/>
 We don't have the any project before, therefore click the **Create a new project**
 Then we can see lots of options.
-Our goal is show in the "Hello world" in command prompt. So we find the **Empty Project** in Create a new prject window
-![emptyProject](./Initialization/Screenshot%202024-08-10%20175910.png)
+Our goal is show in the "Hello world" in command prompt. So we find the **Empty Project** in Create a new prject window<br/>
+![emptyProject](./Initialization/Screenshot%202024-08-10%20175910.png)<br/>
 Then, create the project name and find location of the save project, basically the project will be saved in the **C:\Users\{user name}\source\repos**.
-In addtion, the project name and solution name must be same.
-![projectname](./Initialization/Screenshot%202024-08-10%20175915.png)
+In addtion, the project name and solution name must be same.<br/>
+![projectname](./Initialization/Screenshot%202024-08-10%20175915.png)<br/>
 congratulation!
-You created first project with me :)
-![createsource](./Initialization/Screenshot%202024-08-10%20175929.png)
+You created first project with me :)<br/>
+![createsource](./Initialization/Screenshot%202024-08-10%20175929.png)<br/>
 But this is really empty project, so there are nothing in there.
 So, we create the source file for project.
 Find the **Source FIles** and click the right button on your mouse.
 Then we can see this window.
-Click the New items
-![source](./Initialization/Screenshot%202024-08-10%20175947.png)
-New popup window wiil be appeared.
-![newitems](./Initialization/Screenshot%202024-08-10%20180007.png)
+Click the New items<br/>
+![source](./Initialization/Screenshot%202024-08-10%20175947.png)<br/>
+New popup window wiil be appeared.<br/>
+![newitems](./Initialization/Screenshot%202024-08-10%20180007.png)<br/>
 But it is unkind window.
 So we click the **Show All Templates** on bottom of the left.
-Then we can see lots of options as follow.
-![templets](./Initialization/Screenshot%202024-08-10%20180010.png)
-In this window, we use the **C++ File (.cpp)**
-![templet](./Initialization/Screenshot%202024-08-10%20180018.png)
+Then we can see lots of options as follow.<br/>
+![templets](./Initialization/Screenshot%202024-08-10%20180010.png)<br/>
+In this window, we use the **C++ File (.cpp)**<br/>
+![templet](./Initialization/Screenshot%202024-08-10%20180018.png)<br/>
 We create the first source file!
-### Fourth, Programming what you think.
-![source](./Initialization/Screenshot%202024-08-10%20180023.png)
+### Fourth, Programming what you think.<br/>
+![source](./Initialization/Screenshot%202024-08-10%20180023.png)<br/>
 Finially, we can typing the code in this window.
 The source code is followd:
 ```cpp
@@ -86,18 +86,18 @@ That's why i written the **return 0;**
 Between the int and void have **main**.
 It measn function's name.
 The c/c++ need main function.
-If you don't use main fucntion, the code will be show the error like this.
-![error](./Initialization/Screenshot%202024-08-10%20182703.png)
+If you don't use main fucntion, the code will be show the error like this.<br/>
+![error](./Initialization/Screenshot%202024-08-10%20182703.png)<br/>
 When you finished the typing the code, we can push the key **F5** for *debug*.
-After the debug, if code has not any error, we can see the command prompt.
-![prompt](./Initialization/Screenshot%202024-08-10%20180130.png)
+After the debug, if code has not any error, we can see the command prompt.<br/>
+![prompt](./Initialization/Screenshot%202024-08-10%20180130.png)<br/>
 Otherwise, if your code have any error.
-You can get the chance to debug or modifed your code like this.
-![error](./Initialization/Screenshot%202024-08-10%20182703.png)
+You can get the chance to debug or modifed your code like this.<br/>
+![error](./Initialization/Screenshot%202024-08-10%20182703.png)<br/>
 The visual studio community 2022 is so kind.
 Therefore, the shown the errors as follow.
-If you recongized these errors, you can easily fix the errors.
-![errorcode](./Initialization/Screenshot%202024-08-10%20183135.png)
+If you recongized these errors, you can easily fix the errors.<br/>
+![errorcode](./Initialization/Screenshot%202024-08-10%20183135.png)<br/>
 #### Thank you for read my post.
 
 
