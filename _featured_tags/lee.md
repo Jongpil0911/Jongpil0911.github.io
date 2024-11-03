@@ -5,7 +5,7 @@ title: 3D imaging
 slug: lee
 category: lablog
 sidebar: true
-order: 5
+order: 1
 description: >
    Integral imaging with pick up process and reconstruction process
 ---
