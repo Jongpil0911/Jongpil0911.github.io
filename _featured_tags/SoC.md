@@ -1,7 +1,7 @@
 ---
 layout: tag-list
 type: tag
-title: SoC Design Lab
+title: Bachelor student research
 slug: SoC
 category: lablog
 sidebar: true
