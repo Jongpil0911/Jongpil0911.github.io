@@ -1,7 +1,7 @@
 ---
 layout: list
 type: category
-title: LAB log
+title: Research
 slug: lablog
 sidebar: true
 order: 1
