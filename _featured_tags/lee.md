@@ -1,7 +1,7 @@
 ---
 layout: tag-list
 type: tag
-title: 3D imaging
+title: Holography
 slug: lee
 category: lablog
 sidebar: true
