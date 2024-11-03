@@ -20,18 +20,18 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 3D Optical Signal System
+title:                 Multidimensional Signal Processing Lab
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Image processing, Holography, and Encryption
+  Image processing, Computational Optics, and ML/AI
 
 # A shorter description for the sidebar.
 # tagline:               Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
-keywords:              [Image processing, Holography, Encryption]
+keywords:              [Image processing, Holography, Encryption, Computational Optics, ML, AI]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,7 +42,7 @@ keywords:              [Image processing, Holography, Encryption]
 author:
   # Used by `jekyll-feed`:
   name:                <Jongpil> <Jeong>
-  email:               <jeongjongpil0911@gmail.com>
+  email:               [jeongjongpil0911@gmail.com, jeong.jongpil383@mail.kyutech.jp]
   # # Used by `jekyll-seo-tag`:
   # twitter:             <user name>
 
