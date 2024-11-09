@@ -6,7 +6,7 @@ tags: DA
 ---
 
 # Peplograhy - a passive 3D photon counting imaging through scattering media
-Myungjin Cho, Bahram Javidi [[Paper](https://opg.optica.org/ol/abstract.cfm?uri=ol-41-22-5401)]
+Author : Myungjin Cho, Bahram Javidi [[Paper](https://opg.optica.org/ol/abstract.cfm?uri=ol-41-22-5401)]
 
 ### Basic concept of the Peplography is followed image.
 <p align="center">
@@ -17,8 +17,8 @@ Myungjin Cho, Bahram Javidi [[Paper](https://opg.optica.org/ol/abstract.cfm?uri=
 In this theory, we learned the novel dynamic passive imaging technique through scattering media by dircetly **ballistic photons** emanating from objecty based on statistical optics.<br/>
 It assumed that the intensity and phase of the light propagating through scattering media are randomized.<br/>
 To estimate scattering media form a single peplogram, we apply a statistical estimation method, such as maximum likelihood estimation(MLE)<br/>
-We assume that the scattering media is composed of many scaattering part s with dimension of $w_x \times w_y$ <br/>
-The scattering media is modeled by **Gaussian distrbiution** with a sample mean $\mu_{ij}$ and variance $\sigma^2_{ij}$, where $i$ and $j$ are the indiecs of each scattering part in the $x$ and $y$ directions, repectively. <br/>
+We assume that the scattering media is composed of many scaattering part s with dimension of $$w_x \times w_y$$ <br/>
+The scattering media is modeled by **Gaussian distrbiution** with a sample mean $$\mu_{ij}$$ and variance $$\sigma^2_{ij}$$, where $i$ and $j$ are the indiecs of each scattering part in the $x$ and $y$ directions, repectively. <br/>
 Thre random variables are denoted as
 
 $$
@@ -125,7 +125,7 @@ plt.show()
 
 
     
-![png](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_11_0.png)
+![img](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_11_0.png)
     
 
 
@@ -151,7 +151,7 @@ plt.show()
 
 
     
-![png](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_14_0.png)
+![img](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_14_0.png)
     
 
 
@@ -179,7 +179,7 @@ plt.show()
 
 
     
-![png](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_17_0.png)
+![img](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_17_0.png)
     
 
 
@@ -258,7 +258,7 @@ plt.show()
 
 
     
-![png](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_22_0.png)
+![img](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_22_0.png)
     
 
 
@@ -298,5 +298,5 @@ plt.show()
 
 
     
-![png](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_23_0.png)
+![img](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_23_0.png)
     
