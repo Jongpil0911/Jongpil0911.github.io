@@ -41,7 +41,7 @@ n &= 1, 2, 3, ..., w_y
 $$<br/>
 
 where $$X_{ij}$$ is a $$i$$th column and $$j$$th row local area of a peplogram, $$I_p$$ is the pixel intensity of the peplogram, and $$N_x$$, $$N_y$$ are the total number of pixels i the $$x$$ and $$y$$ directions of the peplogram, repectively.<br/>
-We estimate the scattering media by finding the unknown parameter $$\mu_{ij}$$ (Sample mean) of a Gaussian distribution using the MLE method as follows:
+We estimate the scattering media by finding the unknown parameter $$\mu_{ij}$$ (Sample mean) of a Gaussian distribution using the MLE method as follows:<br/>
 $$
 \begin{aligned}
 L(X_{ij}(m,n)|\mu_{ij}, \sigma^2_{ij})
@@ -50,13 +50,13 @@ L(X_{ij}(m,n)|\mu_{ij}, \sigma^2_{ij})
 &= \frac{1}{\sqrt{2\pi \sigma^2_{ij}}}exp\left[-\sum^{w_x}_{m=1}\sum^{w_y}_{n=1}\frac{\{x_{ij}(m,n)-\mu_{ij}\}^2}{2\sigma_{ij}}\right],
 \end{aligned}
 $$<br/>
-After applying the log transform, we obtain
+After applying the log transform, we obtain<br/>
 $$
 \begin{aligned}
 l\left\{X_{ij}(m,n)|\mu_{ij},\sigma^2_{ij}\right\}=log\left(\frac{1}{\sqrt{2\pi \sigma^2_{ij}}}\right) - \sum^{w_x}_{m=1}\sum^{w_y}_{n=1}\frac{\{x_{ij}(m,n)-\mu_{ij}\}^2}{2\sigma^2}
 \end{aligned}
 $$<br/>
-The estimated scattering medium is
+The estimated scattering medium is <br/>
 $$
 \begin{aligned}
 \hat{\mu}_{ij} &= arg \left[max_{\mu_{ij}}l\{X_{ij}(m,n)|\mu_{ij}\}\right] \\
@@ -202,7 +202,7 @@ $$
 \widetilde{I_p}(i,j)=\frac{I'_p(ij)}{\sum_i\sum_jI'_p(i,j)}
 \end{aligned}
 $$<br/>
-where $I'_p$ is the processed peplogram and $(w_x, w_y)$ are the scattering windows local dimensions used in the previous estimation, respectively, The reconstructed peplogram using photon counting model is
+where $I'_p$ is the processed peplogram and $(w_x, w_y)$ are the scattering windows local dimensions used in the previous estimation, respectively, The reconstructed peplogram using photon counting model is<br/>
 $$
 \begin{aligned}
 \hat{I_p}(i,j)|\widetilde{I_p}(i,j) \sim Poisson[\gamma_c N_p \widetilde{I_p}(i,j)],
