@@ -173,9 +173,7 @@ $$
 
 ```python
 Ip = tarRGB - scatteringMedia
-# Ip = np.uint8(Ip)
 Ip[Ip < 0] = 0
-# Ip = (Ip - Ip.min())/(Ip.max() - Ip.min())
 ```
 
 
