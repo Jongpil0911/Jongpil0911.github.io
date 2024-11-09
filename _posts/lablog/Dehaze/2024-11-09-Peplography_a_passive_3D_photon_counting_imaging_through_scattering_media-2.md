@@ -11,7 +11,7 @@ Author : Myungjin Cho, Bahram Javidi [[Paper](https://opg.optica.org/ol/abstract
 When
 
 ### Basic concept of the Peplography is followed image.
-![img]("https://github.com/user-attachments/assets/eac7a617-9e03-462c-9cc9-2198dfa1d5dd")
+![img](https://github.com/user-attachments/assets/eac7a617-9e03-462c-9cc9-2198dfa1d5dd)
 
 ### Theory 1 (Removal scattering medium)
 In this theory, we learned the novel dynamic passive imaging technique through scattering media by dircetly **ballistic photons** emanating from objecty based on statistical optics.<br/>
