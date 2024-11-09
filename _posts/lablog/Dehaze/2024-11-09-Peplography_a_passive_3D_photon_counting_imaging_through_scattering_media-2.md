@@ -6,9 +6,9 @@ tags: DA
 ---
 
 # Peplograhy - a passive 3D photon counting imaging through scattering media
-Author : Myungjin Cho, Bahram Javidi [[Paper](https://opg.optica.org/ol/abstract.cfm?uri=ol-41-22-5401)]
+Author : Myungjin Cho, Bahram Javidi 
 ### Introduction
-When
+With the development of autonomous driving systems, the deeplearning and computer vision's importance are increased. However, when we met the bad weather conditions, the Field of view(FOV) is decreased. To resolve these problems, The many methods are proposed. The one of them is Peplography.
 
 ### Basic concept of the Peplography is followed image.
 ![img](https://github.com/user-attachments/assets/eac7a617-9e03-462c-9cc9-2198dfa1d5dd)
@@ -133,7 +133,7 @@ plt.show()
 
 
     
-![img](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_11_0.png)
+![img](https://github.com/user-attachments/assets/d3fa0152-f5c3-4fc2-a90a-99999836a0fe)
     
 
 
@@ -159,7 +159,7 @@ plt.show()
 
 
     
-![img](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_14_0.png)
+![img](https://github.com/user-attachments/assets/4b95c385-3dbd-4ea4-af92-f084008da12a)
     
 
 
@@ -189,7 +189,7 @@ plt.show()
 
 
     
-![img](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_17_0.png)
+![img](https://github.com/user-attachments/assets/6d4418e1-29fa-4df9-97e9-a7ae9f94b0f3)
     
 
 
@@ -197,7 +197,7 @@ plt.show()
 To recover the dropped intensity in reconstuction image, we use the Photon counting detection model. A Photon counting model is expressed as follows:<br/>
 $$
 \begin{aligned}
-\widetilde{I_p}(i,j)=\frac{I'_p(ij)}{\sum_i\sum_jI'_p(i,j)}
+\widetilde{I_p}(i,j)=\frac{I'_p(ij)}{\sum_i\sum_jI'_p(i,j)},
 \end{aligned}
 $$<br/>
 where $I'_p$ is the processed peplogram and $(w_x, w_y)$ are the scattering windows local dimensions used in the previous estimation, respectively, The reconstructed peplogram using photon counting model is<br/>
@@ -210,7 +210,7 @@ where $$N_p$$, $$c$$, and $$\gamma_c$$ are the expected number of the ballistic 
 Here, several ballistic photons may be extracted at a single pixel by multiplying coefficient $$\gamma_c N_p$$ with the highest probability of Photon distribution. Therefore, the reconstructed image can be obtained.
 
 For each basic color channel(i.e., R, G, and B), different coefficients should be applied to the normalized irradiance peplogram.<br/>
-The coefficients of the ballistic photons $$\gamma_c$$ can be defined with R, G, and B channels by
+The coefficients of the ballistic photons $$\gamma_c$$ can be defined with R, G, and B channels by<br/>
 $$
 \begin{aligned}
 \gamma_c = \frac{\eta}{h\overline{\nu}_c},
@@ -274,8 +274,7 @@ plt.show()
 
 
     
-![img](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_22_0.png)
-    
+![img](https://github.com/user-attachments/assets/04bdd3ee-91c6-4546-8041-dd847a95d3de)
 
 
 
@@ -314,7 +313,7 @@ plt.show()
 
 
     
-![img](Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_files/Peplography_a_passive_3D_photon_counting_imaging_through_scattering_media-2_23_0.png)
+![img](https://github.com/user-attachments/assets/9eecd483-7606-4a84-82cb-d1770af2b018)
     
 ### Reference
-Peplograhy - a passive 3D photon counting imaging through scattering media
+Peplograhy - a passive 3D photon counting imaging through scattering media [[Paper](https://opg.optica.org/ol/abstract.cfm?uri=ol-41-22-5401)]
