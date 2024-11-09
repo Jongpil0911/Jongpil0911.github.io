@@ -163,7 +163,7 @@ plt.show()
     
 
 
-Removal the scattering media with following equation:
+Removal the scattering media with following equation:<br/>
 $$
 \begin{aligned}
 I'_p(i,j) = I_p(i,j) - \hat{\mu}_{ij}
