@@ -22,7 +22,9 @@ The scattering media is modeled by **Gaussian distrbiution** with a sample mean 
 Thre random variables are denoted as
 
 $$
+  \begin{aligned}
 X_{ij}(m,n) = I_p(i+m-1, j+n-1),
+  \end{aligned}
 $$
 $$
 \begin{aligned}
