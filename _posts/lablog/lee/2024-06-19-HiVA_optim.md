@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A study of Noise Reduction Algorithm Using Statistical Optimization in Digital Holographic Microscopy
+title: HiVA Optimization
 category: lablog
 tags: lee
 ---
