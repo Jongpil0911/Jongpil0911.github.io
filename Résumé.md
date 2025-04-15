@@ -12,12 +12,12 @@ sitemap: false
 Master student<br/>Department of Creative Informatics<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu institute of Technology<br/>680-4, Kawazu, Iizuka, Fukuoka, Japan<br/><jeong.jongpil383@mail.kyutech.jp><br/><jeongjongpil0911@gmail.com>
 ## EDUCATION
 ***
-Apr.2024 ~ Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kyushu Institute of Technology](https://www.kyutech.ac.jp)<br/>
+Apr.2024 ~ Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kyushu Institute of Technology](https://www.kyutech.ac.jp)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Graduate School of Computer Science and Systems Engineering](https://www.iizuka.kyutech.ac.jp)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Department of Creative Informatics](https://csn.iizuka.kyutech.ac.jp)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3D Optical Imaging Systems Lab](https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master student<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA : 3.75 / 4<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA : 3.20 / 4.0<br/>
 
 
 Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.kr/kor/Main.do)<br/>
@@ -28,6 +28,7 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
 ## RESEARCH INTERESTS
 ***
 - Signal processing and image processing
+- Dehaze algorithm
 - 3D optical image signal processing
 - Holography
 - Digital holographic microscopy (DHM)
@@ -43,9 +44,9 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
 
 ## CONFERENSES
 ***
-Taishi Ono, **Jongpil Jeong**, Hyun-Woo Kim, Myungjin Cho, Min-Chul Lee, "Kalman filtering optimization in Digital Holographic Microscopy (DHM)", The International Conference on Control, Automation, and Systems (ICCAS 2024). IEEE, 2024. [Published](https://ieeexplore.ieee.org/abstract/document/10773243) <br/>
+Taishi Ono, **Jongpil Jeong**, Hyun-Woo Kim, Myungjin Cho, Min-Chul Lee, "Kalman filtering optimization in Digital Holographic Microscopy (DHM)", The International Conference on Control, Automation, and Systems (ICCAS 2024). IEEE, 2024. [[Published](https://ieeexplore.ieee.org/abstract/document/10773243)] <br/>
 
-**Jongpil Jeong**, Hyun-woo Kim, Myungjin Cho, Min-Chul Lee, "A study of noise reduction algorithm using statistical optimization in digital holographic microscopy", The $$21^{st}$$ International Joint Conference on Computer Science and Software Engineering (JCSSE 2024). IEEE, 2024, [Published](https://ieeexplore.ieee.org/abstract/document/10613728) <br/>
+**Jongpil Jeong**, Hyun-woo Kim, Myungjin Cho, Min-Chul Lee, "A study of noise reduction algorithm using statistical optimization in digital holographic microscopy", The $$21^{st}$$ International Joint Conference on Computer Science and Software Engineering (JCSSE 2024). IEEE, 2024, [[Published](https://ieeexplore.ieee.org/abstract/document/10613728)] <br/>
 
 
 ## Patents
