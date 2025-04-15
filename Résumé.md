@@ -95,6 +95,11 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
 
 ## MICRO LEARNING
 ***
+[Korea OpenCourseWare](https://www.kocw.net/home/index.do)<br/>
+
+> 2025<br/>
+> [Digital Image Processing](https://github.com/user-attachments/assets/2294f1b6-c5b3-4c07-a903-ff1fdbda66e4)
+
 [IC Design Education Center](https://idec.or.kr)<br/>
 
 > 2024<br/>
@@ -114,7 +119,3 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
 > [PLL 설계와 Jitter 해석](https://github.com/Jongpil0911/img_address/assets/141693086/e2e6f6ef-8f65-4a41-836f-c780096ce7b3)<br/>
 > [강화학습 기초](https://github.com/Jongpil0911/img_address/assets/141693086/b1ecc856-7b42-43dd-8d8b-a29b5ead73e0)<br/>
 
-[Korea Open Course Ware](https://www.kocw.net/home/index.do)<br/>
-
-> 2025<br/>
-> [Digital Image Processing](https://github.com/user-attachments/assets/2294f1b6-c5b3-4c07-a903-ff1fdbda66e4)
