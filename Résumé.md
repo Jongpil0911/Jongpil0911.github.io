@@ -59,9 +59,9 @@ Min-Chul Lee, **Jongpil Jeong**, “画像処理装置、画像処理方法お�
 
 ## RESEARCH EXPERIENCES
 ***
-Jul.2023 ~ Aug.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program at Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
-Jan.2023 ~ Feb.2023&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program at Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
-Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design Lab](https://soc.donga.ac.kr) (Advisor: Prof. Bongsoon Kang)<br/>
+Jul.2023 ~ Aug.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program at 3D Optical Imaging Systems Lab, Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
+Jan.2023 ~ Feb.2023&nbsp;&nbsp;&nbsp;&nbsp;Short-term visiting program at 3D Optical Imaging Systems Lab, Kyushu Institute of Technology (Advisor: Prof. Min-Chul Lee)<br/>
+Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design Lab](https://soc.donga.ac.kr), Dong-A University (Advisor: Prof. Bongsoon Kang)<br/>
 
 ## AWARDS AND HONORS
 ***
