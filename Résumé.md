@@ -35,14 +35,10 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
   
 <!-- - Deep learning and machine learning -->
 
-<!--
-## PUBLICATIONS(SCIE/ESCI)
+
+## PUBLICATIONS
 ***
--->
-<!--
-## PUBLICATIONS(DOMESTIC)
-***
--->
+**Jongpil Jeong**, Min-Chul Lee, "Scattering Medium Removal Using Adaptive Masks for Scatter in the Spatial Frequency Domain", IEEE Access, 2025. [Accepted] <br/>
 
 
 ## CONFERENSES
@@ -51,10 +47,11 @@ Taishi Ono, **Jongpil Jeong**, Hyun-Woo Kim, Myungjin Cho, Min-Chul Lee, "Kalman
 
 **Jongpil Jeong**, Hyun-woo Kim, Myungjin Cho, Min-Chul Lee, "A study of noise reduction algorithm using statistical optimization in digital holographic microscopy", The $$21^{st}$$ International Joint Conference on Computer Science and Software Engineering (JCSSE 2024). IEEE, 2024, [Published](https://ieeexplore.ieee.org/abstract/document/10613728) <br/>
 
-<!--
+
 ## Patents
 ***
--->
+Min-Chul Lee, **Jongpil Jeong**, “画像処理装置、画像処理方法および画像処理プログラム”, Japanese Patents 特願 2024-214715. <br/>
+(Not publicly accessible at this time due to confidentiality under Japanese patent law.) <br/>
 
 
 
@@ -68,6 +65,9 @@ Sep.2022 ~ Jul.2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research course at [SoC Design 
 
 ## AWARDS AND HONORS
 ***
+Exemption from tuition fees from Kyushu Institute of Technology 
+- 2024, 1st / 2nd semester
+
 Academic Excellence Scholarship from Dong-A University
 - 2023, 1st / 2nd semester
 - 2022, 2nd semester
