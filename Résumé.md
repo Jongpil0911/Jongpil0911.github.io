@@ -81,6 +81,9 @@ Undergraduate Education Assistant Scholarship from Dong-A University
 - 2023, 1st semester
 - 2022, 2nd semester
 
+Sergeant, Republic of Korea Army
+- Apr.2019 - Nov.2020
+
 ## CERTIFICATION
 ***
 Feb.2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[EFSET English certification B2](https://cert.efset.org/sg3aTb)<br/>
