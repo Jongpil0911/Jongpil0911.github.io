@@ -124,5 +124,6 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
 > [강화학습 기초](https://github.com/Jongpil0911/img_address/assets/141693086/b1ecc856-7b42-43dd-8d8b-a29b5ead73e0)<br/>
 
 ## GitHub Contributions
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jongpil0911&theme=react-dark" />
 
 
