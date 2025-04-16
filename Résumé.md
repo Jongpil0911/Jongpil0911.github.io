@@ -105,7 +105,7 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
 
 [**IC Design Education Center**](https://idec.or.kr)<br/><br/>
 *2024*<br/>
-[자료구조 및 알고리즘](https://github.com/Jongpil0911/img_address/assets/141693086/5d7338c4-35cb-4e82-9756-040750aa02ca)<br/>
+[자료구조 및 알고리즘](_idec/Autonomus.png)<br/>
 [FPGA 기반의 임베디드 시스템 설계](https://github.com/Jongpil0911/img_address/assets/141693086/e5404ccf-ac17-4627-89e9-cc467dfe1c2c)<br/>
 [Cortex-M 프로세서 기반의 FreeRTOS 포팅 및 활용](https://github.com/Jongpil0911/img_address/assets/141693086/73545d0f-261b-44c1-8295-d4b4589e4841)<br/>
 [MIMO - 이론 및 구현](https://github.com/Jongpil0911/img_address/assets/141693086/9ad18124-c80a-4629-9d0a-be4fa5f385a0)<br/><br/>
