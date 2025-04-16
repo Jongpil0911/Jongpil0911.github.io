@@ -129,7 +129,7 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
   <img
     src="https://ghchart.rshah.org/jongpil0911"
     alt="GitHub Contribution Graph"
-    style="filter: brightness(0.8) contrast(1.2); border-radius: 8px;"
+    style="filter: brightness(0.3) contrast(1.5); border-radius: 8px;"
   />
 </picture>
 
