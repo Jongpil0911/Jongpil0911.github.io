@@ -123,11 +123,10 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
 > [PLL 설계와 Jitter 해석](https://github.com/Jongpil0911/img_address/assets/141693086/e2e6f6ef-8f65-4a41-836f-c780096ce7b3)<br/>
 > [강화학습 기초](https://github.com/Jongpil0911/img_address/assets/141693086/b1ecc856-7b42-43dd-8d8b-a29b5ead73e0)<br/>
 
+
 ## Github contribution
 
-<link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" />
-<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
-
+<!-- 캘린더 영역 -->
 <div class="calendar">Loading GitHub contributions...</div>
 
 <script>
