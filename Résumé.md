@@ -123,8 +123,11 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
 > [PLL 설계와 Jitter 해석](https://github.com/Jongpil0911/img_address/assets/141693086/e2e6f6ef-8f65-4a41-836f-c780096ce7b3)<br/>
 > [강화학습 기초](https://github.com/Jongpil0911/img_address/assets/141693086/b1ecc856-7b42-43dd-8d8b-a29b5ead73e0)<br/>
 
-
 ## Github contribution
+
+<!-- 캘린더 표시 영역 -->
+<div class="calendar">Loading GitHub contributions...</div>
+
 <!-- GitHub Calendar CSS 불러오기 -->
 <link
   rel="stylesheet"
@@ -141,20 +144,18 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
   });
 </script>
 
-<!-- 다크모드/라이트모드 지원 스타일 (선택사항) -->
+<!-- 다크모드/라이트모드 지원 스타일 -->
 <style>
   .calendar {
     margin-top: 20px;
   }
 
-  /* 라이트모드용 - 기본 색상 조정 */
   @media (prefers-color-scheme: light) {
     .calendar .contrib-legend .legend li {
       border: 1px solid #ddd;
     }
   }
 
-  /* 다크모드용 - 색상 대비 조정 */
   @media (prefers-color-scheme: dark) {
     .calendar .contrib-legend .legend li {
       border: 1px solid #555;
@@ -164,4 +165,3 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
     }
   }
 </style>
-
