@@ -99,11 +99,11 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
 
 ## MICRO LEARNING
 ***
-### [Korea OpenCourseWare](https://www.kocw.net/home/index.do)
+[**Korea OpenCourseWare**](https://www.kocw.net/home/index.do)<br/>
 2025
 - [Digital Image Processing](https://github.com/user-attachments/assets/2294f1b6-c5b3-4c07-a903-ff1fdbda66e4)
 
-### [IC Design Education Center](https://idec.or.kr)
+[**IC Design Education Center**](https://idec.or.kr)<br/>
 2024
 - [자료구조 및 알고리즘](https://github.com/Jongpil0911/img_address/assets/141693086/5d7338c4-35cb-4e82-9756-040750aa02ca)<br/>
 - [FPGA 기반의 임베디드 시스템 설계](https://github.com/Jongpil0911/img_address/assets/141693086/e5404ccf-ac17-4627-89e9-cc467dfe1c2c)<br/>
