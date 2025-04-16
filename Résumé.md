@@ -125,13 +125,43 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
 
 
 ## Github contribution
+<!-- GitHub Calendar CSS 불러오기 -->
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
 
-<!-- 캘린더 영역 -->
-<div class="calendar">Loading GitHub contributions...</div>
+<!-- GitHub Calendar JS 불러오기 -->
+<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
 
+<!-- 캘린더 초기화 스크립트 -->
 <script>
   GitHubCalendar(".calendar", "jongpil0911", {
     responsive: true
   });
 </script>
+
+<!-- 다크모드/라이트모드 지원 스타일 (선택사항) -->
+<style>
+  .calendar {
+    margin-top: 20px;
+  }
+
+  /* 라이트모드용 - 기본 색상 조정 */
+  @media (prefers-color-scheme: light) {
+    .calendar .contrib-legend .legend li {
+      border: 1px solid #ddd;
+    }
+  }
+
+  /* 다크모드용 - 색상 대비 조정 */
+  @media (prefers-color-scheme: dark) {
+    .calendar .contrib-legend .legend li {
+      border: 1px solid #555;
+    }
+    .calendar text {
+      fill: #ccc !important;
+    }
+  }
+</style>
 
