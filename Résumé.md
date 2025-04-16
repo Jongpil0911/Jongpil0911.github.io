@@ -41,6 +41,7 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
 ***
 **Jongpil Jeong**, Min-Chul Lee, "Scattering Medium Removal Using Adaptive Masks for Scatter in the Spatial Frequency Domain", IEEE Access, 2025. [Accepted] <br/>
 
+hi
 
 ## CONFERENSES
 ***
