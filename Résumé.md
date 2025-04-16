@@ -123,45 +123,6 @@ Dec.2020 ~ Feb. 2022&nbsp;&nbsp;President of Dong-A Ping-Pong Association (DAPPA
 > [PLL 설계와 Jitter 해석](https://github.com/Jongpil0911/img_address/assets/141693086/e2e6f6ef-8f65-4a41-836f-c780096ce7b3)<br/>
 > [강화학습 기초](https://github.com/Jongpil0911/img_address/assets/141693086/b1ecc856-7b42-43dd-8d8b-a29b5ead73e0)<br/>
 
-## Github contribution
+## GitHub Contributions
 
-<!-- 캘린더 표시 영역 -->
-<div class="calendar">Loading GitHub contributions...</div>
-
-<!-- GitHub Calendar CSS 불러오기 -->
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
-
-<!-- GitHub Calendar JS 불러오기 -->
-<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
-
-<!-- 캘린더 초기화 스크립트 -->
-<script>
-  GitHubCalendar(".calendar", "jongpil0911", {
-    responsive: true
-  });
-</script>
-
-<!-- 다크모드/라이트모드 지원 스타일 -->
-<style>
-  .calendar {
-    margin-top: 20px;
-  }
-
-  @media (prefers-color-scheme: light) {
-    .calendar .contrib-legend .legend li {
-      border: 1px solid #ddd;
-    }
-  }
-
-  @media (prefers-color-scheme: dark) {
-    .calendar .contrib-legend .legend li {
-      border: 1px solid #555;
-    }
-    .calendar text {
-      fill: #ccc !important;
-    }
-  }
-</style>
+{% include github-calendar.html %}
