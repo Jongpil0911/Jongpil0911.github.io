@@ -42,7 +42,7 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
 [1]&nbsp;&nbsp;**Jongpil Jeong**, Min-Chul Lee, "Scattering Medium Removal Using Adaptive Masks for Scatter in the Spatial Frequency Domain", IEEE Access, 2025. DOI:[10.1109/ACCESS.2025.3563369](https://doi.org/10.1109/ACCESS.2025.3563369) <br/>
 
 
-## CONFERENSES
+## CONFERENSE
 ***
 <!-- ITC-CSCC 2025 -->
 [1]&nbsp;&nbsp;**Jongpil Jeong**, Myungjin Cho, Min-Chul Lee, "Scattering media removal under the harsh conditions using adaptive removal via mask for scatter", The $$40^{th}$$ International Technical Confernece on Circuits/Systems, Computers and Communications (ITC-CSCC 2025). IEEE, 2025, Submitted <br/>
