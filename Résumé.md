@@ -29,7 +29,7 @@ Mar.2018 ~ Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://donga.ac.
 ***
 - Signal processing and image processing
 - Dehaze algorithm
-- 3D optical image signal processing
+- 3D image reconstruction
 - Holography
 - Digital holographic microscopy (DHM)
 - Image ecryption and decryption
