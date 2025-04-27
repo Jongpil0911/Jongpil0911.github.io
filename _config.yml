@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Computational Imaging Systems Lab.
+title:                 Image processing Repository
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -301,6 +301,7 @@ collections:
   projects:
     permalink:         /projects/:path/
     output:            true
+
 
 
 # File inclusion/exclusion
