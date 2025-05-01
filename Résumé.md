@@ -39,38 +39,38 @@ Mar.2018 - Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://don
 
 ## PUBLICATIONS
 ***
-[1]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Min-Chul Lee, 
+[1]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, and Min-Chul Lee, 
 "Scattering Medium Removal Using Adaptive Masks for Scatter in the Spatial Frequency Domain", 
-*IEEE Access*, early access, 2025, 
+*IEEE Access*, vol. 13, p. 72769-72777, 2025, 
 DOI:[10.1109/ACCESS.2025.3563369](https://doi.org/10.1109/ACCESS.2025.3563369) <br/>
 
 
 ## CONFERENSE
 ***
 <!-- ITC-CSCC 2025 -->
-[1]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Myungjin Cho, Min-Chul Lee, 
+[1]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Myungjin Cho, and Min-Chul Lee, 
 "Scattering media removal under the harsh conditions using adaptive removal via mask for scatter", 
 *The $$40^{th}$$ International Technical Confernece on Circuits/Systems, Computers and Communications* (ITC-CSCC 2025). IEEE, 2025, 
 Submitted <br/>
 
-[2]&nbsp;&nbsp;Seongil Kim, **<U>Jongpil Jeong</U>**, Myungjin Cho, Min-Chul Lee, 
+[2]&nbsp;&nbsp;Seongil Kim, **<U>Jongpil Jeong</U>**, Myungjin Cho, and Min-Chul Lee, 
 "Advanced double random phase encryption for simultaneous two primary data", 
 *The $$40^{th}$$ International Technical Confernece on Circuits/Systems, Computers and Communications* (ITC-CSCC 2025). IEEE, 2025, 
 Submitted <br/>
 
-[3]&nbsp;&nbsp;Kosei Nakamura, **<U>Jongpil Jeong</U>**, Myungjin Cho, Min-Chul Lee, 
+[3]&nbsp;&nbsp;Kosei Nakamura, **<U>Jongpil Jeong</U>**, Myungjin Cho, and Min-Chul Lee, 
 "Adaptive Optimization of Kalman Filtering in Digital Holographic Microscopy for Improve Noise Reduction", 
 *The $$40^{th}$$ International Technical Confernece on Circuits/Systems, Computers and Communications* (ITC-CSCC 2025). IEEE, 2025, 
 Submitted <br/>
 
 <!-- ICCAS 2024 -->
-[4]&nbsp;&nbsp;Taishi Ono, **<U>Jongpil Jeong</U>**, Hyun-Woo Kim, Myungjin Cho, Min-Chul Lee, 
+[4]&nbsp;&nbsp;Taishi Ono, **<U>Jongpil Jeong</U>**, Hyun-Woo Kim, Myungjin Cho, and Min-Chul Lee, 
 "Kalman filtering optimization in Digital Holographic Microscopy (DHM)", 
 *The International Conference on Control, Automation, and Systems* (ICCAS 2024). IEEE, 2024. 
 DOI:[10.23919/ICCAS63016.2024.10773243](https://doi.org/10.23919/ICCAS63016.2024.10773243) <br/>
 
 <!-- JCSSE 2024 -->
-[5]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Hyun-woo Kim, Myungjin Cho, Min-Chul Lee, 
+[5]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Hyun-woo Kim, Myungjin Cho, and Min-Chul Lee, 
 "A study of noise reduction algorithm using statistical optimization in digital holographic microscopy", 
 *The $$21^{st}$$ International Joint Conference on Computer Science and Software Engineering* (JCSSE 2024). IEEE, 2024, 
 DOI:[10.1109/JCSSE61278.2024.10613728](https://doi.org/10.23919/ICCAS63016.2024.10773243) <br/>
@@ -78,7 +78,7 @@ DOI:[10.1109/JCSSE61278.2024.10613728](https://doi.org/10.23919/ICCAS63016.2024.
 
 ## Patents
 ***
-[1]&nbsp;&nbsp;Min-Chul Lee, **<U>Jongpil Jeong</U>**, 
+[1]&nbsp;&nbsp;Min-Chul Lee, and **<U>Jongpil Jeong</U>**, 
 “画像処理装置、画像処理方法および画像処理プログラム”, 
 Japanese Patents 特願 2024-214715. <br/>
 (Not publicly accessible at this time due to confidentiality under Japanese patent law.) <br/>
