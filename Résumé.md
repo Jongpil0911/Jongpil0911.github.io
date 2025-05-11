@@ -48,6 +48,10 @@ DOI:[10.1109/ACCESS.2025.3563369](https://doi.org/10.1109/ACCESS.2025.3563369) <
 ## CONFERENSE
 ***
 <!-- ICCAS 2025 -->
+<!-- [1]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Jong-Hoon Huh, Myungjin Cho, and Min-Chul Lee, 
+"Advanced scattering media removal by modified ARMS and resotration of colro information", 
+*The $$18^{th}$$ International Conference on Machine Vision* (ICMV 2025). SPIE, 2025, 
+Submitted <br/> -->
 
 <!-- ICMV 2025 -->
 [1]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Myungjin Cho, and Min-Chul Lee, 
