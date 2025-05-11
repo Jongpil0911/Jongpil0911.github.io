@@ -50,10 +50,10 @@ DOI:[10.1109/ACCESS.2025.3563369](https://doi.org/10.1109/ACCESS.2025.3563369) <
 <!-- ICCAS 2025 -->
 
 <!-- ICMV 2025 -->
-<!-- [1]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Myungjin Cho, and Min-Chul Lee, 
-"Single image scattering media removal using adaptive removal via mask for scatter", 
-*The $18^{th}$$ International Conference on Machin Vision* (ICMV 2025). SPIE, 2025, 
-Submitted <br/> -->
+[1]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Myungjin Cho, and Min-Chul Lee, 
+"Advanced scattering media removal by modified ARMS and resotration of colro information", 
+*The $$18^{th}$$ International Conference on Machine Vision* (ICMV 2025). SPIE, 2025, 
+Submitted <br/>
 
 <!-- ITC-CSCC 2025 -->
 [1]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Myungjin Cho, and Min-Chul Lee, 
