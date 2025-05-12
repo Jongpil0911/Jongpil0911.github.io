@@ -85,7 +85,7 @@ DOI:[10.23919/ICCAS63016.2024.10773243](https://doi.org/10.23919/ICCAS63016.2024
 [6]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Hyun-woo Kim, Myungjin Cho, and Min-Chul Lee, 
 "A study of noise reduction algorithm using statistical optimization in digital holographic microscopy", 
 *The $$21^{st}$$ International Joint Conference on Computer Science and Software Engineering* (JCSSE 2024). IEEE, 2024, 
-DOI:[10.1109/JCSSE61278.2024.10613728](https://doi.org/10.23919/ICCAS63016.2024.10773243) <br/>
+DOI:[10.1109/JCSSE61278.2024.10613728](https://doi.org/10.1109/JCSSE61278.2024.10613728) <br/>
 
 
 ## Patents
