@@ -6,7 +6,7 @@
       {
         "id": "965a517704ed9500",
         "type": "tabs",
-        "dimension": 29.918772563176894,
+        "dimension": 23.02882945467176,
         "children": [
           {
             "id": "56e920ba24676c8c",
@@ -21,9 +21,26 @@
         ]
       },
       {
+        "id": "c5da149d3af428d5",
+        "type": "tabs",
+        "dimension": 23.02882945467176,
+        "children": [
+          {
+            "id": "ac1f89e13f7354d8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
         "id": "be17485de1cb494f",
         "type": "tabs",
-        "dimension": 35.04061371841155,
+        "dimension": 53.942341090656484,
         "children": [
           {
             "id": "931c18cc938b1025",
@@ -38,16 +55,9 @@
               "icon": "lucide-file",
               "title": "Dehaze"
             }
-          }
-        ]
-      },
-      {
-        "id": "2fc33fa03f3cf154",
-        "type": "tabs",
-        "dimension": 35.04061371841155,
-        "children": [
+          },
           {
-            "id": "d574538f2edcbc6a",
+            "id": "9f216cd548b99fe2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -56,7 +66,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_featured_tags/Dehaze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dehaze"
+              "title": "Backlinks"
             }
           },
           {
@@ -148,12 +158,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_featured_tags/Dehaze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dehaze"
+              "title": "Outgoing links"
             }
           },
           {
@@ -177,13 +186,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_featured_tags/Dehaze.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dehaze"
+              "title": "Outline"
             }
           }
         ]
@@ -200,11 +208,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "931c18cc938b1025",
+  "active": "9f216cd548b99fe2",
   "lastOpenFiles": [
+    "_featured_tags/Dehaze.md",
+    "*Introduction.md",
     "_featured_tags/algorithm.md",
     "_posts/lablog/dhm/2023-01-28-DHM.md",
     "_posts/lablog/dehaze/2022-11-15-dcp.md",
