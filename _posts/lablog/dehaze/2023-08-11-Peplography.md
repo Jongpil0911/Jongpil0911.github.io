@@ -18,4 +18,3 @@ The paper is written as simple structures, everyone can easily follows. <br/>
 ## Result
 
 
-[[Dehaze]]
