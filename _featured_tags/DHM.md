@@ -2,7 +2,7 @@
 layout: tag-list
 type: tag
 title: Holography
-slug: lee
+slug: DHM
 category: lablog
 sidebar: true
 order: 2
