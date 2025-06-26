@@ -7,9 +7,9 @@ tags: SoC
 # Filter Study
 ## 1. 기본 개념
 ### 필터의 종류
-   1. FIR (Finite Impulse Response)<br/>
+   1. FIR (Finite Impulse Response)
    필터의 길이가 한정적이고 설계가 쉬우며, 신호를 쉽게 처리 할 수 있다. 영상처리에서는 FIR을 주로 사용한다<br/>
-   2. IIR (Infinite Imapuls Response)<br/>
+   2. IIR (Infinite Imapuls Response)
    필터의 길이가 무한하며 필터의 특성이 좋다. 하지만 설계가 어렵고, 신호를 처리하기 힘들다.<br/>
       
 ### 공간 필터링 (Spatial filtering)
