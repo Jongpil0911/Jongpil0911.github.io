@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3dec7ff75bf8949e",
@@ -161,6 +161,16 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "2fec164c93b725ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -184,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 534.5
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,14 +208,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b69f0f41db12ddb5",
+  "active": "9f216cd548b99fe2",
   "lastOpenFiles": [
-    "_posts/lablog/dehaze/2022-11-15-dcp.md",
+    "_posts/lablog/BE/2022-09-02-FilterStudy.md",
     "_posts/lablog/dehaze/2023-08-11-Peplography.md",
+    "_posts/lablog/dehaze/2022-11-15-dcp.md",
     "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
     "_posts/lablog/dhm/2023-01-28-DHM.md",
     "_posts/lablog/dhm/2024-10-29-Kalman.md",
-    "_posts/lablog/BE/2022-09-02-FilterStudy.md",
     "_posts/study/cpp/2024-08-10-vscommunity.md",
     "*Introduction.md",
     "_featured_tags/DHM.md",
