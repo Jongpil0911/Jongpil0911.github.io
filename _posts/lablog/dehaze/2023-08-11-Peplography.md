@@ -16,3 +16,6 @@ The paper is written as simple structures, everyone can easily follows. <br/>
 ### Low Intensity Restore Method
 
 ## Result
+
+
+[[Dehaze]]
