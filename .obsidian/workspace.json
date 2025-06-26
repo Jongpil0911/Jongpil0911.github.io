@@ -208,8 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f216cd548b99fe2",
+  "active": "b69f0f41db12ddb5",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "_posts/study/DIP/2024-03-06-ch1.md",
     "_posts/lablog/BE/2022-09-02-FilterStudy.md",
     "_posts/lablog/dehaze/2023-08-11-Peplography.md",
     "_posts/lablog/dehaze/2022-11-15-dcp.md",
@@ -222,7 +224,6 @@
     "_featured_tags/3D_Imaging.md",
     "_featured_tags/Dehaze.md",
     "_featured_tags/algorithm.md",
-    "_posts/study/DIP/2024-03-06-ch1.md",
     "Résumé.md"
   ]
 }
