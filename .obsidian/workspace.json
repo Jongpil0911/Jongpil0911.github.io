@@ -23,7 +23,7 @@
       {
         "id": "c5da149d3af428d5",
         "type": "tabs",
-        "dimension": 35.723350253807105,
+        "dimension": 35.72335025380711,
         "children": [
           {
             "id": "ac1f89e13f7354d8",
@@ -222,8 +222,7 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "9f216cd548b99fe2",
