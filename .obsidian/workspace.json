@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/lablog/dehaze/2022-11-15-dcp.md",
+                "file": "_posts/lablog/dhm/2024-10-29-Kalman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2022-11-15-dcp"
+              "title": "2024-10-29-Kalman"
             }
           }
         ]
@@ -49,6 +49,7 @@
           {
             "id": "78961b7a3a56e308",
             "type": "tabs",
+            "dimension": 59.2292089249493,
             "children": [
               {
                 "id": "9f216cd548b99fe2",
@@ -67,6 +68,7 @@
           {
             "id": "be17485de1cb494f",
             "type": "tabs",
+            "dimension": 40.77079107505071,
             "children": [
               {
                 "id": "931c18cc938b1025",
@@ -211,13 +213,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "145f4253b76745e0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,15 +245,15 @@
   },
   "active": "56e920ba24676c8c",
   "lastOpenFiles": [
+    "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
+    "_posts/lablog/dhm/2023-01-28-DHM.md",
+    "_posts/lablog/dehaze/2022-11-15-dcp.md",
     "_featured_tags/DHM.md",
     "_featured_tags/3D_Imaging.md",
     "_featured_tags/Dehaze.md",
     "*Introduction.md",
     "_featured_tags/algorithm.md",
-    "_posts/lablog/dhm/2023-01-28-DHM.md",
-    "_posts/lablog/dehaze/2022-11-15-dcp.md",
     "_posts/lablog/dhm/2024-10-29-Kalman.md",
-    "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
     "_posts/study/DIP/2024-03-06-ch1.md",
     "_posts/study/cpp/2024-08-10-vscommunity.md",
     "Résumé.md",
