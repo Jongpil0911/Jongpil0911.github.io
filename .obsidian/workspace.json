@@ -140,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/lablog/BE/2022-09-02-FilterStudy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2022-09-02-FilterStudy"
+              "title": "Outline"
             }
           },
           {
@@ -196,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b69f0f41db12ddb5",
+  "active": "9f216cd548b99fe2",
   "lastOpenFiles": [
+    "_posts/lablog/BE/2022-09-02-FilterStudy.md",
     "_posts/study/cpp/2024-08-10-vscommunity.md",
     "*Introduction.md",
     "_posts/lablog/dhm/2023-01-28-DHM.md",
@@ -210,7 +210,6 @@
     "_featured_tags/Dehaze.md",
     "_featured_tags/algorithm.md",
     "_posts/study/DIP/2024-03-06-ch1.md",
-    "Résumé.md",
-    "_posts/lablog/BE/2022-09-02-FilterStudy.md"
+    "Résumé.md"
   ]
 }
