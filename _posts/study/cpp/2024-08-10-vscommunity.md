@@ -4,47 +4,47 @@ title : Initialization of Visual Studio Community 2022
 category: study
 tags: c
 ---
-# Initialization of Visual Studio community 2022
-Before we start the c/c++, we must be install the Integrated Development Enviroment(as known as IDE).
-There are many kind of IDE, such as [visual studio community](https://visualstudio.microsoft.com/ko/), [visual studio code](https://code.visualstudio.com/) (VSC), [PyCharm](https://www.jetbrains.com/ko-kr/pycharm/), [Clion](https://www.jetbrains.com/ko-kr/clion/) at Intellij, etc.<br/>
-In this post, we try to study C/C++ with visual studio community 2022. Because the visual studio community 2022 is not require the extra install such as mingw, cmake. 
-The essential requriements are all included in the visual studio community 2022.
-So it is easy to setup for the beginners. 
-It also has lots of version of them, such as 2019, 2017, etc. 
-So if you don't mind visual studio community 2022, you can install another version.
-From now, we start the install of the visual studio community 2022 and print "Hello world" in Command Prompt<br/>
+# Initialization of Visual Studio Community 2022
+Before we start the c/c++, we must install the Integrated Development Environment (also known as IDE).
+There are many kind of IDEs, such as [Visual Studio Community](https://visualstudio.microsoft.com/ko/), [Visual Studio Code](https://code.visualstudio.com/) (VSC), [PyCharm](https://www.jetbrains.com/ko-kr/pycharm/), [Clion](https://www.jetbrains.com/ko-kr/clion/) at Intellij, etc.<br/>
+In this post, we try to study C/C++ with Visual Studio Community 2022. Because Visual Studio Community 2022 does not require additional installations, such as MinGW or CMake. 
+The essential requirements are all included in the Visual Studio Community 2022.
+So it is easy to set up for beginners. 
+It also has lots of versions of them, such as 2019, 2017, etc. 
+So, if you don't mind Visual Studio Community 2022, you can install another version.
+From now on, we start the installation of the Visual Studio Community 2022 and print "Hello world" in the Command Prompt<br/>
 ### First, visit the Visual Studio website.
-If you check the [this](https://visualstudio.microsoft.com/ko/) you can visit the Visual Studio website.
-But i'm Korean, Maybe the website inital language is Korean.
-When you visit the website, we can recongized the **Download Visual Studio** button on the left side.
-Then, click the button for download exe file.<br/>
+If you check [this](https://visualstudio.microsoft.com/ko/), you can visit the Visual Studio website.
+But I'm Korean, maybe the website's initial language is Korean.
+When you visit the website, we can recognize the **Download Visual Studio** button on the left side.
+Then, click the button to download the exe file.<br/>
 ![Visual Studio Website image](./Initialization/Screenshot%202024-08-10%20173044.png)<br/>
-### Second, Download and install the file.
-If you click the button, exe file will be automatically downloaded.
+### Second, download and install the file.
+If you click the button, the .exe file will be automatically downloaded.
 Then, go to the Download folder, check the VisualStudioSetup.exe file.
-The popup window will be shown as follow<br/>
+The popup window will be shown as follows <br/>
 ![contiune](./Initialization/Screenshot%202024-08-10%20173709.png)<br/>
 Click the **Continue**
 Then we can see the installation setting<br/>
 ![window](./Initialization/Screenshot%202024-08-10%20173755.png)<br/>
 Click the Available and check the Available setup.
-In my PC, already install the visual studio community 2022, we can see only visual studio community 2022 preview version.
-After then, click the **Install**.<br/>
+In my PC, I have already installed the Visual Studio Community 2022, and we can see only the Visual Studio Community 2022 preview version.
+After that, click the **Install**.<br/>
 ![install](./Initialization/image.png)<br/>
 In this window, we check the what you want.
-In my case, i installed the Desktop development with C++<br/>
+In my case, I installed the Desktop development with C++<br/>
 ![ddwc](./Initialization/Screenshot%202024-08-10%20174702.png)<br/>
-Additionally, i also make GUI, so i check the **C++ MFC for latest v143 build tools** and **C++ Modules for v143 build tools**
-Then, click the download and install. If you clicked, it takes Few minutes or hours, so take rest. :)
-If you finished installation, we can see the this window.
-### Third, Create the project.<br/>
+Additionally, I also make GUI, so i check the **C++ MFC for the latest v143 build tools** and **C++ Modules for v143 build tools**
+Then, click the download and install. If you clicked, it takes a few minutes or hours, so take a rest. :)
+If you have finished the installation, we can see this window.
+### Third, create the project.<br/>
 ![initalwindow](./Initialization/Screenshot%202024-08-10%20175500.png)<br/>
-We don't have the any project before, therefore click the **Create a new project**
+We don't have any projects before, therefore, click **Create a new project**
 Then we can see lots of options.
-Our goal is show in the "Hello world" in command prompt. So we find the **Empty Project** in Create a new prject window<br/>
+Our goal is to show in the "Hello world" in the command prompt. So we find the **Empty Project** in the Create a new project window<br/>
 ![emptyProject](./Initialization/Screenshot%202024-08-10%20175910.png)<br/>
-Then, create the project name and find location of the save project, basically the project will be saved in the **C:\Users\{user name}\source\repos**.
-In addtion, the project name and solution name must be same.<br/>
+Then, create the project name and find the location to save the project; basically, the project will be saved in the **C:\Users\ \{user name}\source\repos**.
+In addition, the project name and solution name must be the same.<br/>
 ![projectname](./Initialization/Screenshot%202024-08-10%20175915.png)<br/>
 congratulation!
 You created first project with me :)<br/>
@@ -88,15 +88,15 @@ It measn function's name.
 The c/c++ need main function.
 If you don't use main fucntion, the code will be show the error like this.<br/>
 ![error](./Initialization/Screenshot%202024-08-10%20182703.png)<br/>
-When you finished the typing the code, we can push the key **F5** for *debug*.
-After the debug, if code has not any error, we can see the command prompt.<br/>
+When you finish typing the code, we can push the key F5 to *debug*.
+After the debug, if the code has no errors, we can see the command prompt.<br/>
 ![prompt](./Initialization/Screenshot%202024-08-10%20180130.png)<br/>
 Otherwise, if your code have any error.
 You can get the chance to debug or modifed your code like this.<br/>
 ![error](./Initialization/Screenshot%202024-08-10%20182703.png)<br/>
-The visual studio community 2022 is so kind.
-Therefore, the shown the errors as follow.
-If you recongized these errors, you can easily fix the errors.<br/>
+The Visual Studio Community 2022 is so kind.
+Therefore, the following errors are shown.
+If you recognized these errors, you can easily fix them.<br/>
 ![errorcode](./Initialization/Screenshot%202024-08-10%20183135.png)<br/>
 #### Thank you for read my post.
 
