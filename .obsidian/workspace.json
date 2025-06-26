@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/lablog/BE/2022-09-02-FilterStudy.md",
+                "file": "_posts/lablog/BE/2023-08-23-Kalman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2022-09-02-FilterStudy"
+              "title": "2023-08-23-Kalman"
             }
           }
         ]
@@ -210,9 +210,10 @@
   },
   "active": "b69f0f41db12ddb5",
   "lastOpenFiles": [
+    "_posts/lablog/BE/2022-09-02-FilterStudy.md",
+    "_posts/lablog/BE/2023-08-23-Kalman.md",
     "Untitled.canvas",
     "_posts/study/DIP/2024-03-06-ch1.md",
-    "_posts/lablog/BE/2022-09-02-FilterStudy.md",
     "_posts/lablog/dehaze/2023-08-11-Peplography.md",
     "_posts/lablog/dehaze/2022-11-15-dcp.md",
     "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
