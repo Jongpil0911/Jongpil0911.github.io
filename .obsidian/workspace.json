@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/lablog/dehaze/2025-05-01-ARMS.md",
+                "file": "_posts/lablog/BE/2022-09-02-FilterStudy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-01-ARMS"
+              "title": "2022-09-02-FilterStudy"
             }
           }
         ]
@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 418.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,21 +210,21 @@
   },
   "active": "b69f0f41db12ddb5",
   "lastOpenFiles": [
-    "_posts/lablog/dehaze/2023-08-11-Peplography.md",
     "_posts/lablog/dehaze/2025-05-01-ARMS.md",
+    "_posts/lablog/dehaze/2023-08-11-Peplography.md",
+    "_posts/lablog/dehaze/2022-11-15-dcp.md",
+    "_posts/lablog/dhm/2024-10-29-Kalman.md",
+    "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
+    "_posts/lablog/dhm/2023-01-28-DHM.md",
+    "_posts/lablog/BE/2023-08-23-Kalman.md",
     "_posts/lablog/BE/2022-09-02-FilterStudy.md",
     "_featured_tags/Filter.md",
     "_featured_tags/Dehaze.md",
     "_featured_tags/cpp.md",
     "_featured_tags/SoC.md",
     "_featured_tags/3D_Imaging.md",
-    "_posts/lablog/BE/2023-08-23-Kalman.md",
     "Untitled.canvas",
     "_posts/study/DIP/2024-03-06-ch1.md",
-    "_posts/lablog/dehaze/2022-11-15-dcp.md",
-    "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
-    "_posts/lablog/dhm/2023-01-28-DHM.md",
-    "_posts/lablog/dhm/2024-10-29-Kalman.md",
     "_posts/study/cpp/2024-08-10-vscommunity.md",
     "*Introduction.md",
     "_featured_tags/DHM.md",
