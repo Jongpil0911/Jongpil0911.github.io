@@ -214,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 511.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9decdc396ed6c73a",
+  "active": "9f216cd548b99fe2",
   "lastOpenFiles": [
-    "_posts/study/DIP/2024-03-06-ch1.md",
     "_posts/lablog/dehaze/2023-08-11-Peplography.md",
+    "_posts/study/DIP/2024-03-06-ch1.md",
     "_posts/lablog/dhm/2024-10-29-Kalman.md",
     "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
     "_posts/lablog/dehaze/2025-05-01-ARMS.md",
