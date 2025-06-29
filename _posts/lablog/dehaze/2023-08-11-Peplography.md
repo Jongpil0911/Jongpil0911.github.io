@@ -14,7 +14,7 @@ To overcome the harsh visible conditions, several methods have been proposed. <b
 This paper assumed more hazy images than other papers. <br/>
 
 ## Theory
-This method is consistent with the two theories, the [Fog Estimation Method](#fog-estimation-method) and the [Restore the decreased intensity through the Photon counting detection model](#restore-the-decreased-intensity-through-the-photon-counting-detection-model).<br/>
+This method is consistent with the two theories, the [Fog Estimation Method](##fog-estimation-method) and the [Restore the decreased intensity through the Photon counting detection model](##restore-the-decreased-intensity-through-the-photon-counting-detection-model).<br/>
 
 
 ### Fog Estimation Method
@@ -98,7 +98,7 @@ $$
 $$
 
 where $$\eta$$ represents the quantum efficiency, which represents the average number of photo-events produced by each incident photon $$(\eta \geq 1)$$; $$h$$  represents Planck's constant, and $$\overline{\nu}_c$$ represents mean optical frequency of the radiation, respectively. <br/>
-Thus, they can be set to be 1.4497, 1.1270, and 1, respectively, because we set B channel as the reference and the average wavelengths of each color channel and set to be 685nm (R:620 ~ 750nm), 532.5nm (G:495 ~ 570nm), and 472.5nm (B:450 ~ 495nm), respectively.<br/>s
+Thus, they can be set to be 1.4497, 1.1270, and 1, respectively, because we set B channel as the reference and the average wavelengths of each color channel and set to be 685nm (R:620 ~ 750nm), 532.5nm (G:495 ~ 570nm), and 472.5nm (B:450 ~ 495nm), respectively.<br/>
 
 ## Result
 
