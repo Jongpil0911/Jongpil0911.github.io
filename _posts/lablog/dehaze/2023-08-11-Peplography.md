@@ -27,12 +27,14 @@ The random variables are denoted as:<br/>
 $$
 X_{ij}(m,n) = I_p(i+m-1, j+n-1),
 $$
+<br/>
 $$
 \begin{aligned}
 i &= 1, 2, 3, ..., N_x - w_x + 1 ,\\
 j &= 1, 2, 3, ..., N_y - w_y + 1 ,
 \end{aligned}
 $$
+<br/>
 $$
 \begin{aligned}
 for \\
@@ -40,8 +42,9 @@ m &= 1, 2, 3, ..., w_x ,\\
 n &= 1, 2, 3, ..., w_y ,
 \end{aligned}
 $$
-where $$X_{ij}$$ is a $$i$$th column and $$j$$th row local area of a peplogram, $$I_p$$ is the pixel intensity of the peplogram, and $$N_x$$, $$N_y$$ are the total number of pixels i the $$x$$ and $$y$$ directions of the peplogram, respectively.
-We estimate the scattering media by finding the unknown parameter $$\mu_{ij}$$ (Sample mean) of a Gaussian distribution using the MLE method as follows:
+<br/>
+where $$X_{ij}$$ is a $$i$$th column and $$j$$th row local area of a peplogram, $$I_p$$ is the pixel intensity of the peplogram, and $$N_x$$, $$N_y$$ are the total number of pixels i the $$x$$ and $$y$$ directions of the peplogram, respectively. <br/>
+We estimate the scattering media by finding the unknown parameter $$\mu_{ij}$$ (Sample mean) of a Gaussian distribution using the MLE method as follows:<br/>
 $$
 \begin{aligned}
 L(X_{ij}(m,n)|\mu_{ij}, \sigma^2_{ij})
@@ -50,11 +53,13 @@ L(X_{ij}(m,n)|\mu_{ij}, \sigma^2_{ij})
 &= \frac{1}{\sqrt{2\pi \sigma^2_{ij}}}exp\left[-\sum^{w_x}_{m=1}\sum^{w_y}_{n=1}\frac{\{x_{ij}(m,n)-\mu_{ij}\}^2}{2\sigma_{ij}}\right].
 \end{aligned}
 $$
-After applying the log transform, we obtain as follows:
+<br/>
+After applying the log transform, we obtain as follows:<br/>
 $$
 l\left\{X_{ij}(m,n)|\mu_{ij},\sigma^2_{ij}\right\}=log\left(\frac{1}{\sqrt{2\pi \sigma^2_{ij}}}\right) - \sum^{w_x}_{m=1}\sum^{w_y}_{n=1}\frac{\{x_{ij}(m,n)-\mu_{ij}\}^2}{2\sigma^2},
 $$
-The estimated scattering medium is
+<br/>
+The estimated scattering medium is<br/>
 $$
 \begin{aligned}
 \hat{\mu}_{ij} &= arg \left[max_{\mu_{ij}}l\{X_{ij}(m,n)|\mu_{ij}\}\right], \\
