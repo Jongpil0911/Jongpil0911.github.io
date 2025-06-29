@@ -30,6 +30,7 @@ X_{ij}(m,n) = I_p(i+m-1, j+n-1),
 $$
 
 <br/>
+
 $$
 \begin{aligned}
 i &= 1, 2, 3, ..., N_x - w_x + 1 ,\\
@@ -38,6 +39,7 @@ j &= 1, 2, 3, ..., N_y - w_y + 1 ,
 $$
 
 <br/>
+
 $$
 \begin{aligned}
 for \\
