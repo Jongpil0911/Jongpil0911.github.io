@@ -16,11 +16,18 @@ This paper assumed more hazy images than other papers. <br/>
 ## Theory
 This method is consistent with the two theories, the [Fog Estimation Method](##fog-estimation-method) and the [Restore the decreased intensity through the Photon counting detection model](##restore-the-decreased-intensity-through-the-photon-counting-detection-model).<br/>
 
+<p align="center">
+
+<img src = "https://github.com/user-attachments/assets/eac7a617-9e03-462c-9cc9-2198dfa1d5dd", width="600", height="400">
+
+</p>
 
 ### Fog Estimation Method
 In this theory, we learned the novel dynamic passive imaging technique through scattering media by directly detecting ballistic photons emanating from objects based on statistical optics. <br/>
 It is assumed that the intensity and phase of the light propagating through scattering media are randomized.<br/>
 To estimate scattering media from a single peplogram, we apply a statistical estimation method, such as **m**aximum **l**ikelihood **e**stimation(MLE). <br/><br/>
+
+
 We assume that the scattering media are composed of many scattering parts with dimensions of $$w_x \times w_y$$ . <br/>
 The scattering media is modeled by a **Gaussian distribution** with a sample mean $$\mu_{ij}$$ and variance $$\sigma^2_{ij}$$, where $$i$$ and $$j$$ are the indices of each scattering part in the $$x$$ and $$y$$ directions, respectively.<br/>
 The random variables are denoted as:<br/>
