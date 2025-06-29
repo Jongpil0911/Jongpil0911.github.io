@@ -14,9 +14,9 @@ To overcome the harsh visible conditions, several methods have been proposed. <b
 This paper assumed more hazy images than other papers. <br/>
 
 ## Theory
-This method is consistent with the two theories, the [Fog Estimation Method](##fog-estimation-method) and the [Restore the decreased intensity through the Photon counting detection model](##restore-the-decreased-intensity-through-the-photon-counting-detection-model).<br/>
+This method is consistent with the two theories, the [Fog Estimation Method](#fog-estimation-method) and the [Restore the decreased intensity through the Photon counting detection model](#restore-the-decreased-intensity-through-the-photon-counting-detection-model).<br/>
 
-![Image](https://github.com/user-attachments/assets/2f5ea967-4e04-42af-84c0-10722a466361)
+![Hazy image](https://github.com/user-attachments/assets/2f5ea967-4e04-42af-84c0-10722a466361)
 
 ### Fog Estimation Method
 In this theory, we learned the novel dynamic passive imaging technique through scattering media by directly detecting ballistic photons emanating from objects based on statistical optics. <br/>
@@ -80,14 +80,14 @@ To recover the dropped intensity in reconstruction image, we use the Photon coun
 A Photon counting model is expressed as follows:<br/>
 
 $$
-\widetilde{I_p}(i,j)=\frac{I'_p(ij)}{\sum_i\sum_jI'_p(i,j)}
+\widetilde{I}_p(i,j)=\frac{I'_p(ij)}{\sum_i\sum_jI'_p(i,j)}
 $$
 
 where $$I'_p$$ is the processed peplogram and $$(w_x, w_y)$$ are the scattering windows local dimensions used in the previous estimation, respectively. <br/>
 The reconstructed peplogram using photon counting model is<br/>
 
 $$
-\hat{I_p}(i,j)|\widetilde{I_p}(i,j) \sim Poisson[\gamma_c N_p \widetilde{I_p}(i,j)],
+\hat{I}_p(i,j)|\widetilde{I}_p(i,j) \sim Poisson[\gamma_c N_p \widetilde{I}_p(i,j)],
 $$
 
 where $$N_p$$, $$c$$, and $$\gamma_c$$ are the expected number of the ballistic photons from the normalized irradiance peplogram, the index of the color channels (R, G, and B) and the coefficient of the ballistic photons from each color channel, respectively.<br/>
