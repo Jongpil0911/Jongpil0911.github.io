@@ -7,7 +7,7 @@ tags: DA
 # [Peplography—a passive 3D photon counting imaging through scattering media](https://opg.optica.org/ol/abstract.cfm?uri=ol-41-22-5401)
 This paper is written by Prof. Myungjin Cho, and Prof. Bahram Javidi at Hankyung National University and University of Connecticut, respectively.<br/>
 This review consists of [Theory](#Theory), [Result](#Result), and codes. <br/>
-The paper is written in a simple structure, so everyone can easily follow. <br/>
+The paper is written in a straightforward structure, making it easy for everyone to follow. <br/>
 
 ## Introduction
 To overcome the harsh visible conditions, several methods have been proposed. <br/>
@@ -24,6 +24,7 @@ To estimate scattering media from a single peplogram, we apply a statistical est
 We assume that the scattering media are composed of many scattering parts with dimensions of $$w_x \times w_y$$ . <br/>
 The scattering media is modeled by a **Gaussian distribution** with a sample mean $$\mu_{ij}$$ and variance $$\sigma^2_{ij}$$, where $$i$$ and $$j$$ are the indices of each scattering part in the $$x$$ and $$y$$ directions, respectively.<br/>
 The random variables are denoted as:<br/>
+
 $$
 X_{ij}(m,n) = I_p(i+m-1, j+n-1),
 $$
@@ -47,6 +48,7 @@ $$
 
 where $$X_{ij}$$ is a $$i$$th column and $$j$$th row local area of a peplogram, $$I_p$$ is the pixel intensity of the peplogram, and $$N_x$$, $$N_y$$ are the total number of pixels i the $$x$$ and $$y$$ directions of the peplogram, respectively. <br/><br/>
 We estimate the scattering media by finding the unknown parameter $$\mu_{ij}$$ (Sample mean) of a Gaussian distribution using the MLE method as follows:<br/>
+
 $$
 \begin{aligned}
 L(X_{ij}(m,n)|\mu_{ij}, \sigma^2_{ij})
@@ -57,11 +59,13 @@ L(X_{ij}(m,n)|\mu_{ij}, \sigma^2_{ij})
 $$
 
 After applying the log transform, we obtain as follows:<br/>
+
 $$
 l\left\{X_{ij}(m,n)|\mu_{ij},\sigma^2_{ij}\right\}=log\left(\frac{1}{\sqrt{2\pi \sigma^2_{ij}}}\right) - \sum^{w_x}_{m=1}\sum^{w_y}_{n=1}\frac{\{x_{ij}(m,n)-\mu_{ij}\}^2}{2\sigma^2},
 $$
 
 The estimated scattering medium is<br/>
+
 $$
 \begin{aligned}
 \hat{\mu}_{ij} &= arg \left[max_{\mu_{ij}}l\{X_{ij}(m,n)|\mu_{ij}\}\right], \\
@@ -70,6 +74,7 @@ $$
 $$
 
 The peplogram $$I'_p$$ after removing the scattering media is expressed by the following equation:<br/>
+
 $$
 I'_p(i,j)=I_p(i,j)-\hat{\mu}_{ij}
 $$
@@ -78,12 +83,14 @@ $$
 
 To recover the dropped intensity in reconstruction image, we use the Photon counting detection model. <br/>
 A Photon counting model is expressed as follows:<br/>
+
 $$
 \widetilde{I_p}(i,j)=\frac{I'_p(ij)}{\sum_i\sum_jI'_p(i,j)}
 $$
 
 where $$I'_p$$ is the processed peplogram and $$(w_x, w_y)$$ are the scattering windows local dimensions used in the previous estimation, respectively. <br/>
 The reconstructed peplogram using photon counting model is<br/>
+
 $$
 \hat{I_p}(i,j)|\widetilde{I_p}(i,j) \sim Poisson[\gamma_c N_p \widetilde{I_p}(i,j)],
 $$
