@@ -96,9 +96,7 @@ For each basic color channel(i.e., R, G, and B), different coefficients should b
 The coefficients of the ballistic photons $$\gamma_c$$ can be defined with R, G, and B channels by<br/>
 
 $$
-
 \gamma_c = \frac{\eta}{h\overline{\nu}_c},
-
 $$
 
 where $$\eta$$ represents the quantum efficiency, which represents the average number of photo-events produced by each incident photon $$(\eta \geq 1)$$; $$h$$  represents Planck's constant, and $$\overline{\nu}_c$$ represents mean optical frequency of the radiation, respectively. <br/>
