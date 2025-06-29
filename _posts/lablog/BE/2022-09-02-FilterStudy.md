@@ -1,8 +1,10 @@
 ---
 layout: post
-title : Filter Study
+title: Filter Study
 category: lablog
-tags: SoC, filter
+tags:
+  - SoC
+  - filter
 ---
 # Filter Study
 ## 1. 기본 개념
