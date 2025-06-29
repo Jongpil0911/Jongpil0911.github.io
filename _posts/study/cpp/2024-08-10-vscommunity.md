@@ -42,7 +42,7 @@ If you have finished the installation, we can see this window.
 We don't have any projects before, therefore, click **Create a new project**
 Then we can see lots of options.
 Our goal is to show in the "Hello world" in the command prompt. So we find the **Empty Project** in the Create a new project window<br/>
-![emptyProject](./Initialization/Screenshot%202024-08-10%20175910.png)<br/>
+<img src="./Initialization/Screenshot%202024-08-10%20175910.png"><br/>
 Then, create the project name and find the location to save the project; basically, the project will be saved in the **C:\Users\ \{user name}\source\repos**.
 In addition, the project name and solution name must be the same.<br/>
 ![projectname](./Initialization/Screenshot%202024-08-10%20175915.png)<br/>
