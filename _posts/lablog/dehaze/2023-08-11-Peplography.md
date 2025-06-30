@@ -104,5 +104,7 @@ where $$\eta$$ represents the quantum efficiency, which represents the average n
 Thus, they can be set to be 1.4497, 1.1270, and 1, respectively, because we set B channel as the reference and the average wavelengths of each color channel and set to be 685nm (R:620 ~ 750nm), 532.5nm (G:495 ~ 570nm), and 472.5nm (B:450 ~ 495nm), respectively.<br/>
 
 ## Result
+- [Notebook](https://colab.research.google.com/drive/1msC7tYO8n1hpu7yZarVyYON7iiARgOKh)
 
-
+## Related  paper
+- [Peplography—a passive 3D photon counting imaging through scattering media](https://opg.optica.org/ol/abstract.cfm?uri=ol-41-22-5401)
