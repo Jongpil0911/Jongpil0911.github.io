@@ -24,7 +24,7 @@ It is assumed that the intensity and phase of the light propagating through scat
 To estimate scattering media from a single peplogram, we apply a statistical estimation method, such as **m**aximum **l**ikelihood **e**stimation(MLE). <br/><br/>
 <img src="https://github.com/user-attachments/assets/954cec13-8941-494e-8366-643917ec162d"/>
 
-We assume that the scattering media are composed of many scattering parts with dimensions of $$w_x \times w_y$$ . <br/>
+We assume that the scattering media are composed of many scattering parts with dimensions of $w_x \times w_y$ . <br/>
 The scattering media is modeled by a **Gaussian distribution** with a sample mean $$\mu_{ij}$$ and variance $$\sigma^2_{ij}$$, where $$i$$ and $$j$$ are the indices of each scattering part in the $$x$$ and $$y$$ directions, respectively.<br/>
 The random variables are denoted as:<br/>
 
