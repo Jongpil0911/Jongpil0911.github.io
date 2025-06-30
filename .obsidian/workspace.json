@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/lablog/dehaze/2023-08-11-Peplography.md",
+                "file": "_featured_tags/SoC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2023-08-11-Peplography"
+              "title": "SoC"
             }
           }
         ]
@@ -210,6 +210,7 @@
   },
   "active": "b3fc2635a1c1d2e7",
   "lastOpenFiles": [
+    "_posts/lablog/dehaze/2023-08-11-Peplography.md",
     "_featured_tags/review.md",
     "_featured_tags/SoC.md",
     "_featured_tags/cpp.md",
@@ -218,7 +219,6 @@
     "_featured_tags/DHM.md",
     "_featured_tags/digital_image_processing.md",
     "_posts/lablog/dehaze/2025-05-01-ARMS.md",
-    "_posts/lablog/dehaze/2023-08-11-Peplography.md",
     "_posts/lablog/dehaze/2022-11-15-dcp.md",
     "assets/img/Peplography/Peplography_9.png",
     "assets/img/Peplography/Removed_haze.png",
