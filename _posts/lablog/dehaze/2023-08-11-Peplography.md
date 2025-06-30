@@ -25,9 +25,8 @@ To estimate scattering media from a single peplogram, we apply a statistical est
 <img src="https://github.com/user-attachments/assets/954cec13-8941-494e-8366-643917ec162d"/>
 
 We assume that the scattering media are composed of many scattering parts with dimensions of $w_x \times w_y$ . <br/>
-The scattering media is modeled by a **Gaussian distribution** with a sample mean $$\mu_{ij}$$ and variance $$\sigma^2_{ij}$$, where $$i$$ and $$j$$ are the indices of each scattering part in the $$x$$ and $$y$$ directions, respectively.<br/>
+The scattering media is modeled by a **Gaussian distribution** with a sample mean $\mu_{ij}$ and variance $\sigma^2_{ij}$, where $i$ and $j$ are the indices of each scattering part in the $x$ and $y$ directions, respectively.<br/>
 The random variables are denoted as:<br/>
-
 $$
 \begin{aligned}
 X_{ij}(m,n) &= I_p(i+m-1, j+n-1),\\
@@ -40,10 +39,8 @@ m &= 1, 2, 3, ..., w_x ,\\
 n &= 1, 2, 3, ..., w_y ,
 \end{aligned}
 $$
-
-where $$X_{ij}$$ is a $$i$$th column and $$j$$th row local area of a peplogram, $$I_p$$ is the pixel intensity of the peplogram, and $$N_x$$, $$N_y$$ are the total number of pixels i the $$x$$ and $$y$$ directions of the peplogram, respectively. <br/><br/>
-We estimate the scattering media by finding the unknown parameter $$\mu_{ij}$$ (Sample mean) of a Gaussian distribution using the MLE method as follows:<br/>
-
+where $X_{ij}$ is a $i$th column and $j$th row local area of a peplogram, $I_p$ is the pixel intensity of the peplogram, and $N_x$, $N_y$ are the total number of pixels i the $x$ and $y$ directions of the peplogram, respectively. <br/><br/>
+We estimate the scattering media by finding the unknown parameter $\mu_{ij}$ (Sample mean) of a Gaussian distribution using the MLE method as follows:<br/>
 $$
 \begin{aligned}
 L(X_{ij}(m,n)|\mu_{ij}, \sigma^2_{ij})
@@ -52,23 +49,18 @@ L(X_{ij}(m,n)|\mu_{ij}, \sigma^2_{ij})
 &= \frac{1}{\sqrt{2\pi \sigma^2_{ij}}}exp\left[-\sum^{w_x}_{m=1}\sum^{w_y}_{n=1}\frac{\{x_{ij}(m,n)-\mu_{ij}\}^2}{2\sigma_{ij}}\right].
 \end{aligned}
 $$
-
 After applying the log transform, we obtain as follows:<br/>
-
 $$
 l\left\{X_{ij}(m,n)|\mu_{ij},\sigma^2_{ij}\right\}=log\left(\frac{1}{\sqrt{2\pi \sigma^2_{ij}}}\right) - \sum^{w_x}_{m=1}\sum^{w_y}_{n=1}\frac{\{x_{ij}(m,n)-\mu_{ij}\}^2}{2\sigma^2},
 $$
-
 The estimated scattering medium is<br/>
-
 $$
 \begin{aligned}
 \hat{\mu}_{ij} &= arg \left[max_{\mu_{ij}}l\{X_{ij}(m,n)|\mu_{ij}\}\right], \\
 &=\frac{1}{w_xw_y}\sum^{w_x}_{m=1}\sum^{w_y}_{n=1}x_{ij}(m,n),
 \end{aligned}
 $$
-
-The peplogram $$I'_p$$ after removing the scattering media is expressed by the following equation:<br/>
+The peplogram $I'_p$ after removing the scattering media is expressed by the following equation:<br/>
 
 $$
 I'_p(i,j)=I_p(i,j)-\hat{\mu}_{ij}
