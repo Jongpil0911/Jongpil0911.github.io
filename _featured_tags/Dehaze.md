@@ -2,7 +2,7 @@
 layout: tag-list
 type: tag
 title: Dehaze Algorithm
-slug: DA
+slug: Dehaze
 category: lablog
 sidebar: true
 order: 1

@@ -2,7 +2,7 @@
 layout: post
 title: Peplography—a passive 3D photon counting imaging through scattering media
 category: lablog
-tags: DA
+tags: Dehaze, review
 ---
 # [Peplography—a passive 3D photon counting imaging through scattering media](https://opg.optica.org/ol/abstract.cfm?uri=ol-41-22-5401)
 This paper is written by Prof. Myungjin Cho, and Prof. Bahram Javidi at Hankyung National University and University of Connecticut, respectively.<br/>
@@ -17,7 +17,7 @@ This paper assumed more hazy images than other papers. <br/>
 This method is consistent with the two theories, the [Fog Estimation Method](#fog-estimation-method) and the [Restore the decreased intensity through the Photon counting detection model](#restore-the-decreased-intensity-through-the-photon-counting-detection-model).<br/>
 
 | ![Reference image](/assets/img/Peplography/2K_DCI_0030.png) | ![Hazy image](/assets/img/Peplography/2K_DCI_0039.png) |
-| ------------------------------------------------- | -------------------------------------------- |
+| --- | --- |
 ### Fog Estimation Method
 In this theory, we learned the novel dynamic passive imaging technique through scattering media by directly detecting ballistic photons emanating from objects based on statistical optics. <br/>
 It is assumed that the intensity and phase of the light propagating through scattering media are randomized.<br/>

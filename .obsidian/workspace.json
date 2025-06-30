@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/lablog/dehaze/2023-08-11-Peplography.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,20 +210,28 @@
   },
   "active": "b3fc2635a1c1d2e7",
   "lastOpenFiles": [
+    "_featured_tags/review.md",
+    "_featured_tags/SoC.md",
+    "_featured_tags/cpp.md",
+    "_featured_tags/Dehaze.md",
+    "_featured_tags/Dep_sys.md",
+    "_featured_tags/DHM.md",
+    "_featured_tags/digital_image_processing.md",
+    "_posts/lablog/dehaze/2025-05-01-ARMS.md",
+    "_posts/lablog/dehaze/2023-08-11-Peplography.md",
+    "_posts/lablog/dehaze/2022-11-15-dcp.md",
     "assets/img/Peplography/Peplography_9.png",
     "assets/img/Peplography/Removed_haze.png",
     "assets/img/Peplography/Estimated_haze.png",
     "assets/img/Peplography/2K_DCI_0039.png",
     "assets/img/Peplography/2K_DCI_0030.png",
     "assets/img/Peplography",
-    "_posts/lablog/dehaze/2023-08-11-Peplography.md",
     "_posts/lablog/dehaze/Peplography/Peplography_9.png",
     "_posts/lablog/dehaze/Peplography/Removed_haze.png",
     "_posts/lablog/dehaze/Peplography/Estimated_haze.png",
     "_posts/lablog/dehaze/Peplography/2K_DCI_0039.png",
     "_posts/lablog/dehaze/Peplography/2K_DCI_0030.png",
     "_posts/lablog/dehaze/Peplography",
-    "_posts/lablog/dehaze/img/Peplography_9.png",
     "_posts/lablog/dehaze/img",
     "_posts/lablog/dhm/2024-10-29-Kalman.md",
     "docs/build.md",
@@ -240,18 +247,10 @@
     "conflict-files-obsidian-git.md",
     "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
     "_posts/lablog/dhm/2023-01-28-DHM.md",
-    "_posts/lablog/dehaze/2022-11-15-dcp.md",
     "_posts/study/cpp/2024-08-10-vscommunity.md",
-    "_posts/lablog/dehaze/2025-05-01-ARMS.md",
     "_featured_tags/Filter.md",
-    "_featured_tags/Dehaze.md",
-    "_featured_tags/cpp.md",
-    "_featured_tags/SoC.md",
     "_featured_tags/3D_Imaging.md",
     "Untitled.canvas",
-    "*Introduction.md",
-    "_featured_tags/DHM.md",
-    "_featured_tags/algorithm.md",
-    "Résumé.md"
+    "*Introduction.md"
   ]
 }
