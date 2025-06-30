@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/study/DIP/2024-03-06-ch1.md",
+                "file": "_posts/study/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-03-06-ch1"
+              "title": "Untitled"
             }
           }
         ]
@@ -208,13 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3fc2635a1c1d2e7",
+  "active": "98189aba09a94976",
   "lastOpenFiles": [
+    "_posts/study/PID",
+    "_posts/study/Dep_sys/2024-04-23_Dep_sys_3.md",
+    "_posts/study/Untitled.md",
+    "_posts/study/circuit",
+    "_posts/study/DIP/2024-03-06-ch1.md",
     "_posts/lablog/dehaze/2023-08-11-Peplography.md",
     "_posts/lablog/BE/2023-08-23-Kalman.md",
     "_posts/lablog/BE/2022-09-02-FilterStudy.md",
     "conflict-files-obsidian-git.md",
-    "_posts/study/DIP/2024-03-06-ch1.md",
     "_posts/lablog/dhm/2024-10-29-Kalman.md",
     "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
     "_posts/lablog/dhm/2023-01-28-DHM.md",
