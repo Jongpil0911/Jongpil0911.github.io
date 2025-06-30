@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,6 +211,13 @@
   },
   "active": "b3fc2635a1c1d2e7",
   "lastOpenFiles": [
+    "assets/img/Peplography/Peplography_9.png",
+    "assets/img/Peplography/Removed_haze.png",
+    "assets/img/Peplography/Estimated_haze.png",
+    "assets/img/Peplography/2K_DCI_0039.png",
+    "assets/img/Peplography/2K_DCI_0030.png",
+    "assets/img/Peplography",
+    "_posts/lablog/dehaze/2023-08-11-Peplography.md",
     "_posts/lablog/dehaze/Peplography/Peplography_9.png",
     "_posts/lablog/dehaze/Peplography/Removed_haze.png",
     "_posts/lablog/dehaze/Peplography/Estimated_haze.png",
@@ -217,10 +225,6 @@
     "_posts/lablog/dehaze/Peplography/2K_DCI_0030.png",
     "_posts/lablog/dehaze/Peplography",
     "_posts/lablog/dehaze/img/Peplography_9.png",
-    "_posts/lablog/dehaze/img/Removed_haze.png",
-    "_posts/lablog/dehaze/img/Estimated_haze.png",
-    "_posts/lablog/dehaze/img/2K_DCI_0039.png",
-    "_posts/lablog/dehaze/img/2K_DCI_0030.png",
     "_posts/lablog/dehaze/img",
     "_posts/lablog/dhm/2024-10-29-Kalman.md",
     "docs/build.md",
@@ -231,7 +235,6 @@
     "_posts/study/Dep_sys/2024-04-23_Dep_sys_3.md",
     "_posts/study/circuit",
     "_posts/study/DIP/2024-03-06-ch1.md",
-    "_posts/lablog/dehaze/2023-08-11-Peplography.md",
     "_posts/lablog/BE/2023-08-23-Kalman.md",
     "_posts/lablog/BE/2022-09-02-FilterStudy.md",
     "conflict-files-obsidian-git.md",
@@ -239,7 +242,6 @@
     "_posts/lablog/dhm/2023-01-28-DHM.md",
     "_posts/lablog/dehaze/2022-11-15-dcp.md",
     "_posts/study/cpp/2024-08-10-vscommunity.md",
-    "_posts/study/cpp/Initialization/image.png",
     "_posts/lablog/dehaze/2025-05-01-ARMS.md",
     "_featured_tags/Filter.md",
     "_featured_tags/Dehaze.md",

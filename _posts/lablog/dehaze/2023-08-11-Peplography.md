@@ -16,13 +16,13 @@ This paper assumed more hazy images than other papers. <br/>
 ## Theory
 This method is consistent with the two theories, the [Fog Estimation Method](#fog-estimation-method) and the [Restore the decreased intensity through the Photon counting detection model](#restore-the-decreased-intensity-through-the-photon-counting-detection-model).<br/>
 
-| ![Reference image](./Peplography/2K_DCI_0030.png) | ![Hazy image](./Peplography/2K_DCI_0039.png) |
+| ![Reference image](/assets/img/Peplography/2K_DCI_0030.png) | ![Hazy image](/assets/img/Peplography/2K_DCI_0039.png) |
 | ------------------------------------------------- | -------------------------------------------- |
 ### Fog Estimation Method
 In this theory, we learned the novel dynamic passive imaging technique through scattering media by directly detecting ballistic photons emanating from objects based on statistical optics. <br/>
 It is assumed that the intensity and phase of the light propagating through scattering media are randomized.<br/>
 To estimate scattering media from a single peplogram, we apply a statistical estimation method, such as **m**aximum **l**ikelihood **e**stimation(MLE). <br/><br/>
-![Hazy image](./Peplography/2K_DCI_0039.png)
+![Hazy image](/assets/img/Peplography/2K_DCI_0039.png)
 
 We assume that the scattering media are composed of many scattering parts with dimensions of $w_x \times w_y$ . <br/>
 The scattering media is modeled by a **Gaussian distribution** with a sample mean $\mu_{ij}$ and variance $\sigma^2_{ij}$ , where $i$ and $j$ are the indices of each scattering part in the $x$ and $y$ directions, respectively.<br/>
@@ -68,7 +68,7 @@ $$
 \end{aligned}
 $$
 
-![Estimated scattering media](./Peplography/Estimated_haze.png)
+![Estimated scattering media](/assets/img/Peplography/Estimated_haze.png)
 
 The peplogram $I'_p$ after removing the scattering media is expressed by the following equation:<br/>
 
@@ -76,7 +76,7 @@ $$
 I'_p(i,j)=I_p(i,j)-\hat{\mu}_{ij}
 $$
 
-![Removed hazy image](./Peplography/Removed_haze.png)
+![Removed hazy image](/assets/img/Peplography/Removed_haze.png)
 ### Restore the decreased intensity through the Photon counting detection model.
 
 To recover the dropped intensity in reconstruction image, we use the Photon counting detection model. <br/>
@@ -106,17 +106,17 @@ $$
 where $\eta$ represents the quantum efficiency, which represents the average number of photo-events produced by each incident photon $(\eta \geq 1)$; $h$  represents Planck's constant, and $\overline{\nu}_c$ represents mean optical frequency of the radiation, respectively. <br/>
 Thus, they can be set to be 1.4497, 1.1270, and 1, respectively, because we set B channel as the reference and the average wavelengths of each color channel and set to be 685nm (R:620 ~ 750nm), 532.5nm (G:495 ~ 570nm), and 472.5nm (B:450 ~ 495nm), respectively.<br/>
 
-![Reconstructed image](./Peplography/Peplography_9.png)
+![Reconstructed image](/assets/img/Peplography/Peplography_9.png)
 
 ## Result
 Compare with the reference image shows below<br/>
 
-| ![Reference image](./Peplography/2K_DCI_0030.png) | ![Reconstructed image](./Peplography/Peplography_9.png) |
+| ![Reference image](/assets/img/Peplography/2K_DCI_0030.png) | ![Reconstructed image](/assets/img/Peplography/Peplography_9.png) |
 | --- | --- |
 
 To more detail comparison we show the all images
 
-| ![Reference image](./Peplography/2K_DCI_0030.png) | ![Hazy image](./Peplography/2K_DCI_0039.png) | ![Reconstructed image](./Peplography/Peplography_9.png) |
+| ![Reference image](/assets/img/Peplography/2K_DCI_0030.png) | ![Hazy image](/assets/img/Peplography/2K_DCI_0039.png) | ![Reconstructed image](/assets/img/Peplography/Peplography_9.png) |
 | --- | --- | --- |
 
 
