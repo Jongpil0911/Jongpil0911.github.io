@@ -4,9 +4,9 @@ title: Peplography—a passive 3D photon counting imaging through scattering med
 category: lablog
 tags: Dehaze, review
 ---
-# [Peplography—a passive 3D photon counting imaging through scattering media](https://opg.optica.org/ol/abstract.cfm?uri=ol-41-22-5401)
-This paper is written by Prof. Myungjin Cho, and Prof. Bahram Javidi at Hankyung National University and University of Connecticut, respectively.<br/>
-This review consists of [Theory](#Theory), [Result](#Result), and codes. <br/>
+# Peplography—a passive 3D photon counting imaging through scattering media
+This paper is written by Prof. [Myungjin Cho](https://scholar.google.com/citations?user=WAvCU2kAAAAJ&hl=en&oi=ao), and Prof. [Bahram Javidi](https://scholar.google.com/citations?user=mqIXYh4AAAAJ&hl=en&oi=ao) at Hankyung National University and University of Connecticut, respectively.<br/>
+This review consists of [Theory](#theory), [Result](#result), and codes. <br/>
 The paper is written in a straightforward structure, making it easy for everyone to follow. <br/>
 
 ## Introduction
@@ -19,6 +19,7 @@ This method is consistent with the two theories, the [Fog Estimation Method](#fo
 | ![Reference image](/assets/img/Peplography/2K_DCI_0030.png) | ![Hazy image](/assets/img/Peplography/2K_DCI_0039.png) |
 |:---:|:---:|
 |Reference image|Hazy image|
+
 ### Fog Estimation Method
 In this theory, we learned the novel dynamic passive imaging technique through scattering media by directly detecting ballistic photons emanating from objects based on statistical optics. <br/>
 It is assumed that the intensity and phase of the light propagating through scattering media are randomized.<br/>
@@ -122,6 +123,9 @@ To more detail comparison we show the all images
 | ![Reference image](/assets/img/Peplography/2K_DCI_0030.png) | ![Hazy image](/assets/img/Peplography/2K_DCI_0039.png) | ![Reconstructed image](/assets/img/Peplography/Peplography_9.png) |
 |:---:|:---:|:---:|
 |Reference image|Hazy image|Reconstructed image|
+
+
+## Code
 
 - [Notebook](https://colab.research.google.com/drive/1msC7tYO8n1hpu7yZarVyYON7iiARgOKh)
 
