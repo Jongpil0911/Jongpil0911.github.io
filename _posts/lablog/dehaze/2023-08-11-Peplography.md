@@ -25,7 +25,6 @@ To estimate scattering media from a single peplogram, we apply a statistical est
 <img src="https://github.com/user-attachments/assets/954cec13-8941-494e-8366-643917ec162d"/>
 
 We assume that the scattering media are composed of many scattering parts with dimensions of $w_x \times w_y$ . <br/>
-<<<<<<< HEAD
 The scattering media is modeled by a **Gaussian distribution** with a sample mean $\mu_{ij}$ and variance $\sigma^2_{ij}$ , where $i$ and $j$ are the indices of each scattering part in the $x$ and $y$ directions, respectively.<br/>
 The random variables are denoted as:
 =======
