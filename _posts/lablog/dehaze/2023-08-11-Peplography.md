@@ -26,11 +26,7 @@ To estimate scattering media from a single peplogram, we apply a statistical est
 
 We assume that the scattering media are composed of many scattering parts with dimensions of $w_x \times w_y$ . <br/>
 The scattering media is modeled by a **Gaussian distribution** with a sample mean $\mu_{ij}$ and variance $\sigma^2_{ij}$ , where $i$ and $j$ are the indices of each scattering part in the $x$ and $y$ directions, respectively.<br/>
-The random variables are denoted as:
-=======
-The scattering media is modeled by a **Gaussian distribution** with a sample mean $\mu_{ij}$ and variance $\sigma^2_{ij}$, where $i$ and $j$ are the indices of each scattering part in the $x$ and $y$ directions, respectively.<br/>
 The random variables are denoted as:<br/>
->>>>>>> origin/main
 
 $$
 \begin{aligned}
@@ -45,7 +41,7 @@ n &= 1, 2, 3, ..., w_y ,
 \end{aligned}
 $$
 
-where $X_{ij}$ is a $i$th column and $j$th row local area of a peplogram, $I_p$ is the pixel intensity of the peplogram, and $N_x$, $N_y$ are the total number of pixels i the $x$ and $y$ directions of the peplogram, respectively. <br/><br/>
+where $X_{ij}$ is a $i$th column and $j$th row local area of a peplogram, $I_p$ is the pixel intensity of the peplogram, and $N_x$ , $N_y$ are the total number of pixels i the $x$ and $y$ directions of the peplogram, respectively. <br/><br/>
 We estimate the scattering media by finding the unknown parameter $\mu_{ij}$ (Sample mean) of a Gaussian distribution using the MLE method as follows:<br/>
 $$
 \begin{aligned}
