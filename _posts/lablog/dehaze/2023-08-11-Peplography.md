@@ -6,7 +6,7 @@ tags: Dehaze review
 ---
 # Peplography—a passive 3D photon counting imaging through scattering media
 This paper is written by Prof. [Myungjin Cho](https://scholar.google.com/citations?user=WAvCU2kAAAAJ&hl=en&oi=ao), and Prof. [Bahram Javidi](https://scholar.google.com/citations?user=mqIXYh4AAAAJ&hl=en&oi=ao) at Hankyung National University and University of Connecticut, respectively.<br/>
-This review consists of [Theory](#theory), [Result](#result), [codes](#code), and [Related  paper](#related-paper). <br/>
+This review consists of [Theory](#theory), [Result](#result), [code](#code), and [Related paper](#related-paper). <br/>
 The paper is written in a straightforward structure, making it easy for everyone to follow. <br/>
 
 ## Introduction
