@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/lablog/dhm/2024-10-29-Kalman.md",
-                "mode": "source",
-                "source": false
+                "file": "_posts/lablog/dehaze/2023-08-11-Peplography.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-10-29-Kalman"
+              "title": "2023-08-11-Peplography"
             }
           }
         ]
@@ -208,8 +208,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f216cd548b99fe2",
+  "active": "b3fc2635a1c1d2e7",
   "lastOpenFiles": [
+    "_posts/lablog/dehaze/Peplography/Peplography_9.png",
+    "_posts/lablog/dehaze/Peplography/Removed_haze.png",
+    "_posts/lablog/dehaze/Peplography/Estimated_haze.png",
+    "_posts/lablog/dehaze/Peplography/2K_DCI_0039.png",
+    "_posts/lablog/dehaze/Peplography/2K_DCI_0030.png",
+    "_posts/lablog/dehaze/Peplography",
+    "_posts/lablog/dehaze/img/Peplography_9.png",
+    "_posts/lablog/dehaze/img/Removed_haze.png",
+    "_posts/lablog/dehaze/img/Estimated_haze.png",
+    "_posts/lablog/dehaze/img/2K_DCI_0039.png",
+    "_posts/lablog/dehaze/img/2K_DCI_0030.png",
+    "_posts/lablog/dehaze/img",
     "_posts/lablog/dhm/2024-10-29-Kalman.md",
     "docs/build.md",
     "docs/advanced.md",
