@@ -4,7 +4,7 @@ title: Peplography—a passive 3D photon counting imaging through scattering med
 category: lablog
 tags: DA
 ---
-# [Peplography—a passive 3D photon counting imaging through scattering media](https://opg.optica.org/ol/abstract.cfm?uri=ol-41-22-5401)
+# Peplography—a passive 3D photon counting imaging through scattering media
 This paper is written by Prof. Myungjin Cho, and Prof. Bahram Javidi at Hankyung National University and University of Connecticut, respectively.<br/>
 This review consists of [Theory](#Theory), [Result](#Result), and codes. <br/>
 The paper is written in a straightforward structure, making it easy for everyone to follow. <br/>
