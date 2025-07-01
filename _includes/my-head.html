@@ -4,7 +4,43 @@
 
  -->
 <!-- GitHub Calendar CSS -->
-<link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" />
+<!-- <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" /> -->
 
 <!-- GitHub Calendar JS -->
+<!-- <script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script> -->
+
+
+
+ <script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    }
+        
+  };
+</script>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<script src="/assets/js/sidebar-folder.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css" />
 <script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
+
+
+
+<style>
+  /*
+    *********************** 중요 ***********************
+    아래 'mjx-container'는 예시입니다.
+    브라우저 개발자 도구(F12)를 사용하여 스크롤바를 가진 HTML 요소의
+    정확한 클래스 이름이나 ID를 확인하고 그 것으로 'mjx-container'를 교체해야 합니다.
+    예를 들어, ".post-content pre" 또는 "#math-block-id" 등.
+    ****************************************************
+  */
+  mjx-container {
+    max-height: none !important;     /* 최대 높이 제한을 없앱니다. */
+    height: auto !important;         /* 높이가 수식 내용에 따라 자동으로 조절되도록 합니다. */
+    overflow-y: visible !important;  /* 세로 스크롤바를 숨기고 내용이 넘치면 컨테이너 밖으로 보이게 합니다. */
+    overflow: visible !important;    /* 혹시 모를 다른 overflow 속성도 visible로 설정합니다. */
+  }
+</style>
