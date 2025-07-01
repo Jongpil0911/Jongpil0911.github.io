@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2024-06-19-HiVA_optim"
             }
+          },
+          {
+            "id": "f99cda365f6fabd5",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "_posts/lablog/dhm/2023-01-28-DHM.md",
+                "bFile": "_posts/lablog/dhm/2023-01-28-DHM.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2023-01-28-DHM"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3fc2635a1c1d2e7",
+  "active": "f99cda365f6fabd5",
   "lastOpenFiles": [
-    "_posts/lablog/dhm/2023-01-28-DHM.md",
+    "conflict-files-obsidian-git.md",
     "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
+    "_posts/lablog/dhm/2023-02-15-HiVA.md",
+    "_posts/lablog/dhm/2023-02-10-PDA.md",
+    "_posts/lablog/dhm/2023-01-28-DHM.md",
     "_posts/lablog/dehaze/2023-08-11-Peplography.md",
     "_featured_tags/SoC.md",
     "_featured_tags/review.md",
@@ -246,11 +264,8 @@
     "_posts/study/DIP/2024-03-06-ch1.md",
     "_posts/lablog/BE/2023-08-23-Kalman.md",
     "_posts/lablog/BE/2022-09-02-FilterStudy.md",
-    "conflict-files-obsidian-git.md",
     "_posts/study/cpp/2024-08-10-vscommunity.md",
     "_featured_tags/Filter.md",
-    "_featured_tags/3D_Imaging.md",
-    "Untitled.canvas",
-    "*Introduction.md"
+    "Untitled.canvas"
   ]
 }
