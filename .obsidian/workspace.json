@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "f99cda365f6fabd5",
+            "id": "d5635aadc1045281",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "_posts/lablog/dhm/2023-01-28-DHM.md",
-                "bFile": "_posts/lablog/dhm/2023-01-28-DHM.md",
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 2023-01-28-DHM"
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ],
@@ -223,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99cda365f6fabd5",
+  "active": "d5635aadc1045281",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
