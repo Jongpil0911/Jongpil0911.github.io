@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/lablog/dehaze/2023-08-11-Peplography.md",
+                "file": "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-08-11-Peplography"
+              "title": "2024-06-19-HiVA_optim"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#review",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,6 +210,8 @@
   },
   "active": "b3fc2635a1c1d2e7",
   "lastOpenFiles": [
+    "_posts/lablog/dhm/2023-01-28-DHM.md",
+    "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
     "_posts/lablog/dehaze/2023-08-11-Peplography.md",
     "_featured_tags/SoC.md",
     "_featured_tags/review.md",
@@ -246,8 +247,6 @@
     "_posts/lablog/BE/2023-08-23-Kalman.md",
     "_posts/lablog/BE/2022-09-02-FilterStudy.md",
     "conflict-files-obsidian-git.md",
-    "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
-    "_posts/lablog/dhm/2023-01-28-DHM.md",
     "_posts/study/cpp/2024-08-10-vscommunity.md",
     "_featured_tags/Filter.md",
     "_featured_tags/3D_Imaging.md",
