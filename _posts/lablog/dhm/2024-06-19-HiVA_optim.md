@@ -2,7 +2,9 @@
 layout: post
 title: A study of Noise Reduction Algorithm Using Statistical Optimization in Digital Holographic Microscopy
 category: lablog
-tags: DHM
+tags:
+  - DHM
+  - "#Optimization"
 ---
 # [A study of Noise Reduction Algorithm Using Statistical Optimization in Digital Holographic Microscopy](https://ieeexplore.ieee.org/abstract/document/10613728/)
 

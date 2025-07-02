@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/lablog/dehaze/2023-08-11-Peplography.md",
+                "file": "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-08-11-Peplography"
+              "title": "2024-06-19-HiVA_optim"
             }
           }
         ]
@@ -210,14 +210,14 @@
   },
   "active": "16d5132efb9f74b2",
   "lastOpenFiles": [
-    "_posts/lablog/dhm/2023-01-28-DHM.md",
     "_posts/lablog/dhm/2023-02-10-PDA.md",
-    "_posts/lablog/dhm/2023-02-15-HiVA.md",
     "_posts/lablog/dhm/2024-06-19-HiVA_optim.md",
+    "_posts/lablog/dhm/2023-02-15-HiVA.md",
+    "_posts/lablog/dhm/2023-01-28-DHM.md",
+    "_posts/lablog/dehaze/2022-11-15-dcp.md",
+    "_posts/lablog/dehaze/2023-08-11-Peplography.md",
     "_posts/lablog/dhm/2024-10-29-Kalman.md",
     "_posts/lablog/dehaze/2025-05-01-ARMS.md",
-    "_posts/lablog/dehaze/2023-08-11-Peplography.md",
-    "_posts/lablog/dehaze/2022-11-15-dcp.md",
     "conflict-files-obsidian-git.md",
     "assets/img/Peplography/Removed_haze.png",
     "assets/img/Peplography/Peplography_9.png",
