@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Résumé
-permalink: /Résumé/
+title: Curriculum Vitae
+permalink: /Curriculum Vitae/
 sidebar: true
 order: 3
-description: > 
+description: ""
 hide_description: true
 sitemap: false
 ---
