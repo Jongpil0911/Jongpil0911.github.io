@@ -56,46 +56,49 @@ Submitted <br/> -->
 <!-- ICMV 2025 -->
 [1]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Myungjin Cho, and Min-Chul Lee, 
 "Advanced scattering media removal by modified ARMS and resotration of colro information", 
-*The $$18^{th}$$ International Conference on Machine Vision* (ICMV 2025). SPIE, 2025, 
+*The $18^{th}$ International Conference on Machine Vision* (ICMV 2025). SPIE, 2025, 
 Submitted <br/>
 
 [2]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Myungjin Cho, and Min-Chul Lee, 
 "Advanced scattering media removal by modified ARMS and resotration of colro information", 
-*The $$18^{th}$$ International Conference on Machine Vision* (ICMV 2025). SPIE, 2025, 
+*The $18^{th}$ International Conference on Machine Vision* (ICMV 2025). SPIE, 2025, 
 Submitted <br/>
 
 <!-- ITC-CSCC 2025 -->
 [3]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Myungjin Cho, and Min-Chul Lee, 
 "Scattering media removal under the harsh conditions using adaptive removal via mask for scatter", 
-*The $$40^{th}$$ International Technical Confernece on Circuits/Systems, Computers and Communications* (ITC-CSCC 2025). IEEE, 2025, 
+*The $40^{th}$ International Technical Confernece on Circuits/Systems, Computers and Communications* (ITC-CSCC 2025). IEEE, 2025, 
 Accepted <br/>
 
 [4]&nbsp;&nbsp;Seongil Kim, **<U>Jongpil Jeong</U>**, Myungjin Cho, and Min-Chul Lee, 
 "Advanced double random phase encryption for simultaneous two primary data", 
-*The $$40^{th}$$ International Technical Confernece on Circuits/Systems, Computers and Communications* (ITC-CSCC 2025). IEEE, 2025, 
+*The $40^{th}$ International Technical Confernece on Circuits/Systems, Computers and Communications* (ITC-CSCC 2025). IEEE, 2025, 
 Accepted <br/>
 
 [5]&nbsp;&nbsp;Kosei Nakamura, **<U>Jongpil Jeong</U>**, Myungjin Cho, and Min-Chul Lee, 
 "Adaptive Optimization of Kalman Filtering in Digital Holographic Microscopy for Improve Noise Reduction", 
-*The $$40^{th}$$ International Technical Confernece on Circuits/Systems, Computers and Communications* (ITC-CSCC 2025). IEEE, 2025, 
+*The $40^{th}$ International Technical Confernece on Circuits/Systems, Computers and Communications* (ITC-CSCC 2025). IEEE, 2025, 
 Accepted <br/>
 
 <!-- ICCAS 2024 -->
 [6]&nbsp;&nbsp;Taishi Ono, **<U>Jongpil Jeong</U>**, Hyun-Woo Kim, Myungjin Cho, and Min-Chul Lee, 
 "Kalman filtering optimization in Digital Holographic Microscopy (DHM)", 
-*The International Conference on Control, Automation, and Systems* (ICCAS 2024). IEEE, 2024. 
+*The $24^{th}$ International Conference on Control, Automation, and Systems* (ICCAS 2024). IEEE, 2024. 
 DOI:[10.23919/ICCAS63016.2024.10773243](https://doi.org/10.23919/ICCAS63016.2024.10773243) <br/>
 
 <!-- JCSSE 2024 -->
 [7]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Hyun-woo Kim, Myungjin Cho, and Min-Chul Lee, 
 "A study of noise reduction algorithm using statistical optimization in digital holographic microscopy", 
-*The $$21^{st}$$ International Joint Conference on Computer Science and Software Engineering* (JCSSE 2024). IEEE, 2024, 
+*The $21^{st}$ International Joint Conference on Computer Science and Software Engineering* (JCSSE 2024). IEEE, 2024, 
 DOI:[10.1109/JCSSE61278.2024.10613728](https://doi.org/10.1109/JCSSE61278.2024.10613728) <br/>
 
 
 ## Patents
 ***
 [1]&nbsp;&nbsp;Min-Chul Lee, and **<U>Jongpil Jeong</U>**, 
+“画像処理装置、画像処理方法および画像処理プログラム”, 
+Japanese Patents 特願 2025-097331. <br/>
+[2]&nbsp;&nbsp;Min-Chul Lee, and **<U>Jongpil Jeong</U>**, 
 “画像処理装置、画像処理方法および画像処理プログラム”, 
 Japanese Patents 特願 2024-214715. <br/>
 (Not publicly accessible at this time due to confidentiality under Japanese patent law.) <br/>
