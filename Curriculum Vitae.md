@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /Curriculum Vitae/
+permalink: /CV/
 sidebar: true
 order: 3
 description: ""
@@ -45,7 +45,7 @@ Mar.2018 - Feb.2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Dong-A University](https://don
 DOI:[10.1109/ACCESS.2025.3563369](https://doi.org/10.1109/ACCESS.2025.3563369) <br/>
 
 
-## CONFERENSE
+## CONFERENCE
 ***
 <!-- ICCAS 2025 -->
 <!-- [1]&nbsp;&nbsp;**<U>Jongpil Jeong</U>**, Jong-Hoon Huh, Myungjin Cho, and Min-Chul Lee, 
@@ -100,7 +100,7 @@ DOI:[10.1109/JCSSE61278.2024.10613728](https://doi.org/10.1109/JCSSE61278.2024.1
 Japanese Patents 特願 2025-097331. <br/>
 [2]&nbsp;&nbsp;Min-Chul Lee, and **<U>Jongpil Jeong</U>**, 
 “画像処理装置、画像処理方法および画像処理プログラム”, 
-Japanese Patents 特願 2024-214715. <br/>
+Japanese Patents 特願 2024-214715. <br/><br/>
 (Not publicly accessible at this time due to confidentiality under Japanese patent law.) <br/>
 
 
