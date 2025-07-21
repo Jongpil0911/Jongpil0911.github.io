@@ -19,8 +19,8 @@ This paper assumed more hazy images than other papers. <br/>
 This method is consistent with the two theories, the [Fog Estimation Method](#fog-estimation-method) and the [Restore the decreased intensity through the Photon counting detection model](#restore-the-decreased-intensity-through-the-photon-counting-detection-model).<br/>
 
 | ![Reference image](/assets/img/Peplography/2K_DCI_0030.png) | ![Hazy image](/assets/img/Peplography/2K_DCI_0039.png) |
-|:---:|:---:|
-|Reference image|Hazy image|
+| :---------------------------------------------------------: | :----------------------------------------------------: |
+|                       Reference image                       |                       Hazy image                       |
 
 ### Fog Estimation Method
 In this theory, we learned the novel dynamic passive imaging technique through scattering media by directly detecting ballistic photons emanating from objects based on statistical optics. <br/>
