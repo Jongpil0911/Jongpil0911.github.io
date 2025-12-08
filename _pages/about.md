@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/'>3D Optical Imaging Systems Lab</a>. 
-
+subtitle: <a href='https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/'>3D Optical Imaging Systems Lab</a>. | Dept. Creative Informatics | Graduate School of Computer Science and Systems Enginnering | Kyushu Institute of Technology
+# Address. Contacts. Motto. Etc.
 
 profile:
   align: right
