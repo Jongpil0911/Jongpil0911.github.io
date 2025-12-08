@@ -146,12 +146,15 @@ newsletter:
 collections:
   books:
     output: true
+    limit: 3
   news:
     # defaults:
     #   layout: post
     output: true
+    limit: 3
   projects:
     output: true
+    limit: 3
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
