@@ -12,8 +12,8 @@
   url: /repositories/
 - title: "cv"
   url: /cv/
-- title: "teaching"
-  url: /teaching/
-- title: "people"
-  url: /people/
+# - title: "teaching"
+#   url: /teaching/
+# - title: "people"
+#   url: /people/
 # (submenu, search, dark/light mode 아이콘은 보통 자동으로 처리됩니다.)
