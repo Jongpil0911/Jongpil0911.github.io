@@ -27,7 +27,7 @@ table {
   td,
   th {
     font-size: 1rem;
-    padding: 1px 1rem 1px 0;
+    padding: 0.5px 1rem 0.5px 0;
   }
 
   th {
@@ -1263,7 +1263,7 @@ ninja-keys::part(ninja-input-wrapper) {
 
 // newsletter
 .newsletter-form-container {
-  margin-bottom: 0px;
+  margin-bottom: 20px;
 }
 
 .newsletter-form {
