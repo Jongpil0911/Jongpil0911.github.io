@@ -1,0 +1,19 @@
+# _data/navigation.yml 파일 내용
+
+- title: "blog"
+  url: /blog/
+- title: "about"
+  url: /about/
+- title: "publications"
+  url: /publications/
+- title: "projects"
+  url: /projects/
+- title: "repositories"
+  url: /repositories/
+- title: "cv"
+  url: /cv/
+- title: "teaching"
+  url: /teaching/
+- title: "people"
+  url: /people/
+# (submenu, search, dark/light mode 아이콘은 보통 자동으로 처리됩니다.)
