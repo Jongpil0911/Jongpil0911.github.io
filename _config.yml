@@ -157,6 +157,13 @@ collections:
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
+# Sitemap settings
+defaults:
+  - scope:
+      path: "assets"
+    values:
+      sitemap: false
+
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
@@ -216,12 +223,12 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
 
-# Sitemap settings
-defaults:
-  - scope:
-      path: "assets"
-    values:
-      sitemap: false
+# # Sitemap settings
+# defaults:
+#   - scope:
+#       path: "assets"
+#     values:
+#       sitemap: false
 
 sass:
   style: compressed
