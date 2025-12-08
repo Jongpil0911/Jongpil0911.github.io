@@ -38,7 +38,7 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y build-essential ruby-dev zlib1g-dev libcurl4-openssl-dev libssl-dev
+          sudo apt-get install -y build-essential ruby-dev zlib1g-dev libcurl4-openssl-dev libssl-dev imagemagick
       # Python & Jupyter
       - name: Setup Python & Install Juppyter
         uses: actions/setup-python@v5
