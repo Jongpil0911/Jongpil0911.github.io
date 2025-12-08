@@ -39,6 +39,14 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y build-essential ruby-dev zlib1g-dev libcurl4-openssl-dev libssl-dev
+      # Python & Jupyter
+      - name: Setup Python & Install Juppyter
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install Jupyter Dependencies
+        run: |
+          pip install jupyter nbconvert
       #--------------------------------------------------#
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
