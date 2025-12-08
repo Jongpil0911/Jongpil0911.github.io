@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [Graduate, Undergraudate, Academic-Industrial, Fun]
+display_categories: [Graduate, Undergraduate, Academic-Industrial, Fun]
 horizontal: false
 ---
 
