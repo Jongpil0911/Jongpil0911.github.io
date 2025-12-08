@@ -2,16 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/'>3D Optical Imaging Systems Lab</a>. \\
+Dept. Creative Informatics \\
+Graduate School of Computer Science and Systems Enginnering \\
+Kyushu Institute of Technology
+# Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+82 10-8912-3304</p>
+    <p>306, Research Building</p>
+    <p>Kyushu Institute of Technology</p>
+    <p>Kawazu 680-4, Iizuka, Fukuoka, 820-8502, Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
