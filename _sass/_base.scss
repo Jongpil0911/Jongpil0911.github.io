@@ -213,8 +213,9 @@ ul.task-list input[type="checkbox"] {
   height: 10em;
   /* 👈 사진의 최종 세로 크기 (160px 정도) */
 
-  margin-top: -8rem !important;
-  // margin-top: 0 !important; /* 이전의 -8rem 설정을 무효화 */
+  // margin-top: -8rem !important;
+  margin-top: 0 !important;
+  /* 이전의 -8rem 설정을 무효화 */
 
   img {
     width: 7.5em;
