@@ -12,7 +12,7 @@ profile:
   # more_info: >
   #   <p>+82 10-8912-3304</p>
   #   <p>306, Research Building</p>
-  #   <p>Kyushu Institute of Technology</p>
+  #   <p>Kyushu Institute of Technology</p>sadfsa
   #   <p>Kawazu 680-4, Iizuka, Fukuoka, 820-8502, Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
