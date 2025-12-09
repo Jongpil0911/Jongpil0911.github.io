@@ -198,15 +198,15 @@ ul.task-list input[type="checkbox"] {
 .profile {
   // width: 100%;    // 사진 가로 크기
   // height: 100%;   // 사진 세로 크기 (3:4 비율)
-  // margin-top: -8rem !important;
   position: absolute; /* 👈 절대 위치 지정 */
   top: 1.5rem;        /* 👈 부모 요소 상단에서 띄우는 거리 (이름 아래) */
   right: 0rem;        /* 👈 오른쪽 끝에 고정 */
-
+  
   width: 7.5em;       /* 👈 사진의 최종 가로 크기 (120px 정도) */
   height: 10em;       /* 👈 사진의 최종 세로 크기 (160px 정도) */
   
-  margin-top: 0 !important; /* 이전의 -8rem 설정을 무효화 */
+  margin-top: -8rem !important;
+  // margin-top: 0 !important; /* 이전의 -8rem 설정을 무효화 */
 
   img {
     width: 7.5em;
