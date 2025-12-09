@@ -216,7 +216,7 @@ ul.task-list input[type="checkbox"] {
   img {
     width: 7.5em;
     height: 10em;
-    object-fit: cover; // 사진이 박스에 꽉 차게
+    object-fit: contain; // 사진이 박스에 꽉 차게
   }
 
   .more-info {
