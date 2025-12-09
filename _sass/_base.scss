@@ -196,10 +196,10 @@ ul.task-list input[type="checkbox"] {
 // Profile
 
 .profile {
-  // width: 100%;    // 사진 가로 크기
-  // height: 100%;   // 사진 세로 크기 (3:4 비율)
-  position: absolute; /* 👈 절대 위치 지정 */
-  top: 1.5rem;        /* 👈 부모 요소 상단에서 띄우는 거리 (이름 아래) */
+  width: 100%;    // 사진 가로 크기
+  height: 100%;   // 사진 세로 크기 (3:4 비율)
+  // position: absolute; /* 👈 절대 위치 지정 */
+  // top: 1.5rem;        /* 👈 부모 요소 상단에서 띄우는 거리 (이름 아래) */
   right: 0rem;        /* 👈 오른쪽 끝에 고정 */
   
   width: 7.5em;       /* 👈 사진의 최종 가로 크기 (120px 정도) */
