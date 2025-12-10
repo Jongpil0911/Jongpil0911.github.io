@@ -170,7 +170,7 @@
       "summary": "Dehazing algorithm, Spatial frequency domain filtering, Adaptive Removal via Mask for Scatter (ARMS)"
     }
   ],
-  "Conference": [
+  "conferences": [
     {
       "name": "Scattering media removal under the harsh conditions using adaptive removal via mask for scatter",
       "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
@@ -207,7 +207,7 @@
       "summary": "Digital Holographic Microscopy (DHM), Noise reduction"
     }
   ],
-  "patent": [
+  "patents": [
     {
       "name": "画像処理装置、画像処理方法および画像処理プログラム",
       "inventor": "Min-Chul Lee, Jongpil Jeong",
