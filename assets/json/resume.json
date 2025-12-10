@@ -5,7 +5,7 @@
     "image": "",
     "email": "jeong.jongpil383@mail.kyutech.jp",
     "phone": "+82 10 8912 3304",
-    "url": "",
+    "url": "https://scholar.google.com/citations?user=O-3pYeQAAAAJ&hl=en",
     "summary": "",
     "location": {
       "address": "Sanfrecce Yokota, Yokota",
@@ -22,40 +22,12 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "Dept. Creative Informatics<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu Institute of Technology",
       "location": "Kawazu, Iizuka, Fukuoka, Japan",
       "url": "https://www.kyutech.ac.jp",
-      "area": "Image processing, Software engineering",
+      "area": "Image processing and Embedded systems",
       "studyType": "Master of Engineering",
       "startDate": "2024-04-01",
       "endDate": "2026-03-25",
@@ -66,7 +38,7 @@
       "institution": "Dept. Electronics Engineering<br/>College of Engineering<br/>Dong-A University",
       "location": "Saha, Busan, Republic of Korea",
       "url": "https://www.donga.ac.kr/kor/Main.do",
-      "area": "Image processing, Software engineering",
+      "area": "Signal processing and Logic circuit design",
       "studyType": "Bachelor of Engineering",
       "startDate": "2018-03-01",
       "endDate": "2024-02-19",
@@ -114,14 +86,14 @@
     },
     {
       "name": "Quantum Communication",
-      "date": "2018-01-01",
+      "date": "2018-04-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
     },
     {
       "name": "Quantum Teleportation",
-      "date": "2018-01-01",
+      "date": "2018-03-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
