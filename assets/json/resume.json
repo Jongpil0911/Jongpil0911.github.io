@@ -163,19 +163,14 @@
   ],
   "publications": [
     {
-      "name": "画像処理装置、画像処理方法および画像処理プログラム",
-      "publisher": "Kyushu Institute of Technology (Patent Application)",
-      "releaseDate": "2025-10-27",
-      "url": "N/A",
-      "summary": ""
-    },
-    {
-      "name": "雌雄判定システム及び雌雄判定方法",
-      "publisher": "Kyushu Institute of Technology (Patent Application)",
-      "releaseDate": "2025-09-18",
-      "url": "N/A",
-      "summary": "Domestic patents (Japan)"
-    },
+      "name": "Scattering Medium Removal Using Adaptive Masks for Scatter in the Spatial Frequency Domain",
+      "publisher": "IEEE Access",
+      "releaseDate": "2025-04-22",
+      "url": "https://doi.org/10.1109/ACCESS.2025.3563369",
+      "summary": "Dehazing algorithm, Spatial frequency domain filtering, Adaptive Removal via Mask for Scatter (ARMS)"
+    }
+  ],
+  "Conference": [
     {
       "name": "Scattering media removal under the harsh conditions using adaptive removal via mask for scatter",
       "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
@@ -198,27 +193,6 @@
       "summary": "Digital Holographic Microscopy (DHM), Kalman filter, Optimization"
     },
     {
-      "name": "画像処理装置、画像処理方法および画像処理プログラム",
-      "publisher": "Kyushu Institute of Technology (Patent Application)",
-      "releaseDate": "2025-06-10",
-      "url": "N/A",
-      "summary": "Domestic patents (Japan)"
-    },
-    {
-      "name": "Scattering Medium Removal Using Adaptive Masks for Scatter in the Spatial Frequency Domain",
-      "publisher": "IEEE Access",
-      "releaseDate": "2025-04-22",
-      "url": "https://doi.org/10.1109/ACCESS.2025.3563369",
-      "summary": "Dehazing algorithm, Spatial frequency domain filtering, Adaptive Removal via Mask for Scatter (ARMS)"
-    },
-    {
-      "name": "画像処理装置、画像処理方法および画像処理プログラム",
-      "publisher": "Kyushu Institute of Technology (Patent Application)",
-      "releaseDate": "2024-12-09",
-      "url": "N/A",
-      "summary": "Domestic patents (Japan)"
-    },
-    {
       "name": "Kalman filtering optimization in Digital Holographic Microscopy (DHM)",
       "publisher": "2024 24th International Conference on Control, Automation and Systems (ICCAS)",
       "releaseDate": "2024-11-01",
@@ -231,6 +205,37 @@
       "releaseDate": "2024-06-22",
       "url": "https://doi.org/10.1109/JCSSE61278.2024.10613728",
       "summary": "Digital Holographic Microscopy (DHM), Noise reduction"
+    }
+  ],
+  "patent": [
+    {
+      "name": "画像処理装置、画像処理方法および画像処理プログラム",
+      "inventor": "Min-Chul Lee, Jongpil Jeong",
+      "publisher": "Kyushu Institute of Technology (Application No.: PCT/JP2025/037681)",
+      "releaseDate": "2025-10-27",
+      "url": "N/A",
+      "summary": "International Patent Application (PCT)"
+    },
+    {
+      "name": "雌雄判定システム及び雌雄判定方法",
+      "publisher": "Kyushu Institute of Technology (Application No.: 特願2025-154965)",
+      "releaseDate": "2025-09-18",
+      "url": "N/A",
+      "summary": "Japanese Patent Application"
+    },
+    {
+      "name": "画像処理装置、画像処理方法および画像処理プログラム",
+      "publisher": "Kyushu Institute of Technology (Application No.: 特願2025-097331)",
+      "releaseDate": "2025-06-10",
+      "url": "N/A",
+      "summary": "Japanese Patent Application"
+    },
+    {
+      "name": "画像処理装置、画像処理方法および画像処理プログラム",
+      "publisher": "Kyushu Institute of Technology (Application No.: 特願2024-214715)",
+      "releaseDate": "2024-12-09",
+      "url": "N/A",
+      "summary": "Japanese Patent Application"
     }
   ],
   "skills": [
