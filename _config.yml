@@ -638,6 +638,8 @@ jsonresume:
   - work
   - education
   - publications
+  - conference
+  - patent
   - projects
   - volunteer
   - awards
