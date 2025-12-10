@@ -161,167 +161,166 @@
       "icon": ""
     }
   ],
-  {
-    "publications": [
-      {
-        "name": "画像処理装置、画像処理方法および画像処理プログラム",
-        "publisher": "Kyushu Institute of Technology (Patent Application)",
-        "releaseDate": "2025-10-27",
-        "url": "N/A",
-        "summary": "국제 특허 출원 (PCT/JP2025/037681)에 관한 내용입니다."
-      },
-      {
-        "name": "雌雄判定システム及び雌雄判定方法",
-        "publisher": "Kyushu Institute of Technology (Patent Application)",
-        "releaseDate": "2025-09-18",
-        "url": "N/A",
-        "summary": "국내 특허 출원 (特願2025-154965)에 관한 내용입니다."
-      },
-      {
-        "name": "Scattering media removal under the harsh conditions using adaptive removal via mask for scatter",
-        "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
-        "releaseDate": "2025-N/A-N/A",
-        "url": "https://doi.org/10.1109/ITC-CSCC66376.2025.11137793",
-        "summary": "Scattering media removal, Noise reduction, Computational optics 관련 연구입니다."
-      },
-      {
-        "name": "Advanced double random phase encryption for simultaneous two primary data",
-        "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
-        "releaseDate": "2025-N/A-N/A",
-        "url": "https://doi.org/10.1109/ITC-CSCC66376.2025.11137702",
-        "summary": "Double random phase encryption, Optical encryption, Simultaneous data encryption 관련 연구입니다."
-      },
-      {
-        "name": "Adaptive Optimization of Kalman Filtering in Digital Holographic Microscopy for improve Noise Reduction",
-        "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
-        "releaseDate": "2025-N/A-N/A",
-        "url": "https://doi.org/10.1109/ITC-CSCC66376.2025.11137616",
-        "summary": "Digital holographic microscopy, Kalman filter, Noise reduction 관련 연구입니다."
-      },
-      {
-        "name": "画像処理装置、画像処理方法および画像処理プログラム",
-        "publisher": "Kyushu Institute of Technology (Patent Application)",
-        "releaseDate": "2025-06-10",
-        "url": "N/A",
-        "summary": "국내 특허 출원 (特願2025-097331)에 관한 내용입니다."
-      },
-      {
-        "name": "Scattering Medium Removal Using Adaptive Masks for Scatter in the Spatial Frequency Domain",
-        "publisher": "IEEE Access",
-        "releaseDate": "2025-N/A-N/A",
-        "url": "https://doi.org/10.1109/ACCESS.2025.3563369",
-        "summary": "Adaptive image processing, computational optics, scattering media removal 관련 논문입니다."
-      },
-      {
-        "name": "画像処理装置、画像処理方法および画像処理プログラム",
-        "publisher": "Kyushu Institute of Technology (Patent Application)",
-        "releaseDate": "2024-12-09",
-        "url": "N/A",
-        "summary": "국내 특허 출원 (特願2024-214715)에 관한 내용입니다."
-      },
-      {
-        "name": "Kalman filtering optimization in Digital Holographic Microscopy (DHM)",
-        "publisher": "2024 24th International Conference on Control, Automation and Systems (ICCAS)",
-        "releaseDate": "2024-N/A-N/A",
-        "url": "https://doi.org/10.23919/ICCAS63016.2024.10773243",
-        "summary": "Digital holographic microscopy, Optimization, Kalman filter, Noise reduction 관련 연구입니다."
-      },
-      {
-        "name": "A Study of Noise Reduction Algorithm Using Statistical Optimization in Digital Holographic Microscopy",
-        "publisher": "2024 21st International Joint Conference on Computer Science and Software Engineering (JCSSE)",
-        "releaseDate": "2024-N/A-N/A",
-        "url": "https://doi.org/10.1109/JCSSE61278.2024.10613728",
-        "summary": "Digital holographic microscopy, Noise reduction, Computational visualization, Statistical optimization 관련 연구입니다."
-      }
-    ],
-    "skills": [
-      {
-        "name": "Programming",
-        "level": "Master",
-        "icon": "fa-solid fa-hashtag",
-        "keywords": [
-          "MATLAB",
-          "C/C++",
-          "CUDA programming",
-          "Python",
-          "Verilog"
-        ]
-      },
-      {
-        "name": "Tools",
-        "level": "Master",
-        "icon": "fa-solid fa-hashtag",
-        "keywords": [
-          "OpenCV",
-          "Qt",
-          "Blender",
-          "Git",
-          "Raspberry Pi",
-          "Jetson series",
-          "Arduino"
-        ]
-      },
-      {
-        "name": "Optical Equipments",
-        "level": "Master",
-        "icon": "fa-solid fa-hashtag",
-        "keywords": [
-          "Mazh-Zehnder Interferometer",
-          "Lateral shearing interferometer",
-          "Lenslet array",
-          "Cammera array"
-        ]
-      }
-    ],
-    "languages": [
-      {
-        "language": "Korean",
-        "fluency": "Native speaker",
-        "icon": ""
-      },
-      {
-        "language": "English",
-        "fluency": "Fluent",
-        "icon": ""
-      },
-      {
-        "language": "Japanese",
-        "fluency": "Beginner",
-        "icon": ""
-      }
-    ],
-    "interests": [
-      {
-        "name": "Physics",
-        "icon": "fa-solid fa-tag",
-        "keywords": [
-          "Quantum Mechanics",
-          "Quantum Computing",
-          "Quantum Information",
-          "Quantum Cryptography",
-          "Quantum Communication",
-          "Quantum Teleportation"
-        ]
-      }
-    ],
-    "references": [
-      {
-        "name": "Min-Chul Lee",
-        "icon": "fa-solid fa-laptop",
-        "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-      }
-    ],
-    "projects": [
-      {
-        "name": "Quantum Computing",
-        "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-        "highlights": [
-          "Quantum Teleportation",
-          "Quantum Cryptography"
-        ],
-        "startDate": "2018-01-01",
-        "endDate": "2018-01-01",
-        "url": "https://example.com"
-      }
-    ]
-  }
+  "publications": [
+    {
+      "name": "画像処理装置、画像処理方法および画像処理プログラム",
+      "publisher": "Kyushu Institute of Technology (Patent Application)",
+      "releaseDate": "2025-10-27",
+      "url": "N/A",
+      "summary": "국제 특허 출원 (PCT/JP2025/037681)에 관한 내용입니다."
+    },
+    {
+      "name": "雌雄判定システム及び雌雄判定方法",
+      "publisher": "Kyushu Institute of Technology (Patent Application)",
+      "releaseDate": "2025-09-18",
+      "url": "N/A",
+      "summary": "국내 특허 출원 (特願2025-154965)에 관한 내용입니다."
+    },
+    {
+      "name": "Scattering media removal under the harsh conditions using adaptive removal via mask for scatter",
+      "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
+      "releaseDate": "2025-N/A-N/A",
+      "url": "https://doi.org/10.1109/ITC-CSCC66376.2025.11137793",
+      "summary": "Scattering media removal, Noise reduction, Computational optics 관련 연구입니다."
+    },
+    {
+      "name": "Advanced double random phase encryption for simultaneous two primary data",
+      "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
+      "releaseDate": "2025-N/A-N/A",
+      "url": "https://doi.org/10.1109/ITC-CSCC66376.2025.11137702",
+      "summary": "Double random phase encryption, Optical encryption, Simultaneous data encryption 관련 연구입니다."
+    },
+    {
+      "name": "Adaptive Optimization of Kalman Filtering in Digital Holographic Microscopy for improve Noise Reduction",
+      "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
+      "releaseDate": "2025-N/A-N/A",
+      "url": "https://doi.org/10.1109/ITC-CSCC66376.2025.11137616",
+      "summary": "Digital holographic microscopy, Kalman filter, Noise reduction 관련 연구입니다."
+    },
+    {
+      "name": "画像処理装置、画像処理方法および画像処理プログラム",
+      "publisher": "Kyushu Institute of Technology (Patent Application)",
+      "releaseDate": "2025-06-10",
+      "url": "N/A",
+      "summary": "국내 특허 출원 (特願2025-097331)에 관한 내용입니다."
+    },
+    {
+      "name": "Scattering Medium Removal Using Adaptive Masks for Scatter in the Spatial Frequency Domain",
+      "publisher": "IEEE Access",
+      "releaseDate": "2025-N/A-N/A",
+      "url": "https://doi.org/10.1109/ACCESS.2025.3563369",
+      "summary": "Adaptive image processing, computational optics, scattering media removal 관련 논문입니다."
+    },
+    {
+      "name": "画像処理装置、画像処理方法および画像処理プログラム",
+      "publisher": "Kyushu Institute of Technology (Patent Application)",
+      "releaseDate": "2024-12-09",
+      "url": "N/A",
+      "summary": "국내 특허 출원 (特願2024-214715)에 관한 내용입니다."
+    },
+    {
+      "name": "Kalman filtering optimization in Digital Holographic Microscopy (DHM)",
+      "publisher": "2024 24th International Conference on Control, Automation and Systems (ICCAS)",
+      "releaseDate": "2024-N/A-N/A",
+      "url": "https://doi.org/10.23919/ICCAS63016.2024.10773243",
+      "summary": "Digital holographic microscopy, Optimization, Kalman filter, Noise reduction 관련 연구입니다."
+    },
+    {
+      "name": "A Study of Noise Reduction Algorithm Using Statistical Optimization in Digital Holographic Microscopy",
+      "publisher": "2024 21st International Joint Conference on Computer Science and Software Engineering (JCSSE)",
+      "releaseDate": "2024-N/A-N/A",
+      "url": "https://doi.org/10.1109/JCSSE61278.2024.10613728",
+      "summary": "Digital holographic microscopy, Noise reduction, Computational visualization, Statistical optimization 관련 연구입니다."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MATLAB",
+        "C/C++",
+        "CUDA programming",
+        "Python",
+        "Verilog"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "OpenCV",
+        "Qt",
+        "Blender",
+        "Git",
+        "Raspberry Pi",
+        "Jetson series",
+        "Arduino"
+      ]
+    },
+    {
+      "name": "Optical Equipments",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Mazh-Zehnder Interferometer",
+        "Lateral shearing interferometer",
+        "Lenslet array",
+        "Cammera array"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Korean",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Min-Chul Lee",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
+  ]
+}
