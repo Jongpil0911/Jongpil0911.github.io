@@ -25,7 +25,7 @@
   "education": [
     {
       "institution": "Dept. Creative Informatics<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu Institute of Technology",
-      "location": "Kawazu, Iizuka, Fukuoka, Japan",
+      "location": "Fukuoka, Japan",
       "url": "https://www.kyutech.ac.jp",
       "area": "Image processing and Embedded systems",
       "studyType": "Master of Engineering",
@@ -36,7 +36,7 @@
     },
     {
       "institution": "Dept. Electronics Engineering<br/>College of Engineering<br/>Dong-A University",
-      "location": "Saha, Busan, Republic of Korea",
+      "location": "Busan, Republic of Korea",
       "url": "https://www.donga.ac.kr/kor/Main.do",
       "area": "Signal processing and Logic circuit design",
       "studyType": "Bachelor of Engineering",
@@ -180,28 +180,50 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "MATLAB",
+        "C/C++",
+        "Cudo programming",
+        "Python",
+        "Verilog"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "OpenCV",
+        "Qt",
+        "Pandas",
+        "Git",
+        "Raspberry Pi",
+        "Jetson series",
+        "Arduino",
+        "Mazh-Zehnder Interferometer",
+        "Lateral shearing interferometer",
+        "Lenslet array",
+        "Cammera array"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner",
       "icon": ""
     }
   ],
