@@ -23,11 +23,12 @@
           </tr>
           <tr>
             <td></td>
-            <td class="list-group-name">
+            <td class="list-group-name" colspan="2">
               <b>{{ content.issuer }}</b>
+              <br> <span class="cert-date-style">
+                {{ content.date | date: "%Y-%m-%d" }} </span>
             </td>
-            <td class="list-group-name">{{ content.date }}</td>
-          </tr>
+            </tr>
         </tbody>
       </table>
     </div>
