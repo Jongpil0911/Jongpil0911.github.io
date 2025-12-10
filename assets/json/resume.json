@@ -25,7 +25,7 @@
   "education": [
     {
       "institution": "Dept. Creative Informatics<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu Institute of Technology",
-      "location": "Fukuoka, Japan",
+      "location": "Iizuka, Fukuoka, Japan",
       "url": "https://www.kyutech.ac.jp",
       "area": "Image processing and Embedded systems",
       "studyType": "Master of Engineering",
@@ -167,70 +167,70 @@
       "publisher": "Kyushu Institute of Technology (Patent Application)",
       "releaseDate": "2025-10-27",
       "url": "N/A",
-      "summary": "국제 특허 출원 (PCT/JP2025/037681)에 관한 내용입니다."
+      "summary": ""
     },
     {
       "name": "雌雄判定システム及び雌雄判定方法",
       "publisher": "Kyushu Institute of Technology (Patent Application)",
       "releaseDate": "2025-09-18",
       "url": "N/A",
-      "summary": "국내 특허 출원 (特願2025-154965)에 관한 내용입니다."
+      "summary": "Domestic patents (Japan)"
     },
     {
       "name": "Scattering media removal under the harsh conditions using adaptive removal via mask for scatter",
       "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
-      "releaseDate": "2025-N/A-N/A",
+      "releaseDate": "2025-07-10",
       "url": "https://doi.org/10.1109/ITC-CSCC66376.2025.11137793",
-      "summary": "Scattering media removal, Noise reduction, Computational optics 관련 연구입니다."
+      "summary": "Dehazing algorithm, Adaptive Removal via Mask for Scatter (ARMS)"
     },
     {
       "name": "Advanced double random phase encryption for simultaneous two primary data",
       "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
-      "releaseDate": "2025-N/A-N/A",
+      "releaseDate": "2025-07-10",
       "url": "https://doi.org/10.1109/ITC-CSCC66376.2025.11137702",
-      "summary": "Double random phase encryption, Optical encryption, Simultaneous data encryption 관련 연구입니다."
+      "summary": "Image Encryption, Double Random Phase Encryption (DRPE)"
     },
     {
       "name": "Adaptive Optimization of Kalman Filtering in Digital Holographic Microscopy for improve Noise Reduction",
       "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
-      "releaseDate": "2025-N/A-N/A",
+      "releaseDate": "2025-07-10",
       "url": "https://doi.org/10.1109/ITC-CSCC66376.2025.11137616",
-      "summary": "Digital holographic microscopy, Kalman filter, Noise reduction 관련 연구입니다."
+      "summary": "Digital Holographic Microscopy (DHM), Kalman filter, Optimization"
     },
     {
       "name": "画像処理装置、画像処理方法および画像処理プログラム",
       "publisher": "Kyushu Institute of Technology (Patent Application)",
       "releaseDate": "2025-06-10",
       "url": "N/A",
-      "summary": "국내 특허 출원 (特願2025-097331)에 관한 내용입니다."
+      "summary": "Domestic patents (Japan)"
     },
     {
       "name": "Scattering Medium Removal Using Adaptive Masks for Scatter in the Spatial Frequency Domain",
       "publisher": "IEEE Access",
-      "releaseDate": "2025-N/A-N/A",
+      "releaseDate": "2025-04-22",
       "url": "https://doi.org/10.1109/ACCESS.2025.3563369",
-      "summary": "Adaptive image processing, computational optics, scattering media removal 관련 논문입니다."
+      "summary": "Dehazing algorithm, Spatial frequency domain filtering, Adaptive Removal via Mask for Scatter (ARMS)"
     },
     {
       "name": "画像処理装置、画像処理方法および画像処理プログラム",
       "publisher": "Kyushu Institute of Technology (Patent Application)",
       "releaseDate": "2024-12-09",
       "url": "N/A",
-      "summary": "국내 특허 출원 (特願2024-214715)에 관한 내용입니다."
+      "summary": "Domestic patents (Japan)"
     },
     {
       "name": "Kalman filtering optimization in Digital Holographic Microscopy (DHM)",
       "publisher": "2024 24th International Conference on Control, Automation and Systems (ICCAS)",
-      "releaseDate": "2024-N/A-N/A",
+      "releaseDate": "2024-11-01",
       "url": "https://doi.org/10.23919/ICCAS63016.2024.10773243",
-      "summary": "Digital holographic microscopy, Optimization, Kalman filter, Noise reduction 관련 연구입니다."
+      "summary": "Digital Holographic Microscopy (DHM), Kalman filter"
     },
     {
       "name": "A Study of Noise Reduction Algorithm Using Statistical Optimization in Digital Holographic Microscopy",
       "publisher": "2024 21st International Joint Conference on Computer Science and Software Engineering (JCSSE)",
-      "releaseDate": "2024-N/A-N/A",
+      "releaseDate": "2024-06-22",
       "url": "https://doi.org/10.1109/JCSSE61278.2024.10613728",
-      "summary": "Digital holographic microscopy, Noise reduction, Computational visualization, Statistical optimization 관련 연구입니다."
+      "summary": "Digital Holographic Microscopy (DHM), Noise reduction"
     }
   ],
   "skills": [
