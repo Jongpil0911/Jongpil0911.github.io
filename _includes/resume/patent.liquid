@@ -1,0 +1,18 @@
+{% if site.data.resume.patent %}
+<div class="publications">
+  <h2 class="category">Patents</h2>
+  {% assign patents = site.data.resume.patent | sort: 'releaseDate' | reverse %}
+  
+  {% for item in patents %}
+    <div class="list-item">
+      <p class="pub-title">{{ item.name }}</p>
+      <p class="pub-publisher">
+        {{ item.publisher }} ({{ item.releaseDate | date: "%Y.%m.%d" }})
+      </p>
+      {% if item.summary %}
+        <p class="pub-summary">{{ item.summary }}</p>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+{% endif %}

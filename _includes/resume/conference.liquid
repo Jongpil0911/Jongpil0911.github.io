@@ -1,0 +1,22 @@
+{% if site.data.resume.Conference %}
+<div class="publications">
+  <h2 class="category">Conference Papers</h2>
+  {% assign conference_papers = site.data.resume.Conference | sort: 'releaseDate' | reverse %}
+  
+  {% for item in conference_papers %}
+    <div class="list-item">
+      <p class="pub-title">
+        <a href="{{ item.url | default: '#' }}" target="_blank" rel="noopener noreferrer">
+          {{ item.name }}
+        </a>
+      </p>
+      <p class="pub-publisher">
+        {{ item.publisher }} ({{ item.releaseDate | date: "%Y.%m.%d" }})
+      </p>
+      {% if item.summary %}
+        <p class="pub-summary">{{ item.summary }}</p>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+{% endif %}
