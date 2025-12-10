@@ -57,46 +57,102 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Microdegree from Graduate School of Data Science",
+      "date": "2023-12-23",
+      "issuer": "Korea Advanced Institute of Science and Technology",
+      "url": "https://github.com/user-attachments/assets/b404e1df-2798-48de-8385-c9a6c7389b38",
+      "icon": ""
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Foundation of reinforcement learning",
+      "date": "2022-08-18",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/73933790-2b15-46ae-8ac2-c6eaf31d9e01",
+      "icon": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "PLL Design and Jitter Interpretation",
+      "date": "2022-12-02",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/b4e013f1-d7b8-4505-a4f5-12e270097549",
+      "icon": ""
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Foundation of CUDA-based GPU Programming",
+      "date": "2023-01-03",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/0fc8c167-bef1-4857-a664-a1b82c95e306",
+      "icon": ""
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-04-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "DSP with MATLAB",
+      "date": "2023-02-08",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/9f74252d-eae5-40b2-b305-ea90576100aa",
+      "icon": ""
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-03-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Hardware architecture for Neural network accelerator",
+      "date": "2023-02-16",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/094a58df-f320-45fb-aba3-707f4a7fd8f7",
+      "icon": ""
+    },
+    {
+      "name": "Design digital system utilized Verilog",
+      "date": "2023-07-20",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/32bfc1d6-18cf-44a4-83dc-209b4f4686ac",
+      "icon": ""
+    },
+    {
+      "name": "Stereovision for autonomous driving system",
+      "date": "2023-08-01",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/2d45999d-1f66-467c-b956-e16b5ed71593",
+      "icon": ""
+    },
+    {
+      "name": "MIMO - theory and improvement",
+      "date": "2024-01-16",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/707a4f8e-3b5a-4246-a763-81e2729f9cb2",
+      "icon": ""
+    },
+    {
+      "name": "FreeRTOS porting and utilization through Cortex-M processor",
+      "date": "2024-01-26",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/805bbc13-3e6e-43d6-af75-df31f728d607",
+      "icon": ""
+    },
+    {
+      "name": "Data structure and algorithm",
+      "date": "2024-06-28",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/8fbda935-4b41-44f7-b83a-8d284f003168",
+      "icon": ""
+    },
+    {
+      "name": "Design embedded systems based on FPGA",
+      "date": "2024-06-28",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/68b0ae05-462b-4750-93ba-1bc4072dab66",
+      "icon": ""
+    },
+    {
+      "name": "Implementation of CNN's FPGA with Verilog HDL",
+      "date": "2024-07-03",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/234ad610-a051-4140-9f20-48ca4d8e4d42",
+      "icon": ""
+    },
+    {
+      "name": "Digital Image Processing",
+      "date": "2025-01-23",
+      "issuer": "Korea OpenCourseWare",
+      "url": "https://github.com/user-attachments/assets/d8024d63-359a-493b-9cb2-774e36a03f62",
+      "icon": ""
     }
   ],
   "publications": [
