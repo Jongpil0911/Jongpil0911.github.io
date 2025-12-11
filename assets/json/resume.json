@@ -244,7 +244,8 @@
         "Git",
         "Raspberry Pi",
         "Jetson series",
-        "Arduino"
+        "Arduino",
+        "Spinnaker SDK"
       ]
     },
     {
