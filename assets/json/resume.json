@@ -63,6 +63,13 @@
   ],
   "certificates": [
     {
+      "name": "SoC Design",
+      "date": "2023-12-24",
+      "issuer": "IC Design Education Center",
+      "url": "https://github.com/user-attachments/assets/2c0920cd-3bd7-4abf-b463-9d97f5981587",
+      "icon": "Structural modeling concepts and Basic concepts in Verilog HDL, Dataflow modeling and Algrothmic level modeling"
+    },
+    {
       "name": "Microdegree from Graduate School of Data Science",
       "date": "2023-12-23",
       "issuer": "Korea Advanced Institute of Science and Technology",
@@ -172,11 +179,25 @@
   ],
   "conferences": [
     {
-      "name": "Scattering media removal under the harsh conditions using adaptive removal via mask for scatter",
-      "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
-      "releaseDate": "2025-07-10",
-      "url": "https://doi.org/10.1109/ITC-CSCC66376.2025.11137793",
+      "name": "A research on scattering media removal and photon estimation using COLaNoPS",
+      "publisher": "2025 25th International Conference on Control, Automation and Systems (ICCAS)",
+      "releaseDate": "2025-11-07",
+      "url": "",
+      "summary": "Night vision, Photon-counting algorthm"
+    },
+    {
+      "name": "Single Haze Removal Method using PeplographyAdvanced scattering media removal by modified ARMS and restoration of color information",
+      "publisher": "2025 18th International Conference on Machine Vision (ICMV)",
+      "releaseDate": "2025-10-22",
+      "url": "",
       "summary": "Dehazing algorithm, Adaptive Removal via Mask for Scatter (ARMS)"
+    },
+    {
+      "name": "Single Haze Removal Method using Peplography",
+      "publisher": "2025 18th International Conference on Machine Vision (ICMV)",
+      "releaseDate": "2025-10-22",
+      "url": "",
+      "summary": "Dehazing algorithm, Peplography"
     },
     {
       "name": "Advanced double random phase encryption for simultaneous two primary data",
@@ -296,15 +317,16 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Image singal processing",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Image processing",
+        "Computer/Machine vision",
+        "3D imaging systems",
+        "Biomedical imaging systems",
+        "Integral imaging systems",
+        "Fourier optics",
+        "Geometric optics"
       ]
     }
   ],
@@ -312,20 +334,7 @@
     {
       "name": "Min-Chul Lee",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "reference": "Master course advisor at Kyushu Institute of Technology"
     }
   ]
 }
