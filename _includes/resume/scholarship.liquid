@@ -15,8 +15,8 @@
             <tbody>
               <tr>
                 <td>
-                  {% if date_display %}
-                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date_display }} </span>
+                  {% if date %}
+                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
                   {% endif %}
                 </td>
               </tr>
@@ -30,8 +30,12 @@
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.awarder }}</h6>
           
           {% if content.dates_list %}
-            <h6 class="ml-1 ml-md-4" style="font-size: 0.85rem; color: #777;">
-              {{ content.dates_list | join: ', ' }}
+            <ul class="items ml-2>
+              {% for date_item in content.dates_list %}
+              <h6 class="ml-1 ml-md-4" style="font-size: 0.85rem; color: #777;">
+                {{ date_item }}
+            </ul>
+              {% if content.summary %}
             </h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
           {% endif %}
