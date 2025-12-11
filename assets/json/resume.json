@@ -64,87 +64,42 @@
   "scholarship": [
     {
       "title": "Waiver from Tuition Fees",
-      "date": "2025-04-01",
-      "awarder": "Kyushu Institute of Technology",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Waiver from Tuition Fees",
-      "date": "2024-04-01",
-      "awarder": "Kyushu Institute of Technology",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Waiver from Tuition Fees",
-      "date": "2025-10-01",
+      "startDate": "2025-04-01",
+      "endDate": "",
       "awarder": "Kyushu Institute of Technology",
       "url": "",
       "summary": ""
     },
     {
       "title": "Academic Excellence Scholarship",
-      "date": "2023-03-02",
+      "startDate": "2018-09-01",
+      "endDate": "2023-06-20",
       "awarder": "Dong-A University",
       "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Academic Excellence Scholarship",
-      "date": "2023-09-01",
-      "awarder": "Dong-A University",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Academic Excellence Scholarship",
-      "date": "2022-03-02",
-      "awarder": "Dong-A University",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Academic Excellence Scholarship",
-      "date": "2021-09-01",
-      "awarder": "Dong-A University",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Academic Excellence Scholarship",
-      "date": "2018-09-01",
-      "awarder": "Dong-A University",
-      "url": "",
-      "summary": ""
+      "dates_list": [
+        "2023. 2nd Semester",
+        "2023. 1nd Semester",
+        "2022. 2nd Semester",
+        "2021. 2nd Semester",
+        "2018. 2nd Semester"
+      ],
+      "summary": "Received scholarship for 5 times"
     },
     {
       "title": "Advisory Professor Scholarship",
-      "date": "2022-09-01",
+      "startDate": "2022-09-01",
+      "endDate": "2022-12-24",
       "awarder": "Dong-A University",
       "url": "",
       "summary": "Advisor: Prof. Bongsoon Kang"
     },
     {
       "title": "Undergraduate Education Assistant Scholarship",
-      "date": "2023-03-02",
+      "startDate": "2022-09-01",
+      "endDate": "2022-12-24",
       "awarder": "Dong-A University",
       "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Undergraduate Education Assistant Scholarship",
-      "date": "2023-09-01",
-      "awarder": "Dong-A University",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Undergraduate Education Assistant Scholarship",
-      "date": "2022-09-01",
-      "awarder": "Dong-A University",
-      "url": "",
-      "summary": ""
+      "summary": "2022 2nd Semester"
     }
   ],
   "publications": [
