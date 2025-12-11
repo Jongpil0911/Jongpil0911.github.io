@@ -1,3 +1,11 @@
 [
-  "calendar"
+  "calendar",
+  "dataview",
+  "obsidian-git",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "obsidian-style-settings",
+  "obsidian-icon-folder"
 ]

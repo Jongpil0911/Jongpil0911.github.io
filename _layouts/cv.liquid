@@ -102,7 +102,11 @@ layout: default
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
+                  <h3 class="card-title font-weight-medium">Awards & Fellowships</h3>
                   {% include resume/awards.liquid %}
+                {% when 'scholarship' %}
+                  <h3 class="card-title font-weight-medium">Scholarships & Financial aid aid</h3>
+                  {% include resume/scholarship.liquid %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
                 {% when 'publications' %}
