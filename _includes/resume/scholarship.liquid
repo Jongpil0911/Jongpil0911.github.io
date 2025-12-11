@@ -3,14 +3,6 @@
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-          
-          {% assign date_display = null %}
-          
-          {% if content.dates_list %}
-            {% assign last_year = content.dates_list[0] | split: '.' | first %}
-            {% assign count = content.dates_list | size %}
-            {% assign date_display = last_year | append: ' (' | append: count | append: '회)' %}
-            
           {% elsif content.startDate and content.endDate %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
             {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
