@@ -7,7 +7,7 @@ subtitle: <a href='https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/'>3D Op
 
 profile:
   align: right
-  image: imgPassPort.jpeg
+  # image: imgPassPort.jpeg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>+82 10-8912-3304</p>
