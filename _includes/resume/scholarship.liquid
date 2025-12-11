@@ -3,15 +3,14 @@
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-          {% elsif content.startDate and content.endDate %}
+          {% if content.startDate and content.startDate != '' %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
             {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
-            {% assign date_display = startDate | append: ' - ' | append: endDate %}
-
-          {% elsif content.date %}
-            {% assign date_display = content.date | split: '-' | first %}
+            {% assign date = startDate | append: ' - ' %}
+            {% assign date = date | append: endDate %}
+          {% else %}
+            {% assign date = null %}
           {% endif %}
-          
           <table class="table-cv">
             <tbody>
               <tr>
