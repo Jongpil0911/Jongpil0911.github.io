@@ -31,14 +31,14 @@
           {% if content.dates_list %}
             <ul class="items ml-2">
             {% for date_item in content.dates_list%}
-            <h6 class="ml-1 ml-md-4" style="font-size: 0.85rem; color: #777;">
-              {{ date_item }}
-            </li>
+              <h6 class="ml-1 ml-md-4" style="font-size: 0.85rem; color: #777;">
+                {{ date_item }}
+              </li>
             {% endfor %}
             </ul>
-            {% endif %}
-            </h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
+          {% endif %}
+          {% if content.summary %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
           {% endif %}
         </div>
       </div>
