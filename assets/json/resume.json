@@ -52,6 +52,26 @@
       "date": "-Present"
     }
   ],
+  "work": [
+    {
+      "name": "Kyushu Institute of Technology",
+      "position": "Research Assistant (RA)",
+      "url": "",
+      "startDate": "2024-04-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ""
+    },
+    {
+      "name": "Republic of Korea Army (ROKA)",
+      "position": "Sergeant, Honorably Discharged",
+      "url": "",
+      "startDate": "2019-04-23",
+      "endDate": "2020-11-12",
+      "summary": "959th Artilley Battalion, 39th Infantry Division",
+      "highlights": ""
+    }
+  ],
   "awards": [
     {
       "title": "Best Poster Presentation Award",
@@ -68,7 +88,7 @@
       "endDate": "",
       "awarder": "Kyushu Institute of Technology",
       "url": "",
-      "summary": ""
+      "summary": "Received scholarships for 3 times"
     },
     {
       "title": "Academic Excellence Scholarship",
@@ -78,12 +98,12 @@
       "url": "",
       "dates_list": [
         "2023. 2nd Semester",
-        "2023. 1nd Semester",
+        "2023. 1st Semester",
         "2022. 2nd Semester",
         "2021. 2nd Semester",
         "2018. 2nd Semester"
       ],
-      "summary": "Received scholarship for 5 times"
+      "summary": "Received scholarships for 5 times"
     },
     {
       "title": "Advisory Professor Scholarship",
@@ -96,10 +116,10 @@
     {
       "title": "Undergraduate Education Assistant Scholarship",
       "startDate": "2022-09-01",
-      "endDate": "2022-12-24",
+      "endDate": "2023-12-24",
       "awarder": "Dong-A University",
       "url": "",
-      "summary": "Received scholarship for 3 times"
+      "summary": "Received scholarships for 3 times"
     }
   ],
   "publications": [
@@ -369,6 +389,20 @@
       "issuer": "Korea OpenCourseWare",
       "url": "https://github.com/user-attachments/assets/d8024d63-359a-493b-9cb2-774e36a03f62",
       "icon": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "location": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
     }
   ],
   "references": [
