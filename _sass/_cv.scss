@@ -228,11 +228,7 @@ div.date-column {
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* 수평 중앙 정렬 */
-  justify-content: center;
-  /* 수직 중앙 정렬 */
   text-align: center;
-  /* 텍스트 중앙 정렬 */
   padding: 0 !important;
 }
 
@@ -244,12 +240,13 @@ div.date-column p.location {
   text-align: center;
 }
 
-/* table-cv를 계속 사용하신다면 이 코드가 중앙 정렬을 돕습니다. */
-/* education.liquid에서 table-cv를 제거하는 대신 이 코드를 사용할 수도 있습니다. */
-div.date-column table.table-cv {
-  margin: 0 auto;
-}
 
-div.date-column table.table-cv td {
-  text-align: center !important;
-}
+// /* table-cv를 계속 사용하신다면 이 코드가 중앙 정렬을 돕습니다. */
+// /* education.liquid에서 table-cv를 제거하는 대신 이 코드를 사용할 수도 있습니다. */
+// div.date-column table.table-cv {
+//   margin: 0 auto;
+// }
+
+// div.date-column table.table-cv td {
+//   text-align: center !important;
+// }
