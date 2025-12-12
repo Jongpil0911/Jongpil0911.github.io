@@ -218,35 +218,3 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
-
-/*****************************
- * CUSTOM CV STYLES (ALIGNMENT)
- *****************************/
-
-/* date-column 내부 요소 중앙 정렬 (Flexbox 사용) */
-div.date-column {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  padding: 0 !important;
-}
-
-/* location 클래스에 혹시 모를 마진을 제거하고 중앙 정렬을 따르게 합니다. */
-/* p.location의 기본 스타일을 덮어쓰기 위해 div.date-column 하위에서 재정의 */
-div.date-column p.location {
-  margin: 0 auto !important;
-  padding: 0 !important;
-  text-align: center;
-}
-
-
-// /* table-cv를 계속 사용하신다면 이 코드가 중앙 정렬을 돕습니다. */
-// /* education.liquid에서 table-cv를 제거하는 대신 이 코드를 사용할 수도 있습니다. */
-// div.date-column table.table-cv {
-//   margin: 0 auto;
-// }
-
-// div.date-column table.table-cv td {
-//   text-align: center !important;
-// }
