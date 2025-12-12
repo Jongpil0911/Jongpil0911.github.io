@@ -84,7 +84,7 @@
   ],
   "scholarship": [
     {
-      "title": "Waiver from Tuition Fees",
+      "title": "Waiver from Tuition Fee",
       "startDate": "2024-04-01",
       "endDate": "",
       "awarder": "Kyushu Institute of Technology",
@@ -98,8 +98,7 @@
       "awarder": "Dong-A University",
       "url": "",
       "dates_list": [
-        "2023. 2nd Semester",
-        "2023. 1st Semester",
+        "2023. 1st/2nd Semester",
         "2022. 2nd Semester",
         "2021. 2nd Semester",
         "2018. 2nd Semester"
@@ -292,10 +291,10 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Image processing",
-        "Computer/Machine vision",
-        "Biomedical imaging systems",
-        "Fourier optics",
-        "Geometric optics"
+        "Computer/Machine Vision",
+        "Biomedical Imaging Systems",
+        "Fourier Optics",
+        "Geometric Optics"
       ]
     },
     {
@@ -303,8 +302,9 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Open 3D",
-        "Integral imaging systems",
-        "Digital Holographic Microscopy (DHM)"
+        "Integral Imaging Systems",
+        "Digital Holographic Microscopy (DHM)",
+        "Blender"
       ]
     }
   ],
@@ -418,7 +418,7 @@
   "research": [
     {
       "institution": "Comutational, Holographic and Optical signal processing Lab.<br/>School of ITC, Robotics, and Mechanical Engineering<br/>Hankyong National University",
-      "location": "Anseong, Gyeonggi, Republic of Korea",
+      "location": "Gyeonggi, Republic of Korea",
       "url": "https://3cholab.wordpress.com",
       "area": "Integral imaging systems and Double Random Phase Encryption (DRPE) for image encryption",
       "summary": "Advisor: Prof. Myungjin Cho",
