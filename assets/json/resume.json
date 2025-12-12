@@ -93,7 +93,7 @@
     {
       "title": "Academic Excellence Scholarship",
       "startDate": "2018-09-01",
-      "endDate": "2023-06-20",
+      "endDate": "2023-12-24",
       "awarder": "Dong-A University",
       "url": "",
       "dates_list": [
@@ -137,6 +137,7 @@
       "publisher": "2025 25th International Conference on Control, Automation and Systems (ICCAS)",
       "releaseDate": "2025-11-07",
       "url": "",
+      "location": "Incheon, Republic of Korea",
       "summary": "Night vision, Photon-counting algorthm"
     },
     {
@@ -144,6 +145,7 @@
       "publisher": "2025 18th International Conference on Machine Vision (ICMV)",
       "releaseDate": "2025-10-28",
       "url": "",
+      "location": "Paris, France",
       "summary": "Dehazing algorithm, Adaptive Removal via Mask for Scatter (ARMS)"
     },
     {
@@ -151,12 +153,14 @@
       "publisher": "2025 18th International Conference on Machine Vision (ICMV)",
       "releaseDate": "2025-10-28",
       "url": "",
+      "location": "Paris, France",
       "summary": "Dehazing algorithm, Peplography"
     },
     {
       "name": "Scattering media removal under the harsh conditions using adaptive removal via mask for scatter",
       "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
       "releaseDate": "2025-07-08",
+      "location": "Seoul, Republic of Korea",
       "url": "https://doi.org/10.1109/ITC-CSCC66376.2025.11137702",
       "summary": "Image Encryption, Double Random Phase Encryption (DRPE)"
     },
@@ -164,6 +168,7 @@
       "name": "Advanced double random phase encryption for simultaneous two primary data",
       "publisher": "2025 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC)",
       "releaseDate": "2025-07-08",
+      "location": "Seoul, Republic of Korea",
       "url": "https://doi.org/10.1109/ITC-CSCC66376.2025.11137702",
       "summary": "Image Encryption, Double Random Phase Encryption (DRPE)"
     },
@@ -178,12 +183,14 @@
       "name": "Kalman filtering optimization in Digital Holographic Microscopy (DHM)",
       "publisher": "2024 24th International Conference on Control, Automation and Systems (ICCAS)",
       "releaseDate": "2024-10-30",
+      "location": "Jeju, Republic of Korea",
       "url": "https://doi.org/10.23919/ICCAS63016.2024.10773243",
       "summary": "Digital Holographic Microscopy (DHM), Kalman filter"
     },
     {
       "name": "A Study of Noise Reduction Algorithm Using Statistical Optimization in Digital Holographic Microscopy",
       "publisher": "2024 21st International Joint Conference on Computer Science and Software Engineering (JCSSE)",
+      "location": "Phuket, Thailand",
       "releaseDate": "2024-06-20",
       "url": "https://doi.org/10.1109/JCSSE61278.2024.10613728",
       "summary": "Digital Holographic Microscopy (DHM), Noise reduction"
