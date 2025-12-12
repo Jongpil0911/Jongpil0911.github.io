@@ -553,9 +553,9 @@ third_party_libraries:
     version: "5.4.4"
   plotly:
     integrity:
-      js: "https://cdn.plot.ly/plotly-latest.min.js"
+      js: "sha256-oy6Be7Eh6eiQFs5M7oXuPxxm9qbJXEtTpfSI93dW16Q="
     url:
-      js: "https://cdn.jsdelivr.net/npm/plotly.js@{{version}}/dist/plotly.min.js"
+      js: "https://cdn.plot.ly/plotly-@{{version}}.min.js"
     version: "3.0.1"
   polyfill:
     url:
