@@ -288,7 +288,7 @@
   ],
   "interests": [
     {
-      "name": "Image singal processing",
+      "name": "Image Singal Processing",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Image processing",
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "name": "3D imaging system",
+      "name": "3D Imaging System",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Open 3D",
@@ -417,10 +417,11 @@
   ],
   "research": [
     {
-      "institution": "3D Optical Imaging Systems Lab.<br/>Dept. Creative Informatics<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu Institute of Technology",
-      "location": "Iizuka, Fukuoka, Japan",
+      "institution": "Comutational, Holographic and Optical signal processing Lab.<br/>School of ITC, Robotics, and Mechanical Engineering<br/>Hankyong National University",
+      "location": "Anseong, Gyeonggi, Republic of Korea",
       "url": "https://3cholab.wordpress.com",
-      "area": "Integral imaging systems and Double Random Phase Encryption (DRPE) for image encryption<br/>Advisor: Prof. Myungjin Cho",
+      "area": "Integral imaging systems and Double Random Phase Encryption (DRPE) for image encryption",
+      "summary": "Advisor: Prof. Myungjin Cho",
       "studyType": "Visiting Student",
       "startDate": "2024-01-02",
       "endDate": "2024-02-20"
@@ -429,8 +430,9 @@
       "institution": "3D Optical Imaging Systems Lab.<br/>Dept. Creative Informatics<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu Institute of Technology",
       "location": "Iizuka, Fukuoka, Japan",
       "url": "https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/",
-      "area": "Peplography for Scattering media removal<br/>Advisor: Prof. Min-Chul Lee",
-      "studyType": "Visiting Student",
+      "area": "Peplography for Scattering media removal",
+      "summary": "Advisor: Prof. Min-Chul Lee",
+      "studyType": "Short-term Visiting Program",
       "startDate": "2023-07-04",
       "endDate": "2023-08-24"
     },
@@ -438,8 +440,9 @@
       "institution": "3D Optical Imaging Systems Lab.<br/>Dept. Creative Informatics<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu Institute of Technology",
       "location": "Iizuka, Fukuoka, Japan",
       "url": "https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/",
-      "area": "Digital Holographic Microscopy for Biomedical imaging sysstems<br/>Advisor: Prof. Min-Chul Lee",
-      "studyType": "Visiting Student",
+      "area": "Digital Holographic Microscopy for Biomedical imaging systems",
+      "summary": "Advisor: Prof. Min-Chul Lee",
+      "studyType": "Short-term Visiting Program",
       "startDate": "2023-01-19",
       "endDate": "2023-02-23"
     },
@@ -447,8 +450,9 @@
       "institution": "SoC Design Lab.<br/>Dept. Electronics Engineering<br/>College of Engineering<br/>Dong-A University",
       "location": "Busan, Republic of Korea",
       "url": "https://soc.donga.ac.kr/soc/Main.do",
-      "area": "Image processing and Logic circuit design<br/>Advisor: Prof. Bongsoon Kang",
+      "area": "Image processing and Logic circuit design",
       "studyType": "Undergraduate Researcher",
+      "summary": "Advisor: Prof. Bongsoon Kang",
       "startDate": "2022-09-01",
       "endDate": "2023-12-24"
     }

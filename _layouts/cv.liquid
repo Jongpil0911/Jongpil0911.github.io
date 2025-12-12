@@ -89,7 +89,7 @@ layout: default
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
             {% assign current_section = data[0] %}
-            {% unless current_section == 'awards' or current_section == 'scholarship'%}
+            {% unless current_section == 'awards' or current_section == 'scholarship' or current_section == 'research'%}
               <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             {% endunless %}
             <div>
