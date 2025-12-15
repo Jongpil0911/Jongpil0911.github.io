@@ -1,10 +1,8 @@
 ---
 layout: post
-title: a post with images
-date: 2025-12-15 15:01:00
-description: this is what included images could look like
-tags:
-  - ptychography
-categories: Imaging-Systems
-thumbnail: assets/img/9.jpg
+title: a post with plotly.js
+date: 2025-03-26 14:24:00
+description: this is what included plotly.js code could look like
+tags: ptychography
+categories: 
 ---

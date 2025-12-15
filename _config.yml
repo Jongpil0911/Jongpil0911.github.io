@@ -264,7 +264,7 @@ display_tags: ["scatter", "rbcs", "review", "lecture"] # these tags will be disp
 display_categories: [
     "3DOIS",
     "SoC",
-    "Imaging Systems",
+    "Image-processing",
     "Programming",
     "Personal",
   ] # these categories will be displayed on the front page of your blog
