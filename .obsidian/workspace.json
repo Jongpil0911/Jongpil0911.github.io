@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-12-15-ptychography.md",
+                "file": "_posts/2025-12-15-PaperReview_Fourier_ptychographic_microscopy_using_wavelength_muliplexing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-15-ptychography"
+              "title": "2025-12-15-PaperReview_Fourier_ptychographic_microscopy_using_wavelength_muliplexing"
             }
           }
         ]
@@ -211,8 +211,10 @@
   },
   "active": "2085641fc2a1d5b6",
   "lastOpenFiles": [
-    "_posts/2025-03-26-plotly.md",
     "_posts/2025-12-15-ptychography.md",
+    "_posts/2025-12-15-PaperReview_Fourier_ptychographic_microscopy_using_wavelength_muliplexing.md",
+    "_posts/2025-12-15-ptychography copy.md",
+    "_posts/2025-03-26-plotly.md",
     "_posts/2024-12-04-photo-gallery.md",
     "_posts/2015-05-15-images.md",
     "2025-12-15.md",
