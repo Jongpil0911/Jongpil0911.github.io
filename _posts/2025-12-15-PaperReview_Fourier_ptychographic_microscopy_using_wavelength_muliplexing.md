@@ -4,7 +4,7 @@ title: Review of Fourier ptychographic microscopy using wavelength multiplexing
 date: 2025-12-15 16:00:00
 description:
 tags: ptychography optics microscopy
-categories: [Study ISP]
+categories: Study ISP
 citation: true
 ---
 <!-- # Fourier ptychographic microscopy using wavelength multiplexing -->
