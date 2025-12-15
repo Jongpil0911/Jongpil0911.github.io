@@ -7,9 +7,9 @@ tags: ptychography optics microscopy
 categories: "Study ISP"
 citation: true
 ---
-# Fourier ptychographic microscopy using wavelength multiplexing
-
-[[2025-12-15-ptychography]]
+<!-- # Fourier ptychographic microscopy using wavelength multiplexing -->
+<!-- 
+[[2025-12-15-ptychography]] -->
 
 @article{zhou2017fourier,
   title={Fourier ptychographic microscopy using wavelength multiplexing},
