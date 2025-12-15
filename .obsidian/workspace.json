@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "432fb3660d785044",
+            "id": "2085641fc2a1d5b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2015-03-15-formatting-and-links.md",
+                "file": "_posts/2015-05-15-images.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2015-03-15-formatting-and-links"
+              "title": "2015-05-15-images"
+            }
+          },
+          {
+            "id": "30de575fd7cfd608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-12-15-Ptychography.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-15-Ptychography"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,6 +99,22 @@
     "id": "278d284ed8fb2919",
     "type": "split",
     "children": [
+      {
+        "id": "df52692932fd0e48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "432fb3660d785044",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
       {
         "id": "a91612537f9934e3",
         "type": "tabs",
@@ -160,13 +191,23 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
+          },
+          {
+            "id": "166ecbf2f7cc05ee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 667.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,6 +226,11 @@
   },
   "active": "432fb3660d785044",
   "lastOpenFiles": [
+    "_posts/2025-12-15-Ptychography.md",
+    "_posts/2015-05-15-images.md",
+    "_posts/2023-04-25-audios.md",
+    "Untitled",
+    "_posts/2015-03-15-formatting-and-links.md",
     "assets/plotly/RBC_demo_3D.html",
     "assets/plotly/185650_3D.html",
     "_includes/resume/research.liquid",
