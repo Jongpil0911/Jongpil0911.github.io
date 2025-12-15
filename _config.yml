@@ -262,9 +262,9 @@ jekyll-archives:
 
 display_tags: ["scatter", "rbcs", "review", "lecture"] # these tags will be displayed on the front page of your blog
 display_categories: [
-    "3DOIS",
+    "3D OIS",
     "SoC",
-    "Image-processing",
+    "Imaging Systems",
     "Programming",
     "Personal",
   ] # these categories will be displayed on the front page of your blog
