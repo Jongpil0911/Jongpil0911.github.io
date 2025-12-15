@@ -7,7 +7,5 @@ tags:
   - ptychography
   - optics
   - microscopy
-categories:
-- "Study"
-- "ISP"
+categories: ["Study", "ISP"]
 ---
