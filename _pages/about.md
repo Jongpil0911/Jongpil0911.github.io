@@ -70,6 +70,7 @@ My research related with:
 
 <details markdown="1">
 <summary>Machine Learning / Deep Learning</summary>
+- [Microdegree in Graduate School of Data Science](https://github-production-user-asset-6210df.s3.amazonaws.com/141693086/482134419-b404e1df-2798-48de-8385-c9a6c7389b38.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260130T063944Z&X-Amz-Expires=300&X-Amz-Signature=b3cf96ba17feed5921f530316e55abae6259ef08da32faed0be75ee0e1fd43ee&X-Amz-SignedHeaders=host) at Korea Advanced Institute of Science and Technology (KAIST)
 
 </details>
 
