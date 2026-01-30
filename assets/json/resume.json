@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Jongpil Jeong",
 		"label": "Master student",
-		"image": "",
+		"image": "assets/img/favicon_by_jh.png",
 		"email": "jeongjongpil0911@gmail.com",
 		"phone": "+82 10-8912-3304",
 		"url": "https://scholar.google.com/citations?user=O-3pYeQAAAAJ&hl=en",
@@ -16,9 +16,14 @@
 		},
 		"profiles": [
 			{
-				"network": "",
-				"username": "",
-				"url": ""
+				"network": "LinkedIn",
+				"username": "Jongpil Jeong",
+				"url": "https://www.linkedin.com/in/jongpil-jeong-215894281"
+			},
+			{
+				"network": "GitHub",
+				"username": "Jongpil0911",
+				"url": "https://github.com/Jongpil0911"
 			}
 		]
 	},
@@ -28,7 +33,7 @@
 			"location": "Iizuka, Fukuoka, Japan",
 			"url": "https://www.kyutech.ac.jp",
 			"thesis": "Visibility Restoration under Harsh Conditions using Adaptive Removal via Mask for Scatter (ARMS)",
-			// "area": "Image processing and Computer vision",
+
 			"studyType": "Master of Engineering",
 			"startDate": "2024-04-01",
 			"endDate": "2026-03-25",
@@ -39,7 +44,7 @@
 			"institution": "Dept. of Electronics Engineering<br/>College of Engineering<br/>Dong-A University",
 			"location": "Busan, Republic of Korea",
 			"url": "https://www.donga.ac.kr/kor/Main.do",
-			// "area": "Signal processing and Logic circuit design",
+
 			"studyType": "Bachelor of Engineering",
 			"startDate": "2018-03-01",
 			"endDate": "2024-02-22",
