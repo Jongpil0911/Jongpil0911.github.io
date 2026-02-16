@@ -97,8 +97,7 @@
 			"url": "https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/",
 			"startDate": "2024-04-01",
 			"endDate": "2026-03-25",
-			"summary": "",
-			"highlights": []
+			"summary": "Advisor: Prof. Min-Chul Lee"
 		},
 		{
 			"name": "Kyushu Institute of Technology",
@@ -106,16 +105,15 @@
 			"url": "https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/",
 			"startDate": "2026-04-01",
 			"endDate": "",
-			"summary": "",
-			"highlights": []
+			"summary": "Advisor: Prof. Min-Chul Lee"
 		},
 		{
 			"name": "Republic of Korea Army (ROKA)",
 			"position": "Sergeant, Honorably Discharged",
 			"url": "",
 			"startDate": "2019-04-23",
-			"endDate": "2020-11-12",
-			"summary": "959th Artilley Battalion, 39th Infantry Division",
+			"endDate": "2020-11-22",
+			"summary": "959th Artilley Battalion, 39th Infantry Division, Republic of Korea Army",
 			"highlights": []
 		}
 	],
@@ -135,7 +133,7 @@
 			"startDate": "2024-04-01",
 			"endDate": "2026-03-25",
 			"awarder": "Kyushu Institute of Technology",
-			"url": "",
+			"url": "https://www.kyutech.ac.jp/english/",
 			"summary": "Waived tuition fee whole year"
 		},
 		{
@@ -143,7 +141,7 @@
 			"startDate": "2018-09-01",
 			"endDate": "2023-12-24",
 			"awarder": "Dong-A University",
-			"url": "",
+			"url": "https://donga.ac.kr/english/Main.do",
 			"dates_list": [
 				"2023. 1st/2nd Semester",
 				"2022. 2nd Semester",
@@ -157,7 +155,7 @@
 			"startDate": "2022-09-01",
 			"endDate": "2022-12-24",
 			"awarder": "Dong-A University",
-			"url": "",
+			"url": "https://soc.donga.ac.kr/soc/Main.do",
 			"summary": "Advisor: Prof. Bongsoon Kang"
 		},
 		{
@@ -165,8 +163,8 @@
 			"startDate": "2022-09-01",
 			"endDate": "2023-12-24",
 			"awarder": "Dong-A University",
-			"url": "",
-			"summary": ""
+			"url": "https://soc.donga.ac.kr/soc/Main.do",
+			"summary": "Advisor: Prof. Bongsoon Kang"
 		}
 	],
 	"publications": [
