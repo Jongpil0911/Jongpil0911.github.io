@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Digital Holographic Microscopy
-description: DHM
+title: Adaptive Removal via Mask for Scatter (ARMS)
+description: Novel scattering media removal method
 img:
 importance: 3
 category:

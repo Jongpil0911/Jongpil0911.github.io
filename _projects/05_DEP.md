@@ -3,7 +3,7 @@ layout: page
 title: Digital Experiment Project
 description: Embedded Systems
 img:
-importance: 1
+importance: 2
 category:
   - Undergraduate
 related_publications: true

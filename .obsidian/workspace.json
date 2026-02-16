@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1362.5
+    "width": 796.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,11 +220,11 @@
     "_projects/04_SoC.md",
     "_projects/05_DEP.md",
     "_projects/03_ARMS.md",
+    "_projects/02_DHM.md",
+    "_projects/01_egg_project.md",
     "_posts/2023-07-04-jupyter-notebook.md",
     "_posts/2023-07-12-post-bibliography.md",
     "_posts/2023-07-04-jupyter-notebook 2.md",
-    "_projects/02_DHM.md",
-    "_projects/01_egg_project.md",
     "_posts/2025-12-15-Ptychography.md",
     "_posts/2025-12-15-PaperReview_Fourier_ptychographic_microscopy_using_wavelength_muliplexing.md",
     "_posts/2015-03-15-formatting-and-links.md",
