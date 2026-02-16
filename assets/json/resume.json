@@ -255,31 +255,42 @@
 		{
 			"name": "画像処理装置、画像処理方法および画像処理プログラム",
 			"inventor": "Min-Chul Lee, Jongpil Jeong",
-			"publisher": "Kyushu Institute of Technology (Application No.: PCT/JP2025/037681)",
+			"partent": "Kyushu Institute of Technology",
+			"publisher": "International Patent Application (PCT)",
+			"num": "Application No.: PCT/JP2025/037681",
 			"releaseDate": "2025-10-27",
 			"url": "N/A",
-			"summary": "International Patent Application (PCT)"
+			"summary": ""
 		},
 		{
 			"name": "雌雄判定システム及び雌雄判定方法",
-			"publisher": "Kyushu Institute of Technology (Application No.: 特願2025-154965)",
+			"inventor": "Masaharu Kamide, Osamu Shiba, Keiko Ozawa, Takeshi Nakaya, Min-Chul Lee, Jongpil Jeong, Takahiro Tagami",
+			"partent": "HITACHI Solutions Create, National Agriculture and Food Research Organization, Kyushu Institute of Technology",
+			"num": "Application No.: 特願2025-154965",
+			"publisher": "Japanese Patent Application",
 			"releaseDate": "2025-09-18",
 			"url": "https://jongpil0911.github.io/projects/01_egg_project/",
-			"summary": "Japanese Patent Application"
+			"summary": ""
 		},
 		{
 			"name": "画像処理装置、画像処理方法および画像処理プログラム",
-			"publisher": "Kyushu Institute of Technology (Application No.: 特願2025-097331)",
+			"inventor": "Min-Chul Lee, Jongpil Jeong",
+			"partent": "Kyushu Institute of Technology",
+			"num":"Application No.: 特願2025-097331",
+			"publisher": "Japanese Patent Application",
 			"releaseDate": "2025-06-10",
 			"url": "N/A",
-			"summary": "Japanese Patent Application"
+			"summary": ""
 		},
 		{
 			"name": "画像処理装置、画像処理方法および画像処理プログラム",
-			"publisher": "Kyushu Institute of Technology (Application No.: 特願2024-214715)",
+			"inventor": "Min-Chul Lee, Jongpil Jeong",
+			"partent": "Kyushu Institute of Technology",
+			"num": "Application No.: 特願2024-214715",
+			"publisher": "Japanese Patent Application",
 			"releaseDate": "2024-12-09",
 			"url": "N/A",
-			"summary": "Japanese Patent Application"
+			"summary": ""
 		}
 	],
 	"skills": [
