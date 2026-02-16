@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/02_DHM.md",
+                "file": "_projects/05_DEP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_DHM"
+              "title": "05_DEP"
             }
           }
         ]
@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 625.5
+    "width": 1362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,9 +217,13 @@
   },
   "active": "98c524eccc86c8bc",
   "lastOpenFiles": [
-    "_projects/03_ARMS.md",
-    "_projects/02_DHM.md",
     "_projects/04_SoC.md",
+    "_projects/05_DEP.md",
+    "_projects/03_ARMS.md",
+    "_posts/2023-07-04-jupyter-notebook.md",
+    "_posts/2023-07-12-post-bibliography.md",
+    "_posts/2023-07-04-jupyter-notebook 2.md",
+    "_projects/02_DHM.md",
     "_projects/01_egg_project.md",
     "_posts/2025-12-15-Ptychography.md",
     "_posts/2025-12-15-PaperReview_Fourier_ptychographic_microscopy_using_wavelength_muliplexing.md",
