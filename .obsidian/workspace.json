@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-12-15-Ptychography.md",
+                "file": "_projects/03_ARMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-15-Ptychography"
+              "title": "03_ARMS"
             }
           }
         ]
@@ -87,6 +87,7 @@
       {
         "id": "df52692932fd0e48",
         "type": "tabs",
+        "dimension": 57.1964956195244,
         "children": [
           {
             "id": "432fb3660d785044",
@@ -115,6 +116,7 @@
       {
         "id": "a91612537f9934e3",
         "type": "tabs",
+        "dimension": 42.803504380475594,
         "children": [
           {
             "id": "fa2507ed1a77ab47",
@@ -196,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 868.5
+    "width": 625.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,12 +215,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98c524eccc86c8bc",
+  "active": "432fb3660d785044",
   "lastOpenFiles": [
+    "_projects/03_ARMS.md",
+    "_projects/02_DHM.md",
+    "_projects/01_egg_project.md",
+    "_posts/2025-12-15-Ptychography.md",
     "_posts/2025-12-15-PaperReview_Fourier_ptychographic_microscopy_using_wavelength_muliplexing.md",
     "_posts/2015-03-15-formatting-and-links.md",
     "_site/assets/img/11.jpg",
-    "_posts/2025-12-15-Ptychography.md",
     "_posts/2025-12-15-ptychography.md",
     "_posts/2025-12-15-ptychography copy.md",
     "_posts/2025-03-26-plotly.md",

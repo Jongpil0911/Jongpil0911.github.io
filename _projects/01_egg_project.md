@@ -1,11 +1,16 @@
 ---
 layout: page
 title: Introduction to the In-Ovo Sexing Project
-description: Industrical Academic Collaboration Project
+description: Industrial Academic Collaboration Project
 img: assets/img/HSC/NHK.jpg
 importance: 1
-category: [Academic-Industrial, Graduate]
+category:
+  - Academic-Industrial
+  - Graduate
 related_publications: true
+tags:
+  - "#HSC"
+  - "#NARO"
 ---
 
 ### Related Organization:
@@ -14,11 +19,11 @@ related_publications: true
 - [National Agriculture and Food Research Organization](https://www.naro.go.jp/english/index.html) (NARO)
 - [Kyushu Institute of Technology](https://www.kyutech.ac.jp/english/) (Kyutech)
 
-### Related Articls and Patents:
+### Related Articles and Patents:
 
 - AI Identifies Chicken Embryo Gender with 97% Accuracy to Cut Costs: Hitachi Affiliate and Partners Developed New Technology [Link](https://news.web.nhk/newsweb/na/na-k10015034661000) [pdf](https://www.kyutech.ac.jp/archives/025/202601/press260122.pdf)
 - Joint Development of Technology by HSC, NARO, and Kyushu Institute of Technology (Kyutech) for Nondestructive Pre-hatching Sex Determination for Eggs on the 3 Day of Incubation [Link](https://www.nikkei.com/article/DGXZQOSG2245J0S6A120C2000000/)
-- 雌雄判定システム及び雌雄判定方法 (Sex Indentification service provision system and sex identification service provision method)<br/>Japan Patent Application No. 2025-154965
+- 雌雄判定システム及び雌雄判定方法 (Sex Identification service provision system and sex identification service provision method)<br/>Japan Patent Application No. 2025-154965
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
