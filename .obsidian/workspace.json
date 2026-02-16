@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/03_ARMS.md",
+                "file": "_projects/02_DHM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_ARMS"
+              "title": "02_DHM"
             }
           }
         ]
@@ -215,10 +215,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "432fb3660d785044",
+  "active": "98c524eccc86c8bc",
   "lastOpenFiles": [
     "_projects/03_ARMS.md",
     "_projects/02_DHM.md",
+    "_projects/04_SoC.md",
     "_projects/01_egg_project.md",
     "_posts/2025-12-15-Ptychography.md",
     "_posts/2025-12-15-PaperReview_Fourier_ptychographic_microscopy_using_wavelength_muliplexing.md",
