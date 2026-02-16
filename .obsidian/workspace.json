@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c41be732e05cdb94",
+        "id": "d4c7e0315417241d",
         "type": "tabs",
         "children": [
           {
-            "id": "2085641fc2a1d5b6",
+            "id": "98c524eccc86c8bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-12-15-Ptychography.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-12-15-Ptychography"
+              "title": "New tab"
             }
           }
         ]
@@ -91,11 +87,23 @@
           {
             "id": "432fb3660d785044",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "dc1660c95b7b8c5a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -168,31 +176,23 @@
             }
           },
           {
-            "id": "dc1660c95b7b8c5a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
             "id": "166ecbf2f7cc05ee",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
+              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 667.5
+    "width": 868.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,6 +211,7 @@
   },
   "active": "432fb3660d785044",
   "lastOpenFiles": [
+    "_site/assets/img/11.jpg",
     "_posts/2025-12-15-Ptychography.md",
     "_posts/2025-12-15-PaperReview_Fourier_ptychographic_microscopy_using_wavelength_muliplexing.md",
     "_posts/2025-12-15-ptychography.md",
