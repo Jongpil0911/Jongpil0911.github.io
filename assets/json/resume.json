@@ -101,6 +101,15 @@
 			"highlights": []
 		},
 		{
+			"name": "Kyushu Institute of Technology",
+			"position": "Researcher",
+			"url": "https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/",
+			"startDate": "2026-04-01",
+			"endDate": "",
+			"summary": "",
+			"highlights": []
+		},
+		{
 			"name": "Republic of Korea Army (ROKA)",
 			"position": "Sergeant, Honorably Discharged",
 			"url": "",
@@ -161,6 +170,13 @@
 		}
 	],
 	"publications": [
+		{
+			"name": "Visibility Enhancement in Fire and Rescue Operations: ARMS Extension with Gaussian Estimation",
+			"publisher": "Electronics",
+			"releaseDate": "2026-02-03",
+			"url": "https://doi.org/10.3390/electronics15030667",
+			"summary": "Fire and Disaster Management Agency of Japan, Scattering media removal, Spatial Overlapping Matrix, YOLO"
+		},
 		{
 			"name": "Scattering Medium Removal Using Adaptive Masks for Scatter in the Spatial Frequency Domain",
 			"publisher": "IEEE Access",
