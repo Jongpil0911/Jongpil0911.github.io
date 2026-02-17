@@ -3,5 +3,7 @@
   "attachmentFolderPath": "assets/img",
   "useMarkdownLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "_drafts"
+  "newFileFolderPath": "_drafts",
+  "strictLineBreaks": false,
+  "showLineNumber": true
 }
