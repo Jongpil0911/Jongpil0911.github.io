@@ -9,4 +9,5 @@ category:
 related_publications: true
 tags:
   - "#ARMS"
+  - "#KIT"
 ---

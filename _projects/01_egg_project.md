@@ -11,6 +11,7 @@ related_publications: true
 tags:
   - "#HSC"
   - "#NARO"
+  - "#KIT"
 ---
 
 ### Related Organization:
