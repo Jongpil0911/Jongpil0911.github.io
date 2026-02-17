@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Digital Experiment Project
-description: Embedded Systems
+title: Digital Signal Processing & Digital System Lab.
+description: Embedded Systems with ATmega128
 img:
 importance: 2
 category:

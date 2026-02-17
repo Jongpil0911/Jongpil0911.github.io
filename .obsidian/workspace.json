@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 796.5
+    "width": 442.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +215,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "432fb3660d785044",
+  "active": "98c524eccc86c8bc",
   "lastOpenFiles": [
+    "_projects/06_Capstone.md",
     "_projects/05_DEP.md",
     "_projects/04_SoC.md",
     "_projects/03_ARMS.md",

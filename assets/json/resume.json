@@ -60,7 +60,23 @@
 	],
 	"experience": [
 		{
-			"name": "Comutational, Holographic and Optical signal processing Lab.<br/>School of ITC, Robotics, and Mechanical Engineering<br/>Hankyong National University",
+			"name": "Kyushu Institute of Technology",
+			"position": "Researcher",
+			"url": "https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/",
+			"startDate": "2026-03-01",
+			"endDate": "",
+			"summary": "Advisor: Prof. Min-Chul Lee"
+		},
+		{
+			"name": "Kyushu Institute of Technology",
+			"position": "Graduate Research Assistant",
+			"url": "https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/",
+			"startDate": "2024-04-01",
+			"endDate": "2026-03-25",
+			"summary": "Advisor: Prof. Min-Chul Lee"
+		},
+		{
+			"name": "Comutational, Holographic and Optical signal processing Lab.<br/>School of ITC, Robotics, and Mechanical Engineering, IITC.<br/>Hankyong National University",
 			"position": "Visiting Student",
 			"url": "https://3cholab.wordpress.com",
 			"startDate": "2024-01-02",
@@ -68,7 +84,7 @@
 			"summary": "Advisor: Prof. Myungjin Cho"
 		},
 		{
-			"name": "3D Optical Imaging Systems Lab.<br/>Dept. Creative Informatics<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu Institute of Technology",
+			"name": "3D Optical Imaging Systems Lab.<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu Institute of Technology",
 			"position": "Short-term Visiting Program",
 			"url": "https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/",
 			"startDate": "2023-07-04",
@@ -76,7 +92,7 @@
 			"summary": "Advisor: Prof. Min-Chul Lee"
 		},
 		{
-			"name": "3D Optical Imaging Systems Lab.<br/>Dept. Creative Informatics<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu Institute of Technology",
+			"name": "3D Optical Imaging Systems Lab.<br/>Graduate School of Computer Science and Systems Engineering<br/>Kyushu Institute of Technology",
 			"position": "Short-term Visiting Program",
 			"url": "https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/",
 			"startDate": "2023-01-19",
@@ -84,28 +100,12 @@
 			"summary": "Advisor: Prof. Min-Chul Lee"
 		},
 		{
-			"name": "SoC Design Lab.<br/>Dept. Electronics Engineering<br/>College of Engineering<br/>Dong-A University",
+			"name": "SoC Design Lab.<br/>Dept. of Electronics Engineering<br/>College of Engineering<br/>Dong-A University",
 			"position": "Undergraduate Researcher",
 			"url": "https://soc.donga.ac.kr/soc/Main.do",
 			"startDate": "2022-09-01",
 			"endDate": "2023-12-24",
 			"summary": "Advisor: Prof. Bongsoon Kang"
-		},
-		{
-			"name": "Kyushu Institute of Technology",
-			"position": "Research Assistant (RA)",
-			"url": "https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/",
-			"startDate": "2024-04-01",
-			"endDate": "2026-03-25",
-			"summary": "Advisor: Prof. Min-Chul Lee"
-		},
-		{
-			"name": "Kyushu Institute of Technology",
-			"position": "Researcher",
-			"url": "https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/",
-			"startDate": "2026-04-01",
-			"endDate": "",
-			"summary": "Advisor: Prof. Min-Chul Lee"
 		},
 		{
 			"name": "Republic of Korea Army (ROKA)",
