@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_projects/01_hitachi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01_hitachi"
             }
           }
         ]
@@ -227,6 +227,7 @@
   },
   "active": "b7df27855cc32006",
   "lastOpenFiles": [
+    "README.md",
     "INSTALL.md",
     "_projects/01_hitachi.md",
     "_drafts/[Trends.md",

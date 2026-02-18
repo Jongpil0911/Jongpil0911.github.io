@@ -15,7 +15,7 @@ tags:
 ---
 # Introduction: Ethical In-Ovo Sexing
 In the modern poultry industry, the traditional practice of culling day-old male chicks has become a major ethical and environmental burden.
-European countries, such as Germany, have already begun prohibition this practice, 
+European countries, such as Germany, have already begun prohibiting this practice, pushing the industry toward **in-ovo sexing**—determining the sex before hatching.
 
 
 
