@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/01_hitachi.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01_hitachi"
+              "title": "README"
             }
           }
         ]
@@ -227,9 +227,12 @@
   },
   "active": "b7df27855cc32006",
   "lastOpenFiles": [
+    "INSTALL.md",
+    "_projects/01_hitachi.md",
+    "_drafts/[Trends.md",
+    "_drafts/Trends.md",
     "_projects/02_DHM.md",
     "_projects/03_ARMS.md",
-    "_projects/01_hitachi.md",
     "_projects/05_DSP.md",
     "_projects/04_SoC.md",
     "_projects/06_Capstone.md",
