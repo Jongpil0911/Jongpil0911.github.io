@@ -40,10 +40,14 @@ The system utilizes advanced computer vision and deep learning to analyze the in
 - AI Identifies Chicken Embryo Gender with 97% Accuracy to Cut Costs: Hitachi Affiliate and Partners Developed New Technology [Link](https://news.web.nhk/newsweb/na/na-k10015034661000) [pdf](https://www.kyutech.ac.jp/archives/025/202601/press260122.pdf)
 - Joint Development of Technology by HSC, NARO, and Kyushu Institute of Technology (Kyutech) for Nondestructive Pre-hatching Sex Determination for Eggs on the 3 Day of Incubation [Link](https://www.nikkei.com/article/DGXZQOSG2245J0S6A120C2000000/)
 - 雌雄判定システム及び雌雄判定方法 (Sex Identification service provision system and sex identification service provision method)<br/>Japan Patent Application No. 2025-154965
+
 ---
+
 # Disclaimer
 This post is based on publicly available information reported by [NHK](https://news.web.nhk/newsweb/na/na-k10015034661000) and [Nikkei](https://www.nikkei.com/article/DGXZQOSG2245J0S6A120C2000000/), and academic trends cited from [Corion et al. (2023)](https://link.springer.com/article/10.1186/s40104-023-00898-1).
 Specific proprietary model architectures and internal datasets are omitted to comply with the **N**on-**D**isclosure **A**greement (NDA).
+
+
 %% 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
