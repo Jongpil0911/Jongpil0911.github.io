@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/01_hitachi.md",
+                "file": "_projects/01_IAP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01_hitachi"
+              "title": "01_IAP"
             }
           }
         ]
@@ -225,11 +225,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7df27855cc32006",
+  "active": "166ecbf2f7cc05ee",
   "lastOpenFiles": [
     "README.md",
     "INSTALL.md",
-    "_projects/01_hitachi.md",
+    "_projects/01_IAP.md",
     "_drafts/[Trends.md",
     "_drafts/Trends.md",
     "_projects/02_DHM.md",

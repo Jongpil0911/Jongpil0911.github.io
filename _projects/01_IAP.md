@@ -17,7 +17,7 @@ tags:
 In the modern poultry industry, the traditional practice of culling day-old male chicks has become a major ethical and environmental burden.
 European countries, such as Germany, have already begun prohibiting this practice, pushing the industry toward **in-ovo sexing**—determining the sex before hatching.
 
-
+As highlighted in **[NHK](https://news.web.nhk/newsweb/na/na-k10015034661000)** and **[Nikkei](https://www.nikkei.com/article/DGXZQOSG2245J0S6A120C2000000/)** articles, identifying the sex at the egg stage not only improves animal welfare by preventing pain perception (which starts after 7-12) but also optimizes production by reducing the time of stay in the incubator.
 
 
 
