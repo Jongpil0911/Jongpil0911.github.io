@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/02_DHM.md",
+                "file": "_projects/01_hitachi.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "02_DHM"
+              "title": "01_hitachi"
             }
           }
         ]
@@ -87,7 +97,7 @@
       {
         "id": "df52692932fd0e48",
         "type": "tabs",
-        "dimension": 57.1964956195244,
+        "dimension": 57.19649561952439,
         "children": [
           {
             "id": "432fb3660d785044",
@@ -116,7 +126,7 @@
       {
         "id": "a91612537f9934e3",
         "type": "tabs",
-        "dimension": 42.803504380475594,
+        "dimension": 42.8035043804756,
         "children": [
           {
             "id": "fa2507ed1a77ab47",
@@ -217,9 +227,9 @@
   },
   "active": "b7df27855cc32006",
   "lastOpenFiles": [
-    "_projects/03_ARMS.md",
     "_projects/02_DHM.md",
-    "_projects/01_egg_project.md",
+    "_projects/03_ARMS.md",
+    "_projects/01_hitachi.md",
     "_projects/05_DSP.md",
     "_projects/04_SoC.md",
     "_projects/06_Capstone.md",

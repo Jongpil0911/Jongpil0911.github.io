@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Introduction to the In-Ovo Sexing Project
-description: Industrial Academic Collaboration Project
+title: "The future of poultry:"
+description: Introduction to the In-Ovo Sexing Project
 img: assets/img/HSC/NHK.jpg
 importance: 1
 category:
@@ -13,6 +13,18 @@ tags:
   - "#NARO"
   - "#KIT"
 ---
+# Introduction
+In the modern poultry industry, the culling of male chickens—who cannot lay eggs—has been a significant ethical and economic challenge.
+Traditionally, sexing was a labor-intensive process performed manually after hatching.
+To address these issues, our project focuses on developing a non-destructive, AI-driven system that determines the sex of an embryo at an early stage of incubation.
+
+# The Core Technology: Non-destructive Optical Analysis
+The system utilizes advanced computer vision and deep learning to analyze the internal state of the egg without causing any damage.
+- **Early Detection**: The analysis is performed on the 3rd day of incubation, significantly reducing resource waste.
+- **High Precision**: The AI model achieves a discrimination accuracy of up to **97%**
+- **Zero Damage**: Using
+
+
 
 ### Related Organization:
 
@@ -25,7 +37,7 @@ tags:
 - AI Identifies Chicken Embryo Gender with 97% Accuracy to Cut Costs: Hitachi Affiliate and Partners Developed New Technology [Link](https://news.web.nhk/newsweb/na/na-k10015034661000) [pdf](https://www.kyutech.ac.jp/archives/025/202601/press260122.pdf)
 - Joint Development of Technology by HSC, NARO, and Kyushu Institute of Technology (Kyutech) for Nondestructive Pre-hatching Sex Determination for Eggs on the 3 Day of Incubation [Link](https://www.nikkei.com/article/DGXZQOSG2245J0S6A120C2000000/)
 - 雌雄判定システム及び雌雄判定方法 (Sex Identification service provision system and sex identification service provision method)<br/>Japan Patent Application No. 2025-154965
-
+%% 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -99,3 +111,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+ %%
