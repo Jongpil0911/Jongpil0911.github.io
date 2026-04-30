@@ -1,9 +1,9 @@
 {
 	"basics": {
 		"name": "Jongpil Jeong",
-		"label": "Researcher",
+		"label": "Research Assistant",
 		"image": "assets/img/favicon_by_jh.png",
-		"email": "jeongjongpil0911@gmail.com",
+		"email": "jongpil.jeong@ieee.org",
 		"phone": "+82 10-8912-3304",
 		"url": "https://scholar.google.com/citations?user=O-3pYeQAAAAJ&hl=en",
 		"summary": "",
@@ -61,7 +61,7 @@
 	"experience": [
 		{
 			"name": "Kyushu Institute of Technology",
-			"position": "Researcher",
+			"position": "Research Assistant",
 			"url": "https://leelab.csn.kyutech.ac.jp/index.php/en/home-en/",
 			"startDate": "2026-03-01",
 			"endDate": "",
